@@ -11,7 +11,7 @@ title: Protocol Drosera Spatulata (Clonare Vegetativă)
 | **Dificultate** | Medie (din cauza sterilizării explantului) |
 | **Explant** | Vârfuri de creștere (Shoot tips) sau Frunze |
 | **Mediu** | **MS 100% (Full Strength)** |
-| **Hormoni** | **0 (ZERO)** - Hormonii inhibă creșterea! |
+| **Hormoni** | **0 (ZERO)** - Hormonii inhibă creșterea! | - probabil că este impropriu spus, dar în studiile de mai sus, mediile cu hormoni au avut rezultate mai slabe decât cele fără hormoni. Îmcercați ambele variante, cu cât am mai multe date pe care să-mi bazez informațiile prezentate, cu atât mai bine :)
 | **pH** | 5.7 (Standard) sau 4.0 (Experimental - creștere maximă) |
 | **Multiplicare** | 43 plante/explant în 6 săptămâni | - **atâtea au ieșit într-unul din studiile de mai sus**
 
