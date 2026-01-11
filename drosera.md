@@ -43,7 +43,6 @@ Dacă clonezi o plantă adultă (nu din semințe), riscul de contaminare e mare.
 1.  **Spălare preliminară:** Apă de la robinet + săpun.
 2.  **Imersie în Etanol 70%:** 5 secunde (Doar un "dip" rapid!).
 3.  **Sterilizare Principală:** Soluție de Hipoclorit de Sodiu (NaOCl) **1%**. Eu zic că merge bine și cu solutie diluată de clor totuși: 1/9 clor / apă *distilată* + o picătură de săpun (nu pentru curățire, ci pentru reducerea tensiunii de suprafață a soluției).
-    * *Cum faci asta acasă:* Clorul comercial (Ace/Domestos) are cam 5%. Fă o soluție din **1 parte Clor + 4 părți Apă**.
     * **Timp:** 5 până la 7 minute. (La 10 minute deja țesutul acesta moare).
 4.  **Clătire:** 3 băi succesive în apă distilată sterilă (3 minute fiecare).
 
