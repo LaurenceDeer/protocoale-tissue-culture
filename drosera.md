@@ -33,7 +33,7 @@ Spre deosebire de miturile de pe internet (care recomandă mediu diluat), studii
 ---
 
 ## 🧼 2. Sterilizarea Explantului (Partea Grea)
-Dacă clonezi o plantă adultă (nu din semințe), riscul de contaminare e mare. Perica (1996) a avut succes mic (20%), deci lucrează cu multe borcane. În același timp, cu o metodă bună de sterilizare și control bun al aerului, nu ar trebui să existe foarte multe probleme.
+Dacă clonezi o plantă adultă (nu din semințe), riscul de contaminare e mare. Perica (1996) a avut succes mic (20%), deci lucrează cu multe borcane. În același timp, cu o metodă bună de sterilizare și control bun al sterilității aerului, nu ar trebui să existe foarte multe probleme.
 
 **Material Biologic:**
 * Vârfuri de creștere - shoot tips - (rozeta centrală) de 4-6mm.
