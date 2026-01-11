@@ -1,5 +1,17 @@
 title: Open Tissue Culture RO
-description: Protocoale de micropropagare low-cost pentru România.
-theme: jekyll-theme-minimal
+description: Cercetare și protocoale de micropropagare (In Vitro) adaptate pentru buget redus în România.
+theme: jekyll-theme-midnight
+
+# Setări vizuale
+show_downloads: false
 google_analytics: 
-show_downloads: true
+
+# Plugin-uri
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Setări Markdown 
+markdown: kramdown
+kramdown:
+  input: GFM
