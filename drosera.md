@@ -3,7 +3,7 @@ layout: default
 title: Protocol Drosera Spatulata (Clonare Vegetativă)
 ---
 
-# 🧬 Protocol Micropropagare: Drosera Spatulata
+# 🧬 Protocol Micropropagare: _Drosera Spatulata_
 **Bazat pe:** Perica & Berljak (1996) și Miclea & Zăhan (2017 - USAMV Cluj) - **avem și românași de-ai noștrii care lucrează la din-astea :D**.
 
 | Parametru | Valoare Optimă (Conform Studii) |
