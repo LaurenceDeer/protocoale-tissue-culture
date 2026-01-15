@@ -6,9 +6,9 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
 # Modulul 1: Chestiile de bază - pentru cine incepe astăzi.
 Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
 
-* [Preparare Medii](./ghiduri/PreparareMedii.md)
-* [SAB vs LFH](./ghiduri/SABvsLFH.md)
-* [Sterilizare](./ghiduri/Sterilizare.md)
+* [Preparare Medii](./PreparareMedii.md)
+* [SAB vs LFH](./SABvsLFH.md)
+* [Sterilizare](./Sterilizare.md)
 
 ---
 
