@@ -51,7 +51,7 @@ Practic, lucrezi într-un râu invizibil de aer steril care spală constant zona
 
 ### ✅ Avantaje
 * **Libertate:** Poți sa te miști mai rapid decât un melc.
-* **Siguranță:** Chiar dacă bagi mâna murdară, fluxul de aer "spală" contaminarea (teoretic). Oricum urmăm protocolul și ne sterilizăm mâainile cu alcool isopropil 70%, NU??? (≖_≖ )
+* **Siguranță:** Chiar dacă bagi mâna murdară, fluxul de aer "spală" contaminarea (teoretic). Oricum urmăm protocolul și ne sterilizăm mâinile cu alcool isopropil 70%, NU??? (≖_≖ )
 * **Volum:** Poți procesa sute de borcane pe oră. (Glumesc, nu cred ca sunteți așa rapizi, dar vă provoc)
 
 ### ❌ Dezavantaje
