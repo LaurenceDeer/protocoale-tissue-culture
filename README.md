@@ -10,7 +10,7 @@ Acesta este un proiect de cercetare și adaptare a protocoalelor de micropropaga
 
 ## Redirecționări (Work in Progress)
 * [Protocoale](./protocoale/Protocoale.md)
-* [Ghiduri](./ghiduri/Ghiduri.md)
+* [Ghiduri](./Ghiduri.md)
 * [Surse](./surse/Surse.md)
 
 ---
