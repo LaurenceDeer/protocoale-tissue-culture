@@ -8,9 +8,9 @@ Acesta este un proiect de cercetare și adaptare a protocoalelor de micropropaga
 2. Protocoale simplificate pentru plante (încep cu *Drosera*).
 3. Echipament Low-Cost vs High-End. (dar știu ca veniți aici pentru low cost, de-aia fac și eu ce fac până la urmă)
 
-## Protocoale (Work in Progress)
-* [Protocol Drosera Spatulata](./drosera.md)
-* [Sterilizarea Explantelor](./sterilizare.md)
-
+## Redirecționări (Work in Progress)
+* [Protocoale](./protocoale.md)
+* [Ghiduri](./Ghiduri.md)
+* [Surse](./surse.md)
 ---
 *Status: Pre-Alpha / Research Phase*
