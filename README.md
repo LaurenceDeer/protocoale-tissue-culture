@@ -9,8 +9,8 @@ Acesta este un proiect de cercetare și adaptare a protocoalelor de micropropaga
 3. Echipament Low-Cost vs High-End. (dar știu ca veniți aici pentru low cost, de-aia fac și eu ce fac până la urmă)
 
 ## Redirecționări (Work in Progress)
-* [Protocoale](./protocoale.md)
+* [Protocoale](./Protocoale.md)
 * [Ghiduri](./Ghiduri.md)
-* [Surse](./surse.md)
+* [Surse](./Surse.md)
 ---
 *Status: Pre-Alpha / Research Phase*
