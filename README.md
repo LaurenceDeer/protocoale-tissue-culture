@@ -12,5 +12,7 @@ Acesta este un proiect de cercetare și adaptare a protocoalelor de micropropaga
 * [Protocoale](./Protocoale.md)
 * [Ghiduri](./Ghiduri.md)
 * [Surse](./Surse.md)
+
 ---
+
 *Status: Pre-Alpha / Research Phase*
