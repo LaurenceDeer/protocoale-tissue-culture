@@ -26,7 +26,7 @@ Astea vor face diferența dintre amatori și pro-playeri
 * [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.md)
 * [Reducerea Contaminării](./ghiduri/Contaminarea.md)
 * [Selecția Explantelor](./ghiduri/Selecție-Explante.md)
-* [Terminologie-Dicționar](./ghiduri/Dicționar.md)
+* [Terminologie-Dicționar](/ghiduri/Dicționar.md)
 
 ---
 
