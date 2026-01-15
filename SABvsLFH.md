@@ -64,7 +64,7 @@ Practic, lucrezi într-un râu invizibil de aer steril care spală constant zona
 ## 🧠 Verdictul lui Laur
 Dacă ești student sau la început de drum: **FĂ-ȚI UN SAB.**
 Nu ai niciun motiv să investești mii de lei într-o hotă dacă nu produci plante pentru vânzare în masă.
-Un SAB bine construit și o tehnică bună de lucru (mișcări lente, flambare corectă) te pot duce la **0% contaminare**.
+Un SAB bine construit și o tehnică bună de lucru (mișcări lente și în mare parte orizontale) te pot duce la **0% contaminare**.
 
 > **Sfat:** Investește banii economisiți în hormoni de calitate sau un pH-metru bun, nu în ventilatoare.
 
