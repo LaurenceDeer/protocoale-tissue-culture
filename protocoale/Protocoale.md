@@ -1,2 +1,2 @@
 ## Lista de protocoale plante (Work in Progress)
-* [Drosera](./protocoale/drosera.md)
+* [Drosera](/protocoale/drosera.md)
