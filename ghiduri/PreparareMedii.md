@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Prepararea Mediilor - Bucătăria Chimică 
+title: Prepararea Mediilor - Bucătăria Chimică
 ---
 
 # 🧪 Prepararea Mediilor de Cultură
 **Nu-i pe cât de complicat sună, jur...**
 
-Dacă explantul este "hardware-ul", mediul de cultură este "sistemul de operare" și "curentul electric" la un loc. Fără un mediu corect, planta fie moare de foame, fie se îneacă, fie arde chimic.
+Dacă explantul este "hardware-ul", mediul de cultură este "sistemul de operare" și "curentul electric" la un loc. Fără un mediu corect, planta fie moare de foame, fie se îneacă, fie suferă arsuri chimice.
 
 Nu te speria. În esență, gătim o gelatină fortificată cu toți nutrienții necesari dezvoltării unei plante sănătoase.
 
@@ -25,11 +25,11 @@ Conține:
 >
 > 🛒 **De unde luăm:** Recomandarea standard (calitate/preț) este **Plant Cell Technology**.
 > * [Link către MS Medium cu Vitamine (PCT)](https://plantcelltechnology.com/products/murashige-skoog-medium) - *Verifică dacă livrează ok în RO sau caută echivalent pe site-uri UE gen Duchefa pentru a evita vama.*
-> * Recomand să iei mai multe lucruri odată de pe site, ca să nu plătești de mai multe ori transportul, ci doar odată. De aici luam și hormoni btw :)
+> * Recomand să iei mai multe lucruri odată de pe site, ca să nu plătești de mai multe ori transportul, ci doar o dată. De aici luam și hormoni btw :)
 
 ### 2. Sucroză (Zahăr) - "Benzina"
 În borcan, planta nu face fotosinteză eficient (chiar dacă e verde). Are nevoie de carbon extern ca să crească.
-* **Ce folosim:** Zahăr tos alb, de masă. Cel mai ieftin, de la supermarket. 
+* **Ce folosim:** Zahăr tos alb, de masă. Cel mai ieftin, de la supermarket.
 * **Dozaj standard:** 30g / Litru.
 
 ### 3. Agentul de Gelifiere - "Podeaua"
@@ -38,13 +38,13 @@ Plantele au nevoie de ceva solid în care să stea, altfel se scufundă și mor 
     * *Versiunea Pro:* Agar purificat de laborator (scump, dar clar).
     * *Versiunea Sărăkie:* "Agartine" sau Agar de la magazine naturiste/Lidl. (Atenție: puterea de gelifiere variază, trebuie testat!).
 * **Gelrite / Gellan Gum:** O alternativă sintetică care face gelul **transparent cristal**. E mai scump, dar arată genial pentru poze pe Instagram. Și sincer, cine nu vrea să facă poze de instagram la așa frumuseți? :))
-* Cantitățile folosite variază de la protocol la protocol undeori, dar în general se merge pe 5g / L.
+* Cantitățile folosite variază de la protocol la protocol uneori, dar în general se merge pe 5g / L.
 
 ### 4. Apa - "Solventul"
 🛑 **REGULA DE AUR:** NICIODATĂ NU FOLOSI APĂ DE LA ROBINET!
 Apa de la robinet are clor, minerale necunoscute și variații de pH care îți vor ucide cultura.
 * **Folosește:** Apă Distilată (de la benzinărie/supermarket) sau Apă de Osmoză Inversă (RO).
-* Găsești ușor apă distilată tho, și mergi la sigur cu ea. De exemplu, la dedeman găsești cu 11 lei 5 litrii de apă dsitilată: [apă scumpă pt. nemurirea explantelor](https://www.dedeman.ro/ro/apa-distilata-dedurizata-flacon-pet-5-l/p/7025133)
+* Găsești ușor apă distilată tho, și mergi la sigur cu ea. De exemplu, la dedeman găsești cu 11 lei 5 litri de apă distilată: [apă scumpă pt. nemurirea explantelor](https://www.dedeman.ro/ro/apa-distilata-dedurizata-flacon-pet-5-l/p/7025133)
 
 ---
 
@@ -60,7 +60,7 @@ Asta este rețeta de bază pentru 90% din plante (inclusiv Drosera, Saintpaulia,
 | **Agar** | 6 - 9 g (depinde de puterea lui) |
 | **PPM (Opțional)** | 1-2 ml (pentru a preveni contaminarea) |
 | **pH Final** | **5.7 - 5.8** |
-| **Hormoni (BAP / NAA / IBA)** | **1 mg în general, depinde de protocol, poate fi chiar opțional** |
+| **Hormoni** | **1 mg (BAP/NAA)** - *Doar dacă cere protocolul specific!* |
 
 ### 👨‍🍳 Pașii de preparare:
 
@@ -68,9 +68,10 @@ Asta este rețeta de bază pentru 90% din plante (inclusiv Drosera, Saintpaulia,
 2.  **Marea Ajustare a pH-ului (CRITIC):**
     * Măsoară pH-ul. Probabil va fi pe la 4.0 sau 5.0.
     * Adaugă picătură cu picătură soluție de **pH UP** (KOH sau NaOH diluat) sau Bicarbonat (soluție) până ajungi la **5.8**.
-    * *De ce?* Dacă pH-ul e greșit, agarul nu se întărește sau planta nu poate adsorbi nutrienții.
+    * *De ce?* Dacă pH-ul e greșit, agarul nu se întărește sau planta nu poate absorbi nutrienții.
 3.  **Adăugarea Agarului:** Acum pui agarul. El NU se va dizolva la rece. O să arate ca o ciorbă tulbure.
-4.  **Fierberea (Activarea):** Pune amestecul pe foc. Trebuie să ajungă la punctul de fierbere pentru ca agarul să se activeze. Amestecă des să nu se prindă. Când devine limpede, e gata. **Notă**: există agitatoare magnetice cu încălzire dacă ai chef să dai bani pe unul: [agitator de pe emag](https://www.emag.ro/agitator-magnetic-electric-vevor-1000ml-0-1600-rpm-incalzire-rapida-viteza-ajustabila-sumarrk5o90ym8/pd/DWVM043BM/) 
+4.  **Fierberea (Activarea):** Pune amestecul pe foc. Trebuie să ajungă la punctul de fierbere pentru ca agarul să se activeze. Amestecă des să nu se prindă. Când devine limpede, e gata.
+    * **Notă:** Există agitatoare magnetice cu încălzire dacă ai chef să dai bani pe unul: [agitator de pe emag](https://www.emag.ro/agitator-magnetic-electric-vevor-1000ml-0-1600-rpm-incalzire-rapida-viteza-ajustabila-sumarrk5o90ym8/pd/DWVM043BM/)
 5.  **Turnarea:** Toarnă lichidul fierbinte în borcane (cam 2-3 cm înălțime).
 6.  **Sterilizarea:** Pune capacele (nu le strânge la maxim!) și bagă-le la Autoclavă / Oala sub presiune (vezi ghidul de [Sterilizare](./Sterilizare.md)).
 
