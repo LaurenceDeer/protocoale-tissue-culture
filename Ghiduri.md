@@ -5,10 +5,8 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
 
 <details>
   <summary><strong>Modulul 1: Chestiile de bază - pentru cine incepe astăzi.</strong></summary>
-  
-<br>
-  
-## Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"##
+    
+## Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
 
 * [Preparare Medii](./ghiduri/PreparareMedii.md)
 * [SAB vs LFH](./ghiduri/SABvsLFH.md)
