@@ -74,11 +74,12 @@ Aici e "Dansul Morții". Folosim înălbitor (Bleach) pentru a omorî bacteriile
 
 Detergentul de vase e ok, dar NICIODATĂ nu amesteca clorul cu:
 
-    ❌ Amoniac: (Se găsește în soluții de geamuri sau detergenți vechi). Creează gaz Cloramină -> Îți arde plămânii. VERIFICĂ ÎNTOTDEAUNA CE SCRIE PE ETICHETE!!!
+❌ Amoniac: (Se găsește în soluții de geamuri sau detergenți vechi). Creează gaz Cloramină -> Îți arde plămânii. VERIFICĂ ÎNTOTDEAUNA CE SCRIE PE ETICHETE!!!
 
-    ❌ Oțet / Acizi: Creează gaz Clor pur -> Armă chimică din Primul Război Mondial!
+❌ Oțet / Acizi: Creează gaz Clor pur -> Armă chimică din Primul Război Mondial!
 
-    ❌ Alcool: (Nu turna clor peste alcoolul din borcan). Creează Cloroform -> Te adoarme (și îți distruge ficatul).
+❌ Alcool: (Nu turna clor peste alcoolul din borcan). Creează Cloroform -> Te adoarme (și îți distruge ficatul).
+
 
 ### Protocolul de Spălare:
 1.  **Pre-spălare:** Spală planta la robinet cu apă și săpun de vase. Freacă bine (fără să o rupi). Scapă de pământ.
