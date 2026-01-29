@@ -8,14 +8,13 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
   
 <br>
   
-##Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"##
+## Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"##
 
 * [Preparare Medii](./ghiduri/PreparareMedii.md)
 * [SAB vs LFH](./ghiduri/SABvsLFH.md)
 * [Sterilizare](./ghiduri/Sterilizare.md)
   
 </details>
-
 
 <details>
   <summary><strong>Modulul 2: Știința din spate (Chimie și Biologie)</strong></summary>
@@ -27,8 +26,6 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
 * [Controlul pH-ului](./ghiduri/pH.md)
 
 </details>
-
-
 
 <details>
   <summary><strong>Modulul 3: Tehnici și soft skills (finețuri)</strong></summary>
@@ -42,7 +39,6 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
 * [Terminologie-Dicționar](/ghiduri/Dicționar.md)
 
 </details>
-
 
 <details>
   <summary><strong>Modulul 4: Resurse (Meta-Learning)</strong></summary>
