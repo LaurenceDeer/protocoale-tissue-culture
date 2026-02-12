@@ -9,75 +9,109 @@ ff<!DOCTYPE html>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
     <style>
-      /* Layout-ul Principal */
-      body {
-        display: flex; /* Pune meniul și conținutul unul lângă altul */
-        margin: 0;
-        min-height: 100vh;
+      /* 1. RESET GLOBAL (Ca să nu avem surprize la margini) */
+      * {
+        box-sizing: border-box;
       }
 
-      /* Stilul Meniului Lateral (Stânga) */
+      /* 2. LAYOUT-UL PRINCIPAL */
+      body {
+        display: flex;
+        margin: 0;
+        min-height: 100vh;
+        background-color: #1a1a1a; /* Să nu se vadă alb dedesubt */
+        overflow-x: hidden; /* Ascunde scroll-ul orizontal nedorit */
+      }
+
+      /* 3. MENIUL LATERAL (DESKTOP) */
       .sidebar {
-        width: 250px; /* Cât de lat e meniul */
-        background-color: #1a1a1a; /* Gri închis */
-        border-right: 2px solid #d29922; /* Linia portocalie din dreapta meniului */
+        width: 260px;
+        background-color: #0d1117; /* GitHub Dark Dimmed */
+        border-right: 1px solid #30363d;
         padding: 20px;
-        position: fixed; /* Îl ține lipit când dai scroll */
+        position: fixed;
         height: 100%;
         overflow-y: auto;
         top: 0;
         left: 0;
         z-index: 1000;
+        flex-shrink: 0; /* Să nu se turtească meniul */
       }
 
-      /* Link-urile din meniu */
-      .sidebar a {
-        display: block; /* Fiecare link pe rând nou */
-        padding: 10px 15px;
-        color: #c9d1d9; /* Text alb-gri */
-        text-decoration: none;
-        border-radius: 6px;
-        margin-bottom: 5px;
-        font-weight: bold;
-        transition: background 0.3s;
-      }
-
-      .sidebar a:hover {
-        background-color: #30363d; /* Culoare la hover */
-        color: #d29922; /* Text portocaliu la hover */
-      }
-
-      /* Titlul din meniu */
       .sidebar h3 {
         color: #d29922;
         border-bottom: 1px solid #30363d;
-        padding-bottom: 10px;
-        margin-top: 0;
+        padding-bottom: 15px;
+        margin-top: 10px;
+        font-size: 1.2em;
       }
 
-      /* Zona de Conținut (Dreapta) */
+      .sidebar a {
+        display: block;
+        padding: 12px 10px;
+        color: #c9d1d9;
+        text-decoration: none;
+        border-radius: 6px;
+        margin-bottom: 5px;
+        font-weight: 500;
+        transition: all 0.2s;
+        font-size: 0.95em;
+      }
+
+      .sidebar a:hover {
+        background-color: #1f2428;
+        color: #d29922;
+        transform: translateX(5px); /* Mică animație la hover */
+      }
+
+      /* 4. CONȚINUTUL PAGINII (DESKTOP) */
       .main-content {
-        margin-left: 250px; /* Lasă loc pentru meniu */
+        margin-left: 260px; /* Facem loc pentru meniu */
         padding: 40px;
-        width: 100%;
-        max-width: 900px; /* Să nu fie textul prea lat pe ecrane mari */
+        width: calc(100% - 260px); /* Restul ecranului */
+        background-color: #1a1a1a; /* Background uniform */
       }
 
-      /* 📱 MOBILE RESPONSIVE (Ca să arate bine și pe telefon) */
+      /* --- SUPRASCRIERE TEMA ORIGINALĂ (AICI E MAGIA) --- */
+      /* Tema 'orderedlist' pune width fix pe .wrapper. Îl distrugem aici. */
+      .wrapper {
+        width: 100% !important;
+        max-width: 1000px !important; /* Limită rezonabilă pe ecrane mari */
+        margin: 0 auto !important;
+        padding: 0 !important;
+      }
+      
+      header, section, footer {
+        width: 100% !important;
+        padding: 0 !important;
+        float: none !important; /* Tema are float-uri vechi care strică tot */
+      }
+
+      /* 📱 5. MOBILE RESPONSIVE (FIX-UL PENTRU TELEFON) */
       @media (max-width: 768px) {
         body {
-          flex-direction: column; /* Pe telefon le punem una sub alta */
+          flex-direction: column; /* Punem elementele unul sub altul */
         }
+
         .sidebar {
           width: 100%; /* Meniul ocupă tot ecranul sus */
-          height: auto;
-          position: relative;
+          height: auto; /* Nu mai e fix pe înălțime */
+          position: relative; /* Curge normal în pagină */
           border-right: none;
           border-bottom: 2px solid #d29922;
+          padding: 15px;
         }
+
         .main-content {
-          margin-left: 0; /* Scoatem marginea */
-          padding: 20px;
+          margin-left: 0 !important; /* Scoatem marginea din stânga */
+          width: 100% !important; /* Ocupă tot ecranul */
+          padding: 20px 15px !important; /* Padding mai mic pe telefon */
+        }
+
+        /* Facem butoanele din meniu mai mari pe mobil (să le nimerești cu degetul) */
+        .sidebar a {
+          padding: 15px;
+          border-bottom: 1px solid #21262d;
         }
       }
     </style>
