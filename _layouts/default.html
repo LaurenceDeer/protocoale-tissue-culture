@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    <style>
+      /* Layout-ul Principal */
+      body {
+        display: flex; /* Pune meniul și conținutul unul lângă altul */
+        margin: 0;
+        min-height: 100vh;
+      }
+
+      /* Stilul Meniului Lateral (Stânga) */
+      .sidebar {
+        width: 250px; /* Cât de lat e meniul */
+        background-color: #1a1a1a; /* Gri închis */
+        border-right: 2px solid #d29922; /* Linia portocalie din dreapta meniului */
+        padding: 20px;
+        position: fixed; /* Îl ține lipit când dai scroll */
+        height: 100%;
+        overflow-y: auto;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+      }
+
+      /* Link-urile din meniu */
+      .sidebar a {
+        display: block; /* Fiecare link pe rând nou */
+        padding: 10px 15px;
+        color: #c9d1d9; /* Text alb-gri */
+        text-decoration: none;
+        border-radius: 6px;
+        margin-bottom: 5px;
+        font-weight: bold;
+        transition: background 0.3s;
+      }
+
+      .sidebar a:hover {
+        background-color: #30363d; /* Culoare la hover */
+        color: #d29922; /* Text portocaliu la hover */
+      }
+
+      /* Titlul din meniu */
+      .sidebar h3 {
+        color: #d29922;
+        border-bottom: 1px solid #30363d;
+        padding-bottom: 10px;
+        margin-top: 0;
+      }
+
+      /* Zona de Conținut (Dreapta) */
+      .main-content {
+        margin-left: 250px; /* Lasă loc pentru meniu */
+        padding: 40px;
+        width: 100%;
+        max-width: 900px; /* Să nu fie textul prea lat pe ecrane mari */
+      }
+
+      /* 📱 MOBILE RESPONSIVE (Ca să arate bine și pe telefon) */
+      @media (max-width: 768px) {
+        body {
+          flex-direction: column; /* Pe telefon le punem una sub alta */
+        }
+        .sidebar {
+          width: 100%; /* Meniul ocupă tot ecranul sus */
+          height: auto;
+          position: relative;
+          border-right: none;
+          border-bottom: 2px solid #d29922;
+        }
+        .main-content {
+          margin-left: 0; /* Scoatem marginea */
+          padding: 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="sidebar">
+      <h3>🧪 Tissue Culture RO</h3>
+      
+      <a href="{{ '/' | relative_url }}">🏠 Acasă (Index)</a>
+      <a href="{{ '/Ghiduri.md' | relative_url }}">📚 Centralizator Ghiduri</a>
+      <a href="{{ '/Protocoale.md' | relative_url }}">🧬 Protocoale Plante</a>
+      <hr style="border-color: #30363d;">
+      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank">💻 Vezi Codul (GitHub)</a>
+    </div>
+
+    <div class="main-content">
+      <div class="wrapper">
+        <header>
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        </header>
+        <section>
+          {{ content }}
+        </section>
+        <footer>
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
+      </div>
+    </div>
+    
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
