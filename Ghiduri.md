@@ -85,5 +85,3 @@ Aici vor fi surse de informare de unde și eu mă informez pentru a vă aduce in
 * [Sci-Hub Stuff (IYKYK)](./surse/SciHub.md)
 * [Cărți + PDF-uri](./surse/Cărți.md)
 * [Canale de Youtube](./surse/youtubechannels.md)
-
-  </details>
