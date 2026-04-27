@@ -3,7 +3,7 @@ layout: default
 title: Acasă
 ---
 
-# 🧪 Laboratorul Tău în Borcan
+# 🇷🇴 Laboratorul Tău în Borcan 🇷🇴
 **Ghidul open-source pentru clonarea plantelor în sufragerie.**
 
 Dacă ai ajuns aici, probabil te-ai săturat să dai sute de lei pe o plantă rară care se usucă în două săptămâni, sau vrei să înveți cum să dai *Ctrl+C / Ctrl+V* la viață folosind niște zahăr, agar și o oală sub presiune. 
