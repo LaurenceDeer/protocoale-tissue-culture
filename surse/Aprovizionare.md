@@ -13,6 +13,7 @@ Să comanzi din SUA înseamnă să dublezi prețul cu transportul și vama. Aici
 </div>
 
 ### Echipamentul de Bază (Starter Pack)
+
 *Dacă nu vrei să sapi prin tot Notion-ul, astea sunt lucrurile critice de care ai nevoie ca să te apuci:*
 
 | Produs / Echipament | Categorie | Sursă / Magazin (RO) | Preț (Aprox) | Observații / Tips |
@@ -29,4 +30,5 @@ Să comanzi din SUA înseamnă să dublezi prețul cu transportul și vama. Aici
 | **Polysorbate 20 (Tween 20)** | Chimicale | [Elemental](#) | ~88 RON / 1 kg | Face apa mai "udă" (surfactant). Esențial când speli planta în clor, ca să curețe absolut tot de pe frunză. |
 | **Caserole rotunde PP (200 ml)** | Recipiente | [Deterlife](#) | ~25 RON / 50 buc | Fiind din Polipropilenă (PP), rezistă la autoclavare/Instant Pot. Ieftine și bune. |
 | **Sterilizator instrumente (Cu Cuarț)** | Sterilitate | [Savyprofessional](#) | ~80 RON | Arzi lamele de bisturiu și pensetele direct la temperatură mare. Mult mai safe decât flacăra deschisă în SAB. |
+
 *Totuși, recomand cu încredere, ba chiar insist: strânge banii pentru investiția inițială de echipamente. Îți va merge totul mult mai bine.*
