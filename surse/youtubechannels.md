@@ -82,7 +82,7 @@ Aici sunt oamenii care și-au mucegăit zeci de culturi și au filmat totul ca s
   <div class="resource-card">
     <span class="badge badge-yt">▶️ YouTube</span>
     <h3><a href="https://www.youtube.com/@plantsinjars" target="_blank">Plants in Jars</a></h3>
-    <p>Regele contentului de tissue culture pentru home-growers. Explică curat, vizualurile sunt blană și arată exact cum să faci treabă bună într-un setup mic, de apartament.</p>
+    <p>Regina contentului de tissue culture pentru home-growers. Explică curat, vizualurile sunt blană și arată exact cum să faci treabă bună într-un setup mic. Avem toți o primă iubire, iar când vine vorba de Tissue Culture, ea este a mea :))</p>
   </div>
 
   <div class="resource-card">
