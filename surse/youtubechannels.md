@@ -93,7 +93,7 @@ Aici sunt oamenii care și-au mucegăit zeci de culturi și au filmat totul ca s
 
   <div class="resource-card">
     <span class="badge badge-yt">▶️ YouTube</span>
-    <h3><a href="[#](https://www.youtube.com/@Parkfolia)" target="_blank">[Tessa | Home Tissue Culture Plants ]</a></h3>
+    <h3><a href="https://www.youtube.com/@Parkfolia" target="_blank">[Tessa | Home Tissue Culture Plants ]</a></h3>
     <p>O stimabilă doamnă care din păcate nu a mai scos nimic de ceva vreme, dar e light-weight, ușor de urmărit pentru niște tutoriale :)</p>
   </div>
 
