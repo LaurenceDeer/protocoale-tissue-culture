@@ -65,7 +65,7 @@ Ai nimerit bine. Ăsta este hub-ul românesc de Plant Tissue Culture. Fără jar
   </div>
 
   <div class="home-card">
-    <a href="/protocoale-tissue-culture/Aprovizionare.html">
+    <a href="/protocoale-tissue-culture/surse/Aprovizionare.html">
       <h2>🛒 Hardware & Gear</h2>
       <p>Baza de date cu furnizori din RO. De unde iei agar, steroizi vegetali și bisturie fără să te jupoaie la vama.</p>
     </a>
