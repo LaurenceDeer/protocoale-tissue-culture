@@ -44,26 +44,30 @@ Ai nimerit bine. Ăsta este hub-ul românesc de Plant Tissue Culture. Fără jar
 
 <div class="home-grid">
   <div class="home-card">
-    <a href="/link-catre-module">
+    <a href="/protocoale-tissue-culture/Ghiduri.html">
       <h2>🧬 Teorie & Bază</h2>
       <p>Cum funcționează chimia din spate, ce e ăla pH și cum să nu arunci casa în aer cu SAB-ul.</p>
     </a>
   </div>
 
   <div class="home-card">
-    <a href="/link-catre-protocoale">
+    <a href="/protocoale-tissue-culture/protocoale/Protocoale.html">
       <h2>📋 Protocoale</h2>
-      <p>Rețetele oficiale. Pas cu pas. Hormoni, medii și timpi de sterilizare pentru diverse specii.</p>
+      <p>Rețetele oficiale. Pas cu pas. Hormoni, medii și timpi de sterilizare pentru diverse specii (ex: Drosera).</p>
     </a>
   </div>
 
   <div class="home-card">
-    <a href="/link-catre-resurse">
-      <h2>🏴‍☠️ Resurse & Gear</h2>
-      <p>De unde iei echipament în România, cărți moca și cum să treci de paywall-urile academice.</p>
+    <a href="/protocoale-tissue-culture/Ghiduri.html">
+      <h2>📚 Biblioteca (Resurse)</h2>
+      <p>Manualele de clonare moca, trucuri Sci-Hub și literatura de specialitate pentru tocilari. Also, știu că duce în același loc, dar doar apasă pe butoane, nu degeaba este un *centralizator* :)</p>
+    </a>
+  </div>
+
+  <div class="home-card">
+    <a href="/protocoale-tissue-culture/Aprovizionare.html">
+      <h2>🛒 Hardware & Gear</h2>
+      <p>Baza de date cu furnizori din RO. De unde iei agar, steroizi vegetali și bisturie fără să te jupoaie la vama.</p>
     </a>
   </div>
 </div>
-
----
-> *"Teoria e simplă. Practica e aia care îți umple borcanul de mucegai."* — Explorează pe riscul tău.
