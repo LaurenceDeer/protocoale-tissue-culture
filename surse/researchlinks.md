@@ -64,19 +64,19 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
 </style>
 
 <div class="paper-item">
-  <p class="paper-title"><a href="#" target="_blank">In Vitro Propagation and Callus Induction of [Specie de Plantă]</a></p>
-  <p class="paper-meta">Autor et al., 2023 — Jurnalul de Botanică</p>
-  <p class="paper-tldr"><span class="tag-topic">Protocoale</span> <strong>TL;DR:</strong> Au folosit 1.0 mg/L BAP și 0.1 mg/L NAA. Rezultate blană pe lăstari. De citit paginile 4-5 pentru faza cu sterilizarea.</p>
+  <p class="paper-title"><a href="https://www.researchgate.net/publication/279691422_In_Vitro_Growth_and_Regeneration_of_Drosera_spatulata_Labill_on_Various_Media" target="_blank">In Vitro Growth and Regeneration of Drosera spatulata Labill. on Various Media</a></p>
+  <p class="paper-meta">Mirna Ćurković-Perica; Jasna Berljak, 1996 — HortScience, 31(6):1033-1034</p>
+  <p class="paper-tldr"><span class="tag-topic">Protocoale Drosera Spatulata</span> <strong>TL;DR:</strong> Full MS fără hormoni a bătut orice combinație cu auxine/citokinine.</p>
 </div>
 
 <div class="paper-item">
-  <p class="paper-title"><a href="#" target="_blank">Effects of Different Sterilization Methods on Explant Viability</a></p>
-  <p class="paper-meta">Alt Autor, 2019 — ResearchGate</p>
-  <p class="paper-tldr"><span class="tag-topic">Sterilizare</span> <strong>TL;DR:</strong> Clorul la 15% ținut 10 minute distruge țesutul de pețiol. Recomandă maxim 10% pentru frunzele moi.</p>
+  <p class="paper-title"><a href="https://journals.usamvcluj.ro/index.php/zootehnie/article/view/12819" target="_blank">Propagation of Drosera rotundifolia and Drosera capensis in an in vitro Culture System </a></p>
+  <p class="paper-meta">Ileana MICLEA; Marius ZĂHAN 2017 — Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Animal Science and Biotechnologies</p>
+  <p class="paper-tldr"><span class="tag-topic">Tot Drosera</span> <strong>TL;DR:</strong>Confirmă că speciile de Drosera (ex: Capensis) preferă mediile Hormone-Free.</p>
 </div>
 
 <div class="paper-item">
-  <p class="paper-title"><a href="#" target="_blank">Rolul Citokininelor în Reducerea Dominanței Apicale</a></p>
-  <p class="paper-meta">Smith J., 2021 — Academia.edu</p>
-  <p class="paper-tldr"><span class="tag-topic">Teorie / Hormoni</span> <strong>TL;DR:</strong> Fix teoria despre cum BAP-ul trezește mugurii axilari. De referință când mai uit mecanismul chimic exact.</p>
+  <p class="paper-title"><a href="#" target="_blank">TBD</a></p>
+  <p class="paper-meta">TBD</p>
+  <p class="paper-tldr"><span class="tag-topic">TBD</span> <strong>TL;DR:</strong> TBD.</p>
 </div>
