@@ -6,8 +6,8 @@ title: Aprovizionare (Hardware & Gear)
 # 🛒 Aprovizionare Locală (Hardware & Chimicale)
 Să comanzi din SUA înseamnă să dublezi prețul cu transportul și vama. Aici ai o bază de date cu furnizorii testați de pe plan intern / european (excepție: orice e vândut de către PCT...) pentru tot ce înseamnă home tissue culture. Fără taxe ascunse (sper), fără așteptat o lună (neaplicabil la toate echipamentele).
 
-<div style="background-color: #1f6feb; border: 1px solid #388bfd; padding: 20px; border-radius: 8px; margin-bottom: 30px; text-align: center;">
-  <h3 style="margin-top: 0; color: #ffffff;">📦 Baza de Date Completă (Live)</h3>
+<div style="background-color: transparent; border: 1px solid #d29922; padding: 20px; border-radius: 8px; margin-bottom: 30px; text-align: center;">
+  <h3 style="margin-top: 0; color: #d29922;">📦 Baza de Date Completă (Live)</h3>
   <p style="color: #c9d1d9; font-size: 0.95em;">Tabelul de mai jos e doar un "Starter Pack". Pentru inventarul complet (40+ instrumente), alternative, prețuri actualizate și notițe extinse, am făcut public Tracker-ul meu din Notion.</p>
   <a href="https://vaulted-bakery-5a3.notion.site/2d7a66e5cdb680d399ebd308090159b8?v=2d7a66e5cdb68050a34c000cd17594f5" target="_blank" style="display: inline-block; background-color: #238636; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-top: 10px; transition: background 0.2s;">🔗 Deschide Tracker-ul în Notion</a>
 </div>
