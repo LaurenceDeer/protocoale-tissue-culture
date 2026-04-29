@@ -2,7 +2,10 @@
 layout: default
 title: Acasă
 description: "Primul hub open-source din România dedicat clonării plantelor in vitro (Plant Tissue Culture). Protocoale, ghiduri și comunitate pentru pasionați."
+permalink: /
 ---
+
+> **[🌐 ACCESEAZĂ SITE-UL OFICIAL AICI: laurencedeer.github.io/protocoale-tissue-culture](https://laurencedeer.github.io/protocoale-tissue-culture/)**
 
 # 🇷🇴 Laboratorul Tău în Borcan 🇷🇴
 **Ghidul open-source pentru clonarea plantelor în sufragerie.**
