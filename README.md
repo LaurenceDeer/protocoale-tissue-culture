@@ -10,38 +10,6 @@ Dacă ai ajuns aici, probabil te-ai săturat să dai sute de lei pe o plantă ra
 
 Ai nimerit bine. Ăsta este hub-ul românesc de Plant Tissue Culture. Fără jargon academic inutil, fără paywall-uri. Doar știință aplicată direct.
 
-<style>
-  .home-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin-top: 30px;
-  }
-  .home-card {
-    background-color: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-    transition: transform 0.2s, border-color 0.2s;
-  }
-  .home-card:hover {
-    transform: translateY(-5px);
-    border-color: #238636;
-  }
-  .home-card h2 {
-    margin-top: 0;
-    font-size: 1.5em;
-    border-bottom: none;
-  }
-  .home-card a {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-    height: 100%;
-  }
-</style>
-
 <div class="home-grid">
   <div class="home-card">
     <a href="/protocoale-tissue-culture/Ghiduri.html">

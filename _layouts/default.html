@@ -1,117 +1,312 @@
-ff<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "ro-RO" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
     <style>
-      /* 1. RESET GLOBAL (Ca să nu avem surprize la margini) */
+      :root {
+        --bg-main: #060606;
+        --bg-sidebar: #0A0A0A;
+        --bg-card: #0D0D0D;
+        --border-color: #1A1A1A;
+        --border-hover: #2A2A2A;
+        --text-main: #E0E0E0;
+        --text-muted: #888888;
+        --accent-green: #00FF88;
+        --accent-hover: #10B981;
+        --font-body: 'Inter', sans-serif;
+        --font-heading: 'Outfit', sans-serif;
+      }
+
       * {
         box-sizing: border-box;
       }
 
-      /* 2. LAYOUT-UL PRINCIPAL */
       body {
         display: flex;
         margin: 0;
         min-height: 100vh;
-        background-color: #1a1a1a; /* Să nu se vadă alb dedesubt */
-        overflow-x: hidden; /* Ascunde scroll-ul orizontal nedorit */
+        background-color: var(--bg-main);
+        color: var(--text-main);
+        font-family: var(--font-body);
+        overflow-x: hidden;
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
       }
 
-      /* 3. MENIUL LATERAL (DESKTOP) */
+      /* 1. SIDEBAR (DESKTOP) */
       .sidebar {
         width: 260px;
-        background-color: #0d1117; /* GitHub Dark Dimmed */
-        border-right: 1px solid #30363d;
-        padding: 20px;
+        background-color: var(--bg-sidebar);
+        border-right: 1px solid var(--border-color);
+        padding: 30px 20px;
         position: fixed;
         height: 100%;
         overflow-y: auto;
         top: 0;
         left: 0;
         z-index: 1000;
-        flex-shrink: 0; /* Să nu se turtească meniul */
+        flex-shrink: 0;
       }
 
       .sidebar h3 {
-        color: #d29922;
-        border-bottom: 1px solid #30363d;
+        color: var(--text-main);
+        font-family: var(--font-heading);
+        border-bottom: 1px solid var(--border-color);
         padding-bottom: 15px;
-        margin-top: 10px;
-        font-size: 1.2em;
+        margin-top: 0;
+        margin-bottom: 20px;
+        font-size: 1.1em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .sidebar h3::before {
+        content: '';
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background-color: var(--accent-green);
+        border-radius: 50%;
+        box-shadow: 0 0 8px rgba(0, 255, 136, 0.4);
       }
 
       .sidebar a {
         display: block;
-        padding: 12px 10px;
-        color: #c9d1d9;
+        padding: 8px 12px;
+        color: var(--text-muted);
         text-decoration: none;
-        border-radius: 6px;
-        margin-bottom: 5px;
-        font-weight: 500;
-        transition: all 0.2s;
-        font-size: 0.95em;
+        border-radius: 4px;
+        margin-bottom: 4px;
+        font-size: 0.9em;
+        font-family: 'Consolas', 'Monaco', monospace; /* Monospace for lab terminal feel */
+        transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+        border-left: 2px solid transparent;
       }
 
-      .sidebar a:hover {
-        background-color: #1f2428;
-        color: #d29922;
-        transform: translateX(5px); /* Mică animație la hover */
+      .sidebar a:hover, .sidebar a.active {
+        background-color: rgba(0, 255, 136, 0.05);
+        color: var(--accent-green);
+        border-left: 2px solid var(--accent-green);
       }
 
-      /* 4. CONȚINUTUL PAGINII (DESKTOP) */
+      .sidebar hr {
+        border: none;
+        border-top: 1px solid var(--border-color);
+        margin: 20px 0;
+      }
+
+      /* 2. MAIN CONTENT */
       .main-content {
-        margin-left: 260px; /* Facem loc pentru meniu */
-        padding: 40px;
-        width: calc(100% - 260px); /* Restul ecranului */
-        background-color: #1a1a1a; /* Background uniform */
+        margin-left: 260px;
+        padding: 60px;
+        width: calc(100% - 260px);
+        background-color: var(--bg-main);
       }
 
-      /* --- SUPRASCRIERE TEMA ORIGINALĂ (AICI E MAGIA) --- */
-      /* Tema 'orderedlist' pune width fix pe .wrapper. Îl distrugem aici. */
+      /* Override Jekyll Theme Middleware */
       .wrapper {
         width: 100% !important;
-        max-width: 1000px !important; /* Limită rezonabilă pe ecrane mari */
+        max-width: 850px !important;
         margin: 0 auto !important;
         padding: 0 !important;
       }
-      
+
       header, section, footer {
         width: 100% !important;
         padding: 0 !important;
-        float: none !important; /* Tema are float-uri vechi care strică tot */
+        float: none !important;
       }
 
-      /* 📱 5. MOBILE RESPONSIVE (FIX-UL PENTRU TELEFON) */
+      /* 3. TYPOGRAPHY & ELEMENTS */
+      h1, h2, h3, h4, h5, h6 {
+        font-family: var(--font-heading);
+        color: var(--text-main);
+        font-weight: 600;
+        margin-top: 2em;
+        margin-bottom: 0.75em;
+      }
+
+      h1 {
+        font-size: 2.2em;
+        letter-spacing: -0.5px;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 0.3em;
+        margin-top: 0;
+      }
+
+      a {
+        color: var(--accent-green);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+        color: var(--accent-hover);
+      }
+
+      code {
+        font-family: 'Consolas', 'Monaco', monospace;
+        background-color: var(--bg-card);
+        padding: 0.2em 0.4em;
+        border-radius: 3px;
+        border: 1px solid var(--border-color);
+        font-size: 0.85em;
+        color: #A78BFA;
+      }
+
+      pre {
+        background-color: var(--bg-card) !important;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+        padding: 15px;
+        overflow-x: auto;
+      }
+
+      pre code {
+        background-color: transparent;
+        padding: 0;
+        border: none;
+        color: var(--text-main);
+        font-size: 0.85em;
+      }
+
+      blockquote {
+        border-left: 3px solid var(--accent-green);
+        background: rgba(0, 255, 136, 0.03);
+        margin: 1.5em 0;
+        padding: 1em 1.5em;
+        color: var(--text-muted);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 2em 0;
+        font-size: 0.95em;
+      }
+
+      th, td {
+        padding: 12px 15px;
+        border: 1px solid var(--border-color);
+        text-align: left;
+      }
+
+      th {
+        background-color: var(--bg-card);
+        font-family: var(--font-heading);
+        font-weight: 500;
+      }
+
+      hr {
+        border: none;
+        border-top: 1px dashed var(--border-color);
+        margin: 2.5em 0;
+      }
+
+      /* Home Grid overrides */
+      .home-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+        margin-top: 40px;
+      }
+      .home-card {
+        background-color: var(--bg-card);
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+        padding: 25px;
+        transition: border-color 0.2s ease, background-color 0.2s ease;
+      }
+      .home-card:hover {
+        border-color: var(--accent-green);
+        background-color: #0c120f; /* Slight green tint */
+      }
+      .home-card h2 {
+        margin-top: 0;
+        font-size: 1.3em;
+        border-bottom: none;
+        color: var(--text-main);
+      }
+      .home-card p {
+        color: var(--text-muted);
+        margin-bottom: 0;
+        font-size: 0.95em;
+      }
+      .home-card a {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+        height: 100%;
+      }
+
+      /* Glossary Tooltips */
+      .glossary-term {
+        border-bottom: 1px dotted var(--accent-green);
+        color: var(--text-main);
+        cursor: help;
+        position: relative;
+      }
+      
+      .glossary-term:hover::after {
+        content: attr(data-tooltip);
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-5px);
+        background-color: var(--bg-card);
+        color: var(--text-main);
+        padding: 8px 12px;
+        border: 1px solid var(--accent-green);
+        border-radius: 4px;
+        font-size: 0.85em;
+        font-family: var(--font-body);
+        white-space: nowrap;
+        z-index: 1000;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        pointer-events: none;
+        opacity: 0;
+        animation: fadeIn 0.2s forwards;
+      }
+      
+      @keyframes fadeIn {
+        to { opacity: 1; transform: translateX(-50%) translateY(-8px); }
+      }
+
+      /* 4. MOBILE RESPONSIVE */
       @media (max-width: 768px) {
         body {
-          flex-direction: column; /* Punem elementele unul sub altul */
+          flex-direction: column;
         }
 
         .sidebar {
-          width: 100%; /* Meniul ocupă tot ecranul sus */
-          height: auto; /* Nu mai e fix pe înălțime */
-          position: relative; /* Curge normal în pagină */
+          width: 100%;
+          height: auto;
+          position: relative;
           border-right: none;
-          border-bottom: 2px solid #d29922;
-          padding: 15px;
+          border-bottom: 1px solid var(--border-color);
+          padding: 20px;
         }
 
         .main-content {
-          margin-left: 0 !important; /* Scoatem marginea din stânga */
-          width: 100% !important; /* Ocupă tot ecranul */
-          padding: 20px 15px !important; /* Padding mai mic pe telefon */
+          margin-left: 0;
+          width: 100%;
+          padding: 30px 20px;
         }
 
-        /* Facem butoanele din meniu mai mari pe mobil (să le nimerești cu degetul) */
-        .sidebar a {
-          padding: 15px;
-          border-bottom: 1px solid #21262d;
+        h1 {
+          font-size: 1.8em;
         }
       }
     </style>
@@ -119,16 +314,16 @@ ff<!DOCTYPE html>
   <body>
 
     <div class="sidebar">
-      <h3>🧪 Tissue Culture RO</h3>
+      <h3>TC-RO_Term</h3>
       
-      <a href="{{ '/aboutme.html' | relative_url }}">👽 Despre mine</a>
-      <a href="{{ '/README.html' | relative_url }}">🏠 Acasă (Index)</a>
-      <a href="{{ '/Ghiduri.html' | relative_url }}">📚 Centralizator Ghiduri</a>
-      <a href="{{ 'protocoale/Protocoale.html' | relative_url }}">🧬 Protocoale Plante</a>
-      <a href="{{ 'surse/youtubechannels.html' | relative_url }}">📺 Canale de YouTube</a>
-      <a href="{{ 'surse/researchlinks.html' | relative_url }}">🔬 Research Papers</a>
-      <hr style="border-color: #30363d;">
-      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank">💻 Vezi Codul (GitHub)</a>
+      <a href="{{ '/README.html' | relative_url }}">/index_acasa</a>
+      <a href="{{ '/aboutme.html' | relative_url }}">/despre_mine</a>
+      <a href="{{ '/Ghiduri.html' | relative_url }}">/ghiduri_baza</a>
+      <a href="{{ 'protocoale/Protocoale.html' | relative_url }}">/protocoale</a>
+      <a href="{{ 'surse/youtubechannels.html' | relative_url }}">/surse_media</a>
+      <a href="{{ 'surse/researchlinks.html' | relative_url }}">/surse_stiinta</a>
+      <hr>
+      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none;">[↗] cod_sursa</a>
     </div>
 
     <div class="main-content">
@@ -137,11 +332,14 @@ ff<!DOCTYPE html>
           {{ content }}
         </section>
         <footer>
-          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          <p style="margin-top: 60px; padding-top: 20px; border-top: 1px dashed var(--border-color); color: var(--text-muted); font-size: 0.85em; font-family: 'Consolas', monospace;">
+            > sys.exit(0) | Open Tissue Culture RO
+          </p>
         </footer>
       </div>
     </div>
     
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/glossary.js' | relative_url }}"></script>
   </body>
 </html>
