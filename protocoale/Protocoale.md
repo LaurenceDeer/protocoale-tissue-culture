@@ -1,40 +1,40 @@
 ---
 layout: default
 title: Protocoale & Specii
-description: "Baza de date cu protocoale open-source de plant tissue culture. ReÈ›ete clare pentru sterilizare È™i medii pentru Monstera, Drosera, Philodendron È™i altele."
+description: "Baza de date cu protocoale open-source de plant tissue culture. Rețete clare pentru sterilizare și medii pentru Monstera, Drosera, Philodendron și altele."
 ---
 
-# ðŸ§¬ Baza de Date: Protocoale
+# 🧬 Baza de Date: Protocoale
 
-Aici gÄƒseÈ™ti reÈ›etele exacte testate de comunitate pentru diferite specii. De la concentraÈ›ia de clor pentru sterilizare, pÃ¢nÄƒ la miligramele exacte de hormoni (BAP/NAA/IBA) folosite pentru a obÈ›ine o culturÄƒ de succes.
+Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De la concentrația de clor pentru sterilizare, până la miligramele exacte de hormoni (BAP/NAA/IBA) folosite pentru a obține o cultură de succes.
 
 <div class="home-grid">
   
   <div class="home-card">
     <a href="drosera.html">
-      <h2 style="color: var(--accent-amber);">ðŸŒ± Drosera (Roua Cerului)</h2>
-      <p>PlantÄƒ carnivorÄƒ. Protocol complet pentru germinare in vitro È™i multiplicare. Nivel dificultate: UÈ™or.</p>
+      <h2 style="color: var(--accent-green);">🌱 Drosera (Roua Cerului)</h2>
+      <p>Plantă carnivoră. Protocol complet pentru germinare in vitro și multiplicare. Nivel dificultate: Ușor.</p>
     </a>
   </div>
 
   <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
     <a>
-      <h2>ðŸŒ¿ Monstera Albo / Thai </h2>
-      <p>ÃŽn lucru (WIP). Se testeazÄƒ protocolul de multiplicare nodalÄƒ È™i prevenirea fenolizÄƒrii extreme.</p>
+      <h2>🌿 Monstera Albo / Thai </h2>
+      <p>În lucru (WIP). Se testează protocolul de multiplicare nodală și prevenirea fenolizării extreme.</p>
     </a>
   </div>
 
   <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
     <a>
-      <h2>ðŸŒ¸ Orhidee (Phalaenopsis)</h2>
-      <p>ÃŽn lucru (WIP). Protocol pentru germinarea seminÈ›elor asimbiotice (fÄƒrÄƒ fungi) pe mediu simplu.</p>
+      <h2>🌸 Orhidee (Phalaenopsis)</h2>
+      <p>În lucru (WIP). Protocol pentru germinarea semințelor asimbiotice (fără fungi) pe mediu simplu.</p>
     </a>
   </div>
 
   <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
     <a>
-      <h2>ðŸ€ Philodendron Pink Princess</h2>
-      <p>ÃŽn lucru (WIP). Teste de formare calus È™i regenerare directÄƒ a lÄƒstarilor.</p>
+      <h2>🍀 Philodendron Pink Princess</h2>
+      <p>În lucru (WIP). Teste de formare calus și regenerare directă a lăstarilor.</p>
     </a>
   </div>
 
@@ -43,5 +43,5 @@ Aici gÄƒseÈ™ti reÈ›etele exacte testate de comunitate pentru diferite sp
 <br>
 <hr>
 
-> **Ai un protocol care a funcÈ›ionat perfect pentru tine?**  
-> Fii parte din miÈ™care È™i ajutÄƒ comunitatea! Vezi cum poÈ›i adÄƒuga o reÈ›etÄƒ nouÄƒ Ã®n <a href="{{ '/surse/CONTRIBUTING.html' | relative_url }}">Ghidul de ContribuÈ›ie</a>.
+> **Ai un protocol care a funcționat perfect pentru tine?**  
+> Fii parte din mișcare și ajută comunitatea! Vezi cum poți adăuga o rețetă nouă în <a href="{{ '/surse/CONTRIBUTING.html' | relative_url }}">Ghidul de Contribuție</a>.
