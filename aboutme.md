@@ -63,13 +63,13 @@ title: Despre Mine
 
   <div class="about-card">
     <h3>🤝 Vrei să ajuți?</h3>
-    <p>Ai vreo idee care ar merge aplicată frumos aici? Ai testat un protocol care a mers perfect și vrei să-l publici? Website-ul e open-source. <a href="mailto:emailul-tau@aici.com" style="color: #58a6ff;">Dă-mi un mesaj</a> sau fă un Pull Request pe GitHub.</p>
+    <p>Ai vreo idee care ar merge aplicată frumos aici? Ai testat un protocol care a mers perfect și vrei să-l publici? Website-ul e open-source. <a href="mailto:laurentiu.ciuta@proton.me" style="color: #58a6ff;">Dă-mi un mesaj</a> sau fă un Pull Request pe GitHub.</p>
   </div>
 
   <div class="about-card support-card" style="grid-column: 1 / -1;">
     <h3>☕ Vrei să mă susții?</h3>
     <p>Tot ce îți pun la dispoziție pe website, toate informațiile și protocoalele, sunt complet gratuite. Totuși, ele vin la prețul de timp, dedicare (și ocazional echipament prăjit) din partea mea. Nu-i absolut deloc necesar, dar dacă te-au ajutat ghidurile și vrei să susții proiectul, poți lăsa de-o cafea/un agar aici: <br><br>
-    <a href="LINK-PAYPAL-SAU-KOFI" target="_blank" style="display: inline-block; background: #238636; color: #fff; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-weight: bold;">Susține Proiectul (Patreon / Ko-fi)</a></p>
+    <a href="https://paypal.me/CVLaur" target="_blank" style="display: inline-block; background: #238636; color: #fff; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-weight: bold;">Susține Proiectul (Patreon / Ko-fi)</a></p>
   </div>
 
 </div>
