@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cum să contribui
+description: "Ghidul complet pentru a contribui la Open Tissue Culture RO. Află cum să adaugi protocoale, furnizori și resurse."
+---
+
 # Cum să contribui la Open Tissue Culture RO
 
 > **Informația trebuie să fie liberă, accesibilă și colaborativă.**
