@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Acasă
+description: "Primul hub open-source din România dedicat clonării plantelor in vitro (Plant Tissue Culture). Protocoale, ghiduri și comunitate pentru pasionați."
 ---
 
 # 🇷🇴 Laboratorul Tău în Borcan 🇷🇴

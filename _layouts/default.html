@@ -284,6 +284,74 @@
         to { opacity: 1; transform: translateX(-50%) translateY(-8px); }
       }
 
+      /* Modal Calculator */
+      .modal-overlay {
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0,0,0,0.8);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2000;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.2s ease;
+      }
+      .modal-overlay.active {
+        opacity: 1;
+        pointer-events: auto;
+      }
+      .modal-content {
+        background: var(--bg-card);
+        border: 1px solid var(--accent-green);
+        border-radius: 6px;
+        width: 90%;
+        max-width: 400px;
+        padding: 25px;
+        box-shadow: 0 0 20px rgba(0, 255, 136, 0.1);
+        transform: translateY(20px);
+        transition: transform 0.2s ease;
+      }
+      .modal-overlay.active .modal-content {
+        transform: translateY(0);
+      }
+      .modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px dashed var(--border-color);
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+      }
+      .modal-header h3 {
+        margin: 0; font-size: 1.2em; color: var(--accent-green);
+      }
+      .modal-header button {
+        background: none; border: none; color: var(--text-muted); font-size: 1.5em; cursor: pointer;
+      }
+      .modal-header button:hover { color: var(--text-main); }
+      .modal-body label {
+        display: block; margin-bottom: 5px; color: var(--text-muted); font-size: 0.9em;
+      }
+      .modal-body input, .modal-body select {
+        width: 100%; padding: 10px; margin-bottom: 20px;
+        background: var(--bg-main); border: 1px solid var(--border-color);
+        color: var(--text-main); border-radius: 4px; font-family: var(--font-body);
+      }
+      .modal-body input:focus, .modal-body select:focus {
+        outline: none; border-color: var(--accent-green);
+      }
+      .calc-results {
+        background: rgba(0, 255, 136, 0.05);
+        padding: 15px;
+        border-radius: 4px;
+        border-left: 2px solid var(--accent-green);
+      }
+      .calc-results p { margin-top: 0; margin-bottom: 10px; color: var(--text-muted); font-size: 0.9em;}
+      .calc-results ul { margin: 0; padding-left: 20px; list-style: square; font-size: 0.95em; }
+      .calc-results li { margin-bottom: 5px; color: var(--text-main); }
+      .calc-results span { font-family: 'Consolas', 'Monaco', monospace; color: var(--accent-green); font-weight: bold;}
+
       /* 4. MOBILE RESPONSIVE */
       @media (max-width: 768px) {
         body {
@@ -320,8 +388,10 @@
       <a href="{{ '/aboutme.html' | relative_url }}">/despre_mine</a>
       <a href="{{ '/Ghiduri.html' | relative_url }}">/ghiduri_baza</a>
       <a href="{{ 'protocoale/Protocoale.html' | relative_url }}">/protocoale</a>
+      <a href="{{ '/Hall-of-Fame.html' | relative_url }}" style="color: #FFD700;">/hall_of_fame_🏆</a>
       <a href="{{ 'surse/youtubechannels.html' | relative_url }}">/surse_media</a>
       <a href="{{ 'surse/researchlinks.html' | relative_url }}">/surse_stiinta</a>
+      <a href="#" id="open-calc-btn" style="color: var(--accent-green); border-left: 2px solid var(--accent-green); background: rgba(0, 255, 136, 0.05); margin-top: 15px;">[🧮] Calculator Medii</a>
       <hr>
       <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none;">[↗] cod_sursa</a>
     </div>
@@ -339,7 +409,39 @@
       </div>
     </div>
     
+    <!-- Calculator Modal -->
+    <div id="calc-modal" class="modal-overlay">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3>🧮 Calculator Medii</h3>
+          <button id="close-calc-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <label for="calc-volume">Volum Dorit (ml):</label>
+          <input type="number" id="calc-volume" value="500" step="100" min="100">
+          
+          <label for="calc-recipe">Rețetă:</label>
+          <select id="calc-recipe">
+            <option value="full">Full MS (100%)</option>
+            <option value="half" selected>Half MS (50%)</option>
+            <option value="zero">Absolute Zero (Doar Apă, Zahăr, Agar)</option>
+          </select>
+
+          <div class="calc-results">
+            <p>Necesar:</p>
+            <ul>
+              <li>🧪 Pudră MS: <span id="res-ms">...</span> g</li>
+              <li>🍬 Sucroză (Zahăr): <span id="res-sugar">...</span> g</li>
+              <li>🍮 Agar-Agar: <span id="res-agar">...</span> g</li>
+              <li>💧 Apă Distilată: până la <span id="res-water">...</span> ml</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/glossary.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/calculator.js' | relative_url }}"></script>
   </body>
 </html>

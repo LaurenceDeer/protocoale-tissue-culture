@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terminologie & Dicționar (RO-EN)
+description: "Dicționar complet RO-EN cu terminologia folosită în Plant Tissue Culture. Învață ce înseamnă explant, meristem, calus, agar sau PGRs."
 ---
 
 # 📖 Dicționarul Biohackerului (RO - EN)

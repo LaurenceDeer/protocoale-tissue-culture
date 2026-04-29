@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Troubleshooting Vizual
+description: "Identifică și rezolvă cele mai comune probleme în clonarea plantelor in vitro: contaminare, vitrificare, fenolizare și stagnare."
 ---
 
 # 🚨 Troubleshooting Vizual (Ce a mers prost?)

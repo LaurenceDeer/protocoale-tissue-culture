@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ghidul "Absolute Zero"
+description: "Învață cum să clonezi prima plantă acasă cu sub 100 RON. Ghid complet pentru începători în plant tissue culture fără echipament scump."
 ---
 
 # 🧊 Ghidul "Absolute Zero" (Primul Tău Borcan)

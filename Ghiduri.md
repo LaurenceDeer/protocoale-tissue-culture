@@ -1,3 +1,9 @@
+---
+layout: default
+title: Centralizator Ghiduri
+description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la troubleshooting și reducerea contaminării."
+---
+
 <style>
 /* Asta transformă textul simplu într-un card sexy */
 summary {
