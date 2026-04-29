@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Centralizator Ghiduri
 description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la troubleshooting și reducerea contaminării."
@@ -11,7 +11,7 @@ summary {
   padding: 15px;
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-left: 4px solid var(--accent-green);
+  border-left: 4px solid var(--accent-amber);
   border-radius: 4px;
   font-family: var(--font-heading);
   font-weight: 500;
@@ -33,7 +33,7 @@ summary::after {
   content: "[+]";
   font-family: 'Consolas', 'Monaco', monospace;
   font-size: 0.9em;
-  color: var(--accent-green);
+  color: var(--accent-amber);
 }
 
 details[open] summary::after {

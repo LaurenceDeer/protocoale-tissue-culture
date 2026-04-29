@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+﻿document.addEventListener("DOMContentLoaded", function() {
     const openBtn = document.getElementById('open-calc-btn');
     const closeBtn = document.getElementById('close-calc-btn');
     const modal = document.getElementById('calc-modal');
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
             resMs.innerText = "0.00";
             resMs.style.color = "#888888";
         } else {
-            resMs.style.color = "var(--accent-green)";
+            resMs.style.color = "var(--accent-amber)";
         }
     }
 

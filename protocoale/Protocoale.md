@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Protocoale & Specii
 description: "Baza de date cu protocoale open-source de plant tissue culture. Rețete clare pentru sterilizare și medii pentru Monstera, Drosera, Philodendron și altele."
@@ -12,7 +12,7 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
   
   <div class="home-card">
     <a href="drosera.html">
-      <h2 style="color: var(--accent-green);">🌱 Drosera (Roua Cerului)</h2>
+      <h2 style="color: var(--accent-amber);">🌱 Drosera (Roua Cerului)</h2>
       <p>Plantă carnivoră. Protocol complet pentru germinare in vitro și multiplicare. Nivel dificultate: Ușor.</p>
     </a>
   </div>
