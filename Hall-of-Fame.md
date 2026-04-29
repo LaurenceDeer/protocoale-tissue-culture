@@ -9,7 +9,7 @@ description: "Galeria comunității Open Tissue Culture RO. Vezi plantele clonat
 Aici celebrăm reușitele comunității! Tissue culture poate părea science fiction la început, dar aceste imagini dovedesc că **oricine poate să o facă** direct din propria bucătărie sau sufragerie.
 
 Ai reușit și tu să scoți prima plantă din borcan și vrei să o arăți lumii? 
-Urmează instrucțiunile din [CONTRIBUTING.md](CONTRIBUTING.html) sau dă-mi un email cu o poză clară și un mic text despre specia clonată și o vom adăuga aici!
+Urmează instrucțiunile din [CONTRIBUTING.md](surse/CONTRIBUTING.md) sau dă-mi un email cu o poză clară și un mic text despre specia clonată și o vom adăuga aici!
 
 ---
 
