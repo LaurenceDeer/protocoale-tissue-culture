@@ -1,41 +1,47 @@
 <style>
 /* Asta transformă textul simplu într-un card sexy */
 summary {
-  cursor: pointer; /* Face cursorul să devină mână (Hand icon) */
-  padding: 15px; /* Îi dă aer să respire */
-  background-color: #21262d; /* Culoare de fundal (Gri închis GitHub style) */
-  border: 1px solid #30363d; /* Bordură subtilă */
-  border-left: 5px solid #d29922; /* Linia aia portocalie șmecheră în stânga */
-  border-radius: 6px; /* Colțuri rotunjite */
-  font-weight: bold; /* Text gros */
-  color: #c9d1d9; /* Culoare text */
-  margin-bottom: 10px; /* Spațiu între butoane */
-  list-style: none; /* Ascunde săgeata aia urâtă default */
-  display: flex; /* Aliniere modernă */
+  cursor: pointer;
+  padding: 15px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--accent-green);
+  border-radius: 4px;
+  font-family: var(--font-heading);
+  font-weight: 500;
+  color: var(--text-main);
+  margin-bottom: 10px;
+  list-style: none;
+  display: flex;
   align-items: center;
   justify-content: space-between;
+  transition: all 0.2s ease;
 }
 
-/* Asta se întâmplă când pui mouse-ul pe el */
 summary:hover {
-  background-color: #30363d; /* Se luminează puțin */
-  border-left-color: #f2cc60; /* Portocaliul devine mai aprins */
+  background-color: #0c120f;
+  border-left-color: var(--accent-hover);
 }
 
-/* Hack pentru a pune o săgeată custom în dreapta */
 summary::after {
-  content: "🔽"; 
-  font-size: 1.2em;
+  content: "[+]";
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.9em;
+  color: var(--accent-green);
 }
 
-/* Când e deschis, schimbăm săgeata */
 details[open] summary::after {
-  content: "🔼";
+  content: "[-]";
 }
 
-/* Ascundem săgeata default a browserului (că e urâtă) */
 summary::-webkit-details-marker {
   display: none;
+}
+
+details p, details ul {
+  padding-left: 15px;
+  border-left: 1px dashed var(--border-color);
+  margin-left: 15px;
 }
 </style>
 ### WORK IN PROGRESS
@@ -48,6 +54,7 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
     
 Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
 
+* [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.md)
 * [Preparare Medii](./ghiduri/PreparareMedii.md)
 * [SAB vs LFH](./ghiduri/SABvsLFH.md)
 * [Sterilizare](./ghiduri/Sterilizare.md)
@@ -72,6 +79,7 @@ Astea vor face diferența dintre amatori și pro-playeri
 * [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.md)
 * [Reducerea Contaminării](./ghiduri/Contaminarea.md)
 * [Selecția Explantelor](./ghiduri/Selecție-Explante.md)
+* [Troubleshooting Vizual (Probleme și Soluții)](./ghiduri/Troubleshooting.md)
 * [Terminologie-Dicționar](/ghiduri/Dicționar.md)
 
 </details>
