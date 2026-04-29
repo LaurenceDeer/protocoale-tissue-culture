@@ -5,7 +5,7 @@ description: "Primul hub open-source din România dedicat clonării plantelor in
 permalink: /
 ---
 
-> **[🌐 ACCESEAZĂ SITE-UL OFICIAL AICI: laurencedeer.github.io/protocoale-tissue-culture](https://laurencedeer.github.io/protocoale-tissue-culture/)**
+> **[🌐 ACCESEAZĂ SITE-UL OFICIAL AICI: laurencedeer.github.io/protocoale-tissue-culture](https://laurencedeer.github.io/protocoale-tissue-culture/) (Poți ignora liniștit dacă deja ești pe website)**
 
 # 🇷🇴 Laboratorul Tău în Borcan 🇷🇴
 **Ghidul open-source pentru clonarea plantelor în sufragerie.**
