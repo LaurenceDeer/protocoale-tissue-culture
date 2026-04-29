@@ -20,7 +20,7 @@
         --border-hover: #2A2A2A;
         --text-main: #E0E0E0;
         --text-muted: #888888;
-        --accent-green: #00FF88;
+        --accent-amber: #FFB000;
         --accent-hover: #10B981;
         --font-body: 'Inter', sans-serif;
         --font-heading: 'Outfit', sans-serif;
@@ -77,9 +77,9 @@
         display: inline-block;
         width: 8px;
         height: 8px;
-        background-color: var(--accent-green);
+        background-color: var(--accent-amber);
         border-radius: 50%;
-        box-shadow: 0 0 8px rgba(0, 255, 136, 0.4);
+        box-shadow: 0 0 8px rgba(255, 176, 0, 0.4);
       }
 
       .sidebar a {
@@ -96,9 +96,9 @@
       }
 
       .sidebar a:hover, .sidebar a.active {
-        background-color: rgba(0, 255, 136, 0.05);
-        color: var(--accent-green);
-        border-left: 2px solid var(--accent-green);
+        background-color: rgba(255, 176, 0, 0.05);
+        color: var(--accent-amber);
+        border-left: 2px solid var(--accent-amber);
       }
 
       .sidebar hr {
@@ -147,7 +147,7 @@
       }
 
       a {
-        color: var(--accent-green);
+        color: var(--accent-amber);
         text-decoration: none;
       }
 
@@ -183,8 +183,8 @@
       }
 
       blockquote {
-        border-left: 3px solid var(--accent-green);
-        background: rgba(0, 255, 136, 0.03);
+        border-left: 3px solid var(--accent-amber);
+        background: rgba(255, 176, 0, 0.03);
         margin: 1.5em 0;
         padding: 1em 1.5em;
         color: var(--text-muted);
@@ -230,7 +230,7 @@
         transition: border-color 0.2s ease, background-color 0.2s ease;
       }
       .home-card:hover {
-        border-color: var(--accent-green);
+        border-color: var(--accent-amber);
         background-color: #0c120f; /* Slight green tint */
       }
       .home-card h2 {
@@ -253,7 +253,7 @@
 
       /* Glossary Tooltips */
       .glossary-term {
-        border-bottom: 1px dotted var(--accent-green);
+        border-bottom: 1px dotted var(--accent-amber);
         color: var(--text-main);
         cursor: help;
         position: relative;
@@ -268,7 +268,7 @@
         background-color: var(--bg-card);
         color: var(--text-main);
         padding: 8px 12px;
-        border: 1px solid var(--accent-green);
+        border: 1px solid var(--accent-amber);
         border-radius: 4px;
         font-size: 0.85em;
         font-family: var(--font-body);
@@ -303,12 +303,12 @@
       }
       .modal-content {
         background: var(--bg-card);
-        border: 1px solid var(--accent-green);
+        border: 1px solid var(--accent-amber);
         border-radius: 6px;
         width: 90%;
         max-width: 400px;
         padding: 25px;
-        box-shadow: 0 0 20px rgba(0, 255, 136, 0.1);
+        box-shadow: 0 0 20px rgba(255, 176, 0, 0.1);
         transform: translateY(20px);
         transition: transform 0.2s ease;
       }
@@ -324,7 +324,7 @@
         margin-bottom: 20px;
       }
       .modal-header h3 {
-        margin: 0; font-size: 1.2em; color: var(--accent-green);
+        margin: 0; font-size: 1.2em; color: var(--accent-amber);
       }
       .modal-header button {
         background: none; border: none; color: var(--text-muted); font-size: 1.5em; cursor: pointer;
@@ -339,18 +339,18 @@
         color: var(--text-main); border-radius: 4px; font-family: var(--font-body);
       }
       .modal-body input:focus, .modal-body select:focus {
-        outline: none; border-color: var(--accent-green);
+        outline: none; border-color: var(--accent-amber);
       }
       .calc-results {
-        background: rgba(0, 255, 136, 0.05);
+        background: rgba(255, 176, 0, 0.05);
         padding: 15px;
         border-radius: 4px;
-        border-left: 2px solid var(--accent-green);
+        border-left: 2px solid var(--accent-amber);
       }
       .calc-results p { margin-top: 0; margin-bottom: 10px; color: var(--text-muted); font-size: 0.9em;}
       .calc-results ul { margin: 0; padding-left: 20px; list-style: square; font-size: 0.95em; }
       .calc-results li { margin-bottom: 5px; color: var(--text-main); }
-      .calc-results span { font-family: 'Consolas', 'Monaco', monospace; color: var(--accent-green); font-weight: bold;}
+      .calc-results span { font-family: 'Consolas', 'Monaco', monospace; color: var(--accent-amber); font-weight: bold;}
 
       /* 4. MOBILE RESPONSIVE */
       @media (max-width: 768px) {
@@ -383,12 +383,12 @@
 
     <div class="sidebar">
       <div style="text-align: center; margin-bottom: 20px;">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Open Tissue Culture Logo" style="max-width: 120px; border-radius: 8px; border: 2px solid var(--accent-green);">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Open Tissue Culture Logo" style="max-width: 120px; border-radius: 8px; border: 2px solid var(--accent-amber);">
         <h3 style="margin-top: 15px;">TC-RO_Term</h3>
       </div>
       
       <div id="search-container" style="margin-bottom: 20px;">
-        <input type="text" id="search-input" placeholder="🔍 Caută protocol..." style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background: var(--bg-main); color: var(--text-main); font-family: var(--font-body); box-sizing: border-box;">
+        <input type="text" id="search-input" placeholder="ðŸ” CautÄƒ protocol..." style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background: var(--bg-main); color: var(--text-main); font-family: var(--font-body); box-sizing: border-box;">
         <ul id="results-container" style="list-style: none; padding: 0; margin-top: 10px; font-size: 0.9em;"></ul>
       </div>
       
@@ -396,14 +396,14 @@
       <a href="{{ '/aboutme.html' | relative_url }}">/despre_mine</a>
       <a href="{{ '/Ghiduri.html' | relative_url }}">/ghiduri_baza</a>
       <a href="{{ 'protocoale/Protocoale.html' | relative_url }}">/protocoale</a>
-      <a href="{{ '/Hall-of-Fame.html' | relative_url }}" style="color: #FFD700;">/hall_of_fame_🏆</a>
+      <a href="{{ '/Hall-of-Fame.html' | relative_url }}" style="color: #FFD700;">/hall_of_fame_ðŸ†</a>
       <a href="{{ 'surse/youtubechannels.html' | relative_url }}">/surse_media</a>
       <a href="{{ 'surse/researchlinks.html' | relative_url }}">/surse_stiinta</a>
       <a href="{{ 'surse/CONTRIBUTING.html' | relative_url }}">/cum_sa_contribui</a>
-      <a href="#" id="open-calc-btn" style="color: var(--accent-green); border-left: 2px solid var(--accent-green); background: rgba(0, 255, 136, 0.05); margin-top: 15px;">[🧮] Calculator Medii</a>
-      <a href="https://paypal.me/CVLaur" target="_blank" style="color: #2ea043; border-left: 2px solid #2ea043; background: rgba(46, 160, 67, 0.05); margin-top: 10px;">[☕] Susține (PayPal)</a>
+      <a href="#" id="open-calc-btn" style="color: var(--accent-amber); border-left: 2px solid var(--accent-amber); background: rgba(255, 176, 0, 0.05); margin-top: 15px;">[ðŸ§®] Calculator Medii</a>
+      <a href="https://paypal.me/CVLaur" target="_blank" style="color: #2ea043; border-left: 2px solid #2ea043; background: rgba(46, 160, 67, 0.05); margin-top: 10px;">[â˜•] SusÈ›ine (PayPal)</a>
       <hr>
-      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none;">[↗] cod_sursa</a>
+      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none;">[â†—] cod_sursa</a>
     </div>
 
     <div class="main-content">
@@ -423,27 +423,27 @@
     <div id="calc-modal" class="modal-overlay">
       <div class="modal-content">
         <div class="modal-header">
-          <h3>🧮 Calculator Medii</h3>
+          <h3>ðŸ§® Calculator Medii</h3>
           <button id="close-calc-btn">&times;</button>
         </div>
         <div class="modal-body">
           <label for="calc-volume">Volum Dorit (ml):</label>
           <input type="number" id="calc-volume" value="500" step="100" min="100">
           
-          <label for="calc-recipe">Rețetă:</label>
+          <label for="calc-recipe">ReÈ›etÄƒ:</label>
           <select id="calc-recipe">
             <option value="full">Full MS (100%)</option>
             <option value="half" selected>Half MS (50%)</option>
-            <option value="zero">Absolute Zero (Doar Apă, Zahăr, Agar)</option>
+            <option value="zero">Absolute Zero (Doar ApÄƒ, ZahÄƒr, Agar)</option>
           </select>
 
           <div class="calc-results">
             <p>Necesar:</p>
             <ul>
-              <li>🧪 Pudră MS: <span id="res-ms">...</span> g</li>
-              <li>🍬 Sucroză (Zahăr): <span id="res-sugar">...</span> g</li>
-              <li>🍮 Agar-Agar: <span id="res-agar">...</span> g</li>
-              <li>💧 Apă Distilată: până la <span id="res-water">...</span> ml</li>
+              <li>ðŸ§ª PudrÄƒ MS: <span id="res-ms">...</span> g</li>
+              <li>ðŸ¬ SucrozÄƒ (ZahÄƒr): <span id="res-sugar">...</span> g</li>
+              <li>ðŸ® Agar-Agar: <span id="res-agar">...</span> g</li>
+              <li>ðŸ’§ ApÄƒ DistilatÄƒ: pÃ¢nÄƒ la <span id="res-water">...</span> ml</li>
             </ul>
           </div>
         </div>
@@ -461,7 +461,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ "/search.json" | relative_url }}',
-        searchResultTemplate: '<li style="margin-bottom: 5px;"><a href="{url}" style="color: var(--accent-green); text-decoration: none; display: block; border-left: 1px solid var(--border-color); padding-left: 5px;">> {title}</a></li>',
+        searchResultTemplate: '<li style="margin-bottom: 5px;"><a href="{url}" style="color: var(--accent-amber); text-decoration: none; display: block; border-left: 1px solid var(--border-color); padding-left: 5px;">> {title}</a></li>',
         noResultsText: '<li style="color: var(--text-muted);">0 rezultate...</li>'
       })
     </script>

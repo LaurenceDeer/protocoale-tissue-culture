@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
             resMs.innerText = "0.00";
             resMs.style.color = "#888888";
         } else {
-            resMs.style.color = "var(--accent-green)";
+            resMs.style.color = "var(--accent-amber)";
         }
     }
 
