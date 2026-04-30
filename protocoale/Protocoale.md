@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Protocoale & Specii
 description: "Baza de date cu protocoale open-source de plant tissue culture. Rețete clare pentru sterilizare și medii pentru Monstera, Drosera, Philodendron și altele."
@@ -17,10 +17,10 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
     </a>
   </div>
 
-  <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
-    <a>
-      <h2>🌿 Monstera Albo / Thai </h2>
-      <p>În lucru (WIP). Se testează protocolul de multiplicare nodală și prevenirea fenolizării extreme.</p>
+  <div class="home-card">
+    <a href="monstera.html">
+      <h2 style="color: var(--accent-amber);">🌿 Monstera (Deliciosa / Thai) </h2>
+      <p>Aroide. Protocol extragere muguri axilari, mediu cu citokinine (BAP) și aclimatizare biostimulată. Nivel: Greu.</p>
     </a>
   </div>
 

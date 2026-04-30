@@ -1,0 +1,358 @@
+Live and Applied Science, Volume 1 
+Prosiding Seminar Bioteknologi Nasional (SimBioN) 2022 
+Diselenggarakan di Malang, 27 Agustus 2022 
+e-ISSN (2964-772X) 
+ 
+Optimization of Surface Sterilization and Organogenesis 
+Protocol for Monstera spp. 
+Tjahjono, A.P.I, 1*,Karmawan, L.U,1 
+1 Department of Biotechnology, Faculty of Technobiology, Atma Jaya Catholic University, 
+*Penulis korespondensi, Surel: listya.utami@atmajaya.ac.id 
+ 
+Abstrak 
+In vitro micropropagation provides faster and more economical solutions to increase world 
+ornamental plant demands. The present study focuses on surface sterilization and multiple shoot  
+induction of Monstera adansonii and M. deliciosa. Combination of sterilant agen t such as 70%  
+ethanol (1 min) + 10% NaClO (5 min) + 5% NaClO (5 min) + 2% NaClO (5 min) has highest M.  
+deliciosa (80.53%) and M. adansonii (65.77%) culture viability. Meanwhile, the highest callus 
+formation on M. deliciosa was achieved in Murashige and Sko og medium supplemented with 0.5  
+ppm BAP + 0.1 ppm TDZ. Taken all together, this study achieved a sterilization protocol and callus  
+induction of M. deliciosa and could be considered for large -scale multiplication. In addition, serve as 
+a base for further detailed analysis of organogenesis induction for both Monstera species 
+ 
+Keywords: micropropagation, Monstera, organogenesissurface sterilization 
+ 
+1. Introduction 
+Ornamental plants are an important part of agriculture and horticulture and have great  
+significance for beautifying  and improving  humans’ living  environment, cultivating human 
+sentiment, and promoting structural adjustments in the industry (Zheng et al. 2021). 
+Ornamental plants such as Monstera adansonii and M. deliciosa, are the most beloved and  
+popular products in the fast -changing horticulture industry. International trade, urbanization,  
+climate change, sustainability -oriented consumption patterns, and  the COVID -19 pandemic 
+have increased the supply and demand of plants (Benderradji et al. 2012; Gabellini et al. 2022) 
+Monstera spp. conventional propagation methods such as seed planting, nodes, and 
+shoot cutting, could not keep up with all the demands as they produced a low number of  
+products in a short time and large losses due to pests, pathogen which could cause disease  
+(Bettaieb 2018; Carvalho et al. 2019). As the solution, in vitro micropropagat ion can increase 
+plants’ mass production on a large scale in a short time (Kumari et al. 2017). The advantages of 
+micropropagations are high fecundity, often producing more robust plants, and space 
+efficiency compared to a conventional technique (Roberts a nd Schum 2003; Cardoso et al.  
+2018). 
+In vitro micropropagation of Monstera spp. through seedlings (Fonnesbech and 
+Fonnesbech 1980), lateral buds and nodes (Zanca and Zaffari 2013), leaf and disk stem 
+(Palomeque et al. 2019) have also been investigated. Most of the studies were concerned with  
+surface sterilization protocols, browning on the explants, and the effect of various plant growth 
+hormones (PGRs) on shoot multiplication efficiency. A simple and efficient protocol for 
+ornamental plants is needed to increase the supply of the demands. Furthermore, there are no  
+experiments on, M. adansonii and M. deliciosa successful organogenesis. 
+This study aimed to determine effective surface sterilization protocols by using different 
+sterilizing agents, the response of different types of Monstera spp. explants to various culture  
+media components including lamina, petiole, and midribs, test the effects of PGRs including  
+cytokinins (6-benzylaminopurine, thidiazuron) on organogenesis of Monstera spp. explants, 
+ 
+Copyright © 2022 The Authors. Published by Universitas Negeri Malang. 
+This is an open access article distributed under the CC BY-NC 4.0 license -http://creativecommons.org/licenses/by-nc/4.0/. 
+
+Live and Applied Science, Volume 1 
+179 
+ 
+ 
+ 
+ 
+ 
+and to develop a procedure for mass production for ornamental plants needed to increase the 
+supply of the demands. 
+2. Methods 
+This research was done at the Plant Tissue Culture Laboratorium, Faculty of 
+Biotechnology, the Atma Jaya Catholic University of Indonesia from 2021 to 2022. The  
+materials needed were Monstera adansonii and M. deliciosa plants, sterilant agents, and  
+PGR. There were several stages of methods, including plant preparation, surface 
+sterilization, organogenesis induction, explant growth measurement, and data analysis. 
+ 
+2.1. Plant Preparation 
+Monstera adansonii, and M. deliciosa were collected Larch Studio Nursery (Kemang, 
+Jakarta). Stock plants were then placed in Green House (Atma Jaya University, BSD, 
+Tangerang) and sprayed with Bactocyn (2%) every two days for three weeks. Monstera  
+spp. explants (1 cm midribs) were used as experimental material. 
+ 
+2.2. Surface Sterilization 
+Monstera spp. explants were sterilized according to (Palomeque et al. 2019) with 
+modifications (Table 1). Explants were washed in commercial liquid soap and rinsed in  
+running water for 20-30 minutes then sterilized with sterilizing agents such as 70% 
+ethanol and commercial sodium hypochlorite (NaClO) Explant was then rinsed in sterilized 
+distilled water four times for 5  minutes each, placed  on sterilized  blotting paper, and  
+finally placed on an organogenesis medium. To evaluate optimum surface sterilization,  
+explants were observed every day. The number of sterile explants, i.e., those plants which  
+were without bacterial, yeast, or fungal contamination and still viable, was recorded after 8 
+weeks (Daud et al. 2012). The data was then compared in each method by using statistical  
+analysis. 
+ 
+2.3. Organogenesis Induction 
+Monstera spp. were planted in organogenesis induction media according to Imelda et al.  
+(2007) with modification. A control medium (MS0) consisted of 4.43 g/L Murashige and  
+Skoog (1962) (MS) instant medium, 30 g/L sucrose, and 10 g/L agar. To induct 
+organogenesis on Monstera spp., the explant was placed in MS0 supplemented with 
+various concentrations of PGR (Table 2). Growth medium then pH adjusted to 5.7 before  
+autoclaving at 121°C and 15 psi for 15 minutes. After sterilization, explants were then  
+cultured organogenesis medium. Monstera spp. were set in dark conditions for indir ect 
+organogenesis for 4 -8 weeks. Explants were then subcultured every 3 months into the  
+same medium. 
+ 
+2.4. Monstera sp. Callus Growth Measurement 
+All data were expressed as mean ± standard error. After 6 weeks, Monstera spp. callus  
+growth area was quantified with the ImageJ application (Schneider et al. 2012) from 
+photos taken on the sterile Petri dishes, including a ruler for measurement and black  
+colored paper. The percentage of Monstera sp. callus area was then calculated using the  
+formula below 
+ 
+
+Live and Applied Science, Volume 1 
+180 
+ 
+ 
+ 
+ 
+ 
+2.5. Data Analysis 
+The data were analyzed using IBM SPSS Statistics (SPSS Inc. 2008). Normality and 
+homogeneity of the data were then analyzed with Kolmogorov -Smirnov and Levene’s Test 
+respectively. Then if the data did not meet the assumptions of parametric tests (i.e., 
+ANOVA, Independent T-Test), non-parametric tests were used (i.e., Kruskal –Wallis). If the 
+data met the assumptions of the ANOVA test, then they were used followed post -hoc by 
+Tukey's test at the 5% probability level. 
+3. Result and Discussion 
+ 
+3.1. Gambar dan Tabel 
+Table 1 Standardization of surface sterilization treatments for Monstera spp. 
+ 
+ 
+ 
+p value 
+Explants’ 
+species Method Sterilization agent Duration Explant Oxidation Contamination Culture 
+viability 
+of 
+culture 
+viability 
+ 
+3 
+Monstera 
+deliciosa 
+70% ethanol + 20% 
+NaClO + 10% NaClO + 
+2% NaClO 
+70% ethanol + 10% 
+1 min +5 
+min + 5 min 
++ 5 min 
+1 min +10 
+ 
+Midrib 
+3.33 ± 1.67 ± 0.33 
+0.88 
+9.00 ± 
+0.58a 
+ 
+ 
+0.00 
+4 
+ 
+ 
+3 
+Monstera 
+adansonii 
+4 
+NaClO + 5% NaClO + 
+2% NaClO 
+ 
+70% ethanol + 20% 
+NaClO + 10% NaClO + 
+2% NaClO 
+ 
+70% ethanol + 10% 
+NaClO + 5% NaClO + 
+2% NaClO 
+min + 10 
+min + 10 
+min 
+1 min +5 
+min + 
+5 min + 5 
+min 
+1 min +10 
+min + 
+10 min + 10 
+min 
+Midrib 0.67 ± 
+0.33 
+ 
+ 
+Midrib 1.67 ± 
+0.88 
+ 
+ 
+Midrib 15.67 ± 
+2.33 
+6.67 ± 0.88 37.67 ± 
+0.67b 
+ 
+ 
+7 ± 1.15 3.00 ± 
+1.15a 
+ 
+ 
+8 ± 0.58 24.33 ± 
+0.88b 
+ 
+ 
+ 
+ 
+ 
+0.00 
+All data were expressed as mean ± standard error. Different lowercase letters in each column indicate significant differences 
+among different treatments 
+ 
+Table 2 Effects of TDZ and BAP on callus development of Monstera deliciosa 
+ 
+  Media Callus Area %  
+T0.1B0.25 11.39 ± 2.18a 
+T0.1B0.5 17.96 ± 3.07a 
+T0.1B1.0 13.99 ± 0.70a 
+T0.2B0.25 10.56 ± 1.36a 
+T0.2B0.5 8.55 ± 0.00a 
+T0.2B1.0 16.88 ± 1.98a 
+T0.3B02.5 14.33 ± 3.46a 
+T0.3B0.5 17.16 ± 0.06a 
+  T0.3B1.0 15.59 ± 2.51a  
+All data were expressed as mean ± standard error. Different lowercase letters in each column indicate significant differences 
+among different treatments 
+Live and Applied Science, Volume 1 
+181 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Monstera adansonii callus growth after 6 weeks 
+ 
+Figure 2 Monstera deliciosa callus growth after 6 weeks 
+ 
+ 
+ 
+3.2 Surface Sterilization of Monstera spp. 
+Monstera deliciosa surface culture on midrib explant sterilization in method 4 (70%  
+ethanol 1 min + 10% NaClO 10 min + 5% NaClO 10 min + 2% NaClO 10 min) achieved high  
+viability percentages  (80.53%) witha low percentage of  oxidation (1.77%)  even when the  
+explant was washed for a longer duration. Method 3 has higher oxidation rate (23.81%) and  
+produced low amounts of viability (64.29%) (Table 1). 
+Similar to M. deliciosa, M. adans onii midrib explant surface culture sterilization using  
+method 4 achieved highest viability percentages (65.77%). Although in lower NaClO 
+percentages, the explant still oxidized in higher percentages (23.81%) compared to Method 3.  
+Method 3 has a higher contamination rate (70%) and produced low amounts of viability 
+(13.33%). 
+Both Monstera surface sterilization, a lower concentration of NaClO and longer duration  
+of exposure resulted in higher explant viability. High contamination on the explant may be  
+avoided by using different types, higher concentrations, and longer exposure to sterilization 
+agents (Singh 2018). This method also resulted low oxidation compared to previous method 
+by Palomeque et al. (2019) without using antioxidant. NaClO sterilization agent is effective  
+against contamination but in higher concentrations could induce browning or blackening in  
+explants. Due to their strong oxidizing properties, NaClO is extremely reactive with nucleic 
+
+Live and Applied Science, Volume 1 
+182 
+ 
+ 
+ 
+ 
+ 
+acids, amines, and amino acids. (Mihaljević et al. 2013). Oxidation of phenolic compounds  
+present in the tissues when excised and exposed to sterilant may induced browning on the  
+explant (Prosanta et al. 2015; Permata and Susandarini 2022). 
+3.3 Organogenesis Induction of Monstera spp. 
+After 6 weeks, M. adansonii did not produced callus as the explant did not response to  
+PGRs in the media (Figure 1).  Monstera deliciosa callus growth was observed through white  
+callus proliferation on the surface and/or from within the explant (Figure 2). The callus growth 
+was friable and did not produce shoot nor roots. Better callus growth responses (17.51% and  
+17.18%) were observed in cultures initiated from T0.2B0.25 and T0.2B1.0 media respectively  
+(Table 5). 
+Organogenesis media of M. deliciosa contained BAP and TDZ. M. deliciosa callus growth  
+is at its lowest in media with a low concentration of BAP and TDZ. At high BAP and TDZ  
+concentrations, callus growth may be inhibited. On M. adansonii callus growth, explants 
+became yellow after callus induction which indicated death on plant tissue. Low callus 
+production was caused by less endogenous auxin existing inside of the explant. The induction  
+of callus is stimulated by the intermediate auxin/cytokinin ratio. Low callus produ ction was 
+caused by less endogenous auxin existing inside of the explant. The intermediate ratio of auxin  
+and cytokinin promotes callus induction (Ikeuchi et al. 2013). 
+In this research, combination of BAP and TDZ is not suitable for inducing callus for  
+Monstera spp. micropropagation. Even more, shoot produced during the organogenesis 
+induction using midrib explant. Therefore, the combination of PGRs to induce organogenesis 
+on M. deliciosa still need to be explored. 
+Organogenesis induction been successfully done by Palomeque et al. (2019) but with  
+different species of Monstera that has been used in this study. The M. acuminata plant buds’  
+explant was cut into 1 mm thick disk. The explants were then planted in MS medium 
+supplemented with BAP 1 mg/L + IAA 0.5 mg/ L + NAA 0.1 mg/L. After 35 days of 
+organogenesis induction, there were white callus friable callus growth in explant and shoot  
+growth was observed after 45 days of induction. 
+4. Conclusions 
+In the present study, highlighted M. deliciosa and M. adansonii sterilization by using 
+70% ethanol 1 min + 10% NaClO 10 min + 5% NaClO 10 min + 2% NaClO 10 min was produced 
+explants with a high percentage of viability (80.53% and 65.77% respectively) with a low  
+percentage of oxidation. Organogenesis micropropagation on 0.5 ppm BAP + 0.1 ppm TDZ  
+could induce callus in M. deliciosa midrib explant, however this combination of PGR was not  
+suitable to inducing organogenesis. This work could serve as a base for further detailed 
+analysis of M. adansonii and M. deliciosa surface sterilization and optimum organogenesis. 
+Citation 
+Benderradji L, Brini F, Kellou K, Ykhlef N, Djekoun A, Masmoudi K, Bouzerzour H. 2012. Callus Induction,  
+Proliferation, and Plantlets Regeneration of Two Bread Wheat (Triticum aestivum L.) Genotypes under  
+Saline and Heat Stress Conditions. ISRN Agron. 2012:1–8. DOI:10.5402/2012/367851. 
+Bettaieb T. 2018. Micropropagation of Ornamental Plants: Research and Practice. Nov Sci Publ.:224. DOI:978 - 
+1-53614-541-0. 
+Cardoso JC, Sheng Gerald LT, Teixeira da Silva JA. 2018. Micropropagation in the Twenty-First Century. 
+Methods Mol Biol. 1815:17–46. DOI:10.1007/978-1-4939-8594-4_2. 
+Carvalho LM, Souza B, de Sousa ALV. 2019. Ornamental plants. Nat Enemies Insect Pests Neotrop 
+Agroecosystems Biol Control Funct Biodivers.:355–368. DOI:10.1007/978-3-030-24733-1_29. 
+Live and Applied Science, Volume 1 
+183 
+ 
+ 
+ 
+ 
+ 
+Daud N, Jayaraman S, Mohamed R. 2012. Methods paper: An improved surface sterilization technique for  
+introducing leaf, nodal and seed explants of Aquilaria malaccensis from field sources into tissue 
+culture. Asia-Pacific J Mol Biol Biotechnol.:55–58. 
+Fonnesbech A, Fonnesbech M. 1980. In Vitro Propagation of Monstera Deliciosa. HortScience. 15(6):740 –741. 
+Gabellini S, Scaramuzzi S, Beruto M, Dhooghe E, Dunn B. 2022. Evolving Consumption Trends, Marketing 
+Strategies, and Governance Settings in Ornamental Horticulture: A Grey Literature Review. Hortic 
+2022, Vol 8, Page 234. 8(3):234. DOI:10.3390/HORTICULTURAE8030234. 
+Ikeuchi M, Sugimoto K, Iwase A. 2013. Plant Callus: Mechanisms of Induction and Repression. Plant Cell. 
+25(9):3159–3173. DOI:10.1105/TPC.113.116053. 
+Imelda M, Wulansari A, Poerba YS. 2007. Mikropropagasi Tanaman Iles-iles (Amorphophallus muelleri Blume). 
+Ber Biol. 8(4):271–277. 
+Kumari A, Baskaran P, Van Staden J. 2017. In vitro regeneration of Begonia homonyma — A threatened plant. 
+South African J Bot. 109:174–177. DOI:10.1016/J.SAJB.2016.12.027. 
+Mihaljević I, Dugalić K, Tomaš V, Viljevac M, Pranjić A, Čmelik Z, Puškar B, Jurković Z. 2013. In vitro 
+sterilization procedures for micropropagation of ‘oblačinska’ sour cherry. J Agric Sci Belgrade. 
+58(2):117–126. DOI:10.2298/JAS1302117M. 
+Murashige T, Skoog F. 1962. A Revised Medium for Rapid Growth and Bio Assays with Tobacco Tissue 
+Cultures. Physiol Plant. 15(3):473–497. DOI:10.1111/J.1399-3054.1962.TB08052.X. 
+Palomeque NMC, Bertolini V, Donjuan LI. 2019. In vitro establishment of Monstera acuminata Koch and 
+Monstera deliciosa Liebm. Acta Agron. 68(3). DOI:10.15446/ACAG.V68N3.75891. 
+Permata DA, Susandarini R. 2022. Morphological diversity and phenetic relationship of wild and cultivated  
+Begonia based on morphology and leaf venation. Biodiversitas J Biol Divers. 23(2):928–937. 
+DOI:10.13057/BIODIV/D230235. 
+Prosanta P, Mainak C, Indrajit K, Sagnik H, Avratanu D, Kanti HP. 2015. In vitro Antioxidant Activity and Total  
+Phenolic Content of Monstera deliciosa. Available online www.ijppr.com Int J Pharmacogn Phytochem  
+Res. 7(3). 
+Roberts AV, Schum A. 2003. CELL, TISSUE AND ORGAN CULTURE | Micropropagation. Encycl Rose Sci.:57–66. 
+DOI:10.1016/B0-12-227620-5/00124-5. 
+Schneider CA, Rasband WS, Eliceiri KW. 2012. NIH Image to ImageJ: 25 years of image analysis. Nat Methods  
+2012 97. 9(7):671–675. DOI:10.1038/nmeth.2089. 
+Singh CR. 2018. Review on Problems and its Remedy in Plant Tissue Culture. Asian J Biol Sci. 11(4):165–172. 
+DOI:10.3923/ajbs.2018.165.172. 
+SPSS Inc. 2008. SPSS Statistics for Windows, Version 17.0. Chicago: SPSS Inc. 
+Zanca S, Zaffari G. 2013. In Vitro Micropropagation of Monstera Obliqua Miq. Plant Cell Cult Micropropag. 
+9(1):9–16. 
+Zheng T, Li P, Li L, Zhang Q. 2021. Research advances in and prospects of ornamental plant genomics. Hortic  
+Res. 8(1):65. DOI:10.1038/S41438-021-00499-X/42043717/41438_2021_ARTICLE_499.PDF. 

@@ -1,0 +1,708 @@
+Citation: Jing, Y.; Beleski, D.;
+Vendrame, W. Micropropagation and
+Acclimatization ofMonstera deliciosa
+Liebm. ‘Thai Constellation’.
+Horticulturae 2024, 10, 1.
+https://doi.org/10.3390/
+horticulturae10010001
+Academic Editors: Margherita Beruto,
+Emmy Dhooghe and Bruce Dunn
+Received: 28 November 2023
+Revised: 11 December 2023
+Accepted: 14 December 2023
+Published: 19 December 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+horticulturae
+Article
+Micropropagation and Acclimatization of Monstera deliciosa
+Liebm. ‘Thai Constellation’
+Yifan Jing, David Beleski and Wagner Vendrame *
+Environmental Horticulture Department, Institute of Food and Agricultural Sciences, University of Florida,
+Gainesville, FL 32611, USA; yifan.jing@ufl.edu (Y.J.); dbeleski@ufl.edu (D.B.)
+* Correspondence: vendrame@ufl.edu
+Abstract: Monstera deliciosa Liebm. ‘Thai Constellation’ is a variegated variety ofM. deliciosa belonging
+to the family Araceae, which has become a new favorite in the foliage plant market. However, limited
+studies exist on its propagation, and growers have difficulties in achieving large-scale production.
+This study aimed at developing an efficient protocol for the micropropagation of M. deliciosa using
+SETIS™ temporary immersion bioreactors. Furthermore, we aimed at evaluating the role of a
+novel biostimulant (IQ Forte) in the acclimatization of M. deliciosa. Significant differences were
+observed among the different treatments, showing higher multiplication rates under TIS conditions
+as compared to the semi-solid control. Adjusting immersion parameters also showed benefits in
+improving multiplication rates. The novel biostimulant (IQ Forte) did not provide significant gains in
+growth of M. deliciosa ‘Thai Constellation’ during acclimatization.
+Keywords: acclimatization; bioreactor; biostimulant; in vitro; IQ Forte; micropropagation; Monstera
+deliciosa; semi-solid; TIS
+1. Introduction
+Monstera deliciosa Liebm., also known as ceriman (Trinidad) or piñanona (Mexico), is a
+climbing vine (growing to a height of 30 ft or more) that belongs to the family Araceae [1,2].
+It has been spread around the world as an ornamental foliage plant that can be used indoors
+or outdoors [3]. M. deliciosa ‘Thai Constellation’ is a new variant ofM. deliciosa, possessing
+variegated leaves and being relatively genetically stable. Unfortunately, the plant grows
+slowly, and cuttings can be a challenge to root, driving up the price. The rapid propagation
+of M. deliciosa by tissue culture technology not only is conducive to the maintenance of
+excellent characters but also provides a large number of plantlets for plant cultivation [4].
+In vitro clonal propagation of plants is popularly called micropropagation because
+of the miniaturization of the process [ 5]. Temporary immersion system (TIS) is one of
+the most advanced tools for commercial micropropagation. It works by using a semi-
+automated bioreactor to immerse cells, tissues, or organs in a liquid culture medium for
+a period of time. Hyperhydricity can be remedied by TIS, which exposes explants to
+liquid media intermittently rather than continuously [ 6]. Two variants of this system
+have been developed and are currently on the market: the Recipient for Automated
+Temporary Immersion system (RITA®) and the twin-flasks system (BIT®) [7]. More recently,
+a new bioreactor system has been developed (SETIS™ , Vervit, Lochristi, Belgium), which
+allows for increased light irradiation, automation of cultivation systems, easy handling,
+and large culture medium capacity, and successful protocols have been reported for the
+micropropagation of banana and vanilla [8–10].
+The term acclimatization is defined as the climatic adaptation of an organism, espe-
+cially a plant, that has been moved to a new environment [ 11,12]. Acclimatization is an
+important step in micropropagation. Biostimulants are defined as materials that contain
+substance(s) and/or microorganisms, whose function when applied to plants or the rhi-
+zosphere is to stimulate natural processes to enhance/benefit nutrient uptake, nutrient
+Horticulturae 2024, 10, 1. https://doi.org/10.3390/horticulturae10010001 https://www.mdpi.com/journal/horticulturae
+Horticulturae 2024, 10, 1 2 of 11
+efficiency, tolerance to abiotic stress, and/or crop quality, independent of its nutrient con-
+tent [13,14]. Protein hydrolysates (PHs) are a category of plant biostimulants defined as
+mixtures of polypeptides, oligopeptides, and amino acids that are manufactured from
+protein sources using partial hydrolysis [ 15,16]. Plant-derived PHs are gaining greater
+acceptance by farmers due to their richness in bioactive compounds and their great efficacy
+in enhancing crop performance [17]. The use of protein hydrolysis products as stimulants
+to assist plants in acclimatization seems to be a viable option at present.
+The goal of this study was to evaluate the efficiency of the SETIS™ bioreactor for the
+micropropagation of M. deliciosa ‘Thai Constellation’ as compared to a conventional semi-
+solid culture system. The development of a new micropropagation system for M. deliciosa
+may contribute to its large-scale commercialization. In view of the absence of data regarding
+the acclimatization of M. deliciosa ‘Thai Constellation’, the present study also had the
+objective of evaluating the effects of IQ Forte as a biostimulant on the acclimatization of
+in vitro-derived plantlets of M. deliciosa ‘Thai Constellation’.
+2. Materials and Methods
+2.1. Plant Material and Culture Establishment
+Plants of M. deliciosa ‘Thai Constellation’ were obtained from an ornamental nursery
+in Homestead, Florida, and in vitro cultures were established in the micropropagation
+laboratory of the Environmental Horticulture Dept., University of Florida, in Gainesville,
+FL. The axillary buds were collected and washed in the sink with soap and water, surface
+sterilized using 2% sodium hypochlorite (NaClO) for 20 min, and then rinsed in dH2O
+(distilled water). Subsequently, the outer leaf layer and tissue were removed. The buds
+again were put in a fresh solution of 2% sodium hypochlorite for another 20 min and then
+rinsed 3 times. Explants were initially propagated in agar-based medium.
+In vitro shoots were multiplied through axillary shoot multiplication in semi-solid
+modified MS medium [ 18] including B5 vitamins supplemented with 30 g/L sucrose,
+2.5 g/L gellan gum, 7.5 mg/L BAP (6-benzylaminopurine), and 0.5 mg/L NAA (naphtha-
+lene acetic acid). The medium pH was adjusted to 5.6–5.8 before autoclaving at 121 ◦C for
+25 min at 1.2 kg cm−2. About 40 mL of medium was dispensed into baby food jars. This
+allowed the development of multiple axillary shoots and roots.
+After 60 days, prior to subculture, shoots formed directly from axillary buds showed
+some roots and a small callus formation at the base of the shoot. In the subculture process,
+a small number of roots were trimmed, and the shoots were divided into single shoots
+containing a portion of the callus.
+2.2. Acclimatization and Biostimulant
+In vitro-derived shoots generated from bioreactors were used for this study. The
+acclimatization of in vitro-derived plantlets was conducted in a greenhouse.
+Shoots were separated into single shoots under aseptic conditions and transplanted
+into baby food jars containing rooting medium. The rooting medium was a modified MS
+medium supplemented with 30 g/L sucrose, 2.5 g/L gellan gum, and 0.5 mg/L NAA
+(naphthalene acetic acid). The medium pH was adjusted to 5.6–5.8 before autoclaving at
+121 ◦C for 20 min at 15 lbs pressure. About 40 mL of medium was dispensed into baby
+food jars. Cultures were maintained under fluorescent lighting (General Electric fluorescent
+bulbs 59W) at 50 µmol m−2 s−1 (FL), and the photoperiod was 16/8 h (light/dark). The
+temperature of the culturing room was set to 25 ◦C.
+After 60 days, the plantlets with roots were transplanted to the greenhouse.
+IQ Forte (IQBiotech, Miami, FL, USA), which is a natural fertilizer based on oligopep-
+tides and free amino acids obtained by enzymatic hydrolysis of proteins from seeds, was
+used as the biostimulants.
+Horticulturae 2024, 10, 1 3 of 11
+2.3. In Vitro Multiplication Using Bioreactors
+Young shoots (4–6 cm) collected from in vitro seedlings were used as explants for
+shoot proliferation.
+Shoots were grown in four different culture systems: (1) in baby food jars containing
+40 mL semi-solid medium (2.5 g/L gellan gum) as a control, (2) in temporary immersion
+bioreactors (SETIS™ , VERVIT, Zelzate, Belgium) with an immersion and aeration frequency
+of 1.5 h and immersion duration of 1 min (Treatment 1), (3) in temporary immersion
+bioreactors with an immersion and aeration frequency of 1.5 h and immersion duration
+of 2 min (Treatment 2), (4) in temporary immersion bioreactors with an immersion and
+aeration frequency of 3 h and immersion duration of 2 min (Treatment 3) (Figure 1).
+Horticulturae 2024, 10, x FOR PEER REVIEW 3 of 12 
+ 
+ 
+IQ Forte (IQBiotech, Miami, FL, USA), which is a natural fertilizer based on oligopep-
+tides and free amino acids obtained by enzymatic hydrolysis of proteins from seeds, was 
+used as the biostimulants.  
+2.3. In Vitro Multiplication Using Bioreactors 
+Young shoots (4–6 cm) collected from in vi tro seedlings were used as explants for 
+shoot proliferation.  
+Shoots were grown in four diﬀerent culture systems: (1) in baby food jars containing 
+40 mL semi-solid medium (2.5 g/L gellan gum) as a control, (2) in temporary immersion 
+bioreactors (SETIS™, VERVIT, Zelzate, Belgi um) with an immersion and aeration fre-
+quency of 1.5 h and immersion duration of 1 min (Treatment 1), (3) in temporary immer-
+sion bioreactors with an immersion and aeration frequency of 1.5 h and immersion dura-
+tion of 2 min (Treatment 2), (4) in temporary immersion bioreactors with an immersion 
+and aeration frequency of 3 h and immersion duration of 2 min (Treatment 3) (Figure 1). 
+ 
+Figure 1. Micropropagation of M. deliciosa ‘Thai Constellation’  under di ﬀerent culture systems. 
+(A,B) Semi-solid medium in baby food jar. (C,D) Liquid medium in SETIS™ temporary immersion 
+bioreactors. 
+For the control group, two trays were prepared, each with 30 baby food jars (Figure 
+1). The 60 baby food jars in the two trays had identical experimental treatments. Cultures 
+were maintained under ﬂuorescent lighting (General Electric ﬂuorescent bulbs 59W) at 50 
+µmol m −2 s−1 (FL), and the photoperiod was 16/8 h (light/dark). The temperature of the 
+culturing room was 25 ± 2 °C. At the end of th e experiment (90 days), 30 baby food jars 
+were taken out to collect the experimental data.  
+The treatments in TIS were comprised of 4 replicates per treatment, each replicate 
+containing 10 explants. The cultures we re maintained under controlled environment 
+A 
+ B 
+C 
+ D 
+Figure 1. Micropropagation of M. deliciosa ‘Thai Constellation’ under different culture systems.
+(A,B) Semi-solid medium in baby food jar. ( C,D) Liquid medium in SETIS ™ temporary immer-
+sion bioreactors.
+For the control group, two trays were prepared, each with 30 baby food jars (Figure 1).
+The 60 baby food jars in the two trays had identical experimental treatments. Cultures
+were maintained under fluorescent lighting (General Electric fluorescent bulbs 59W) at
+50 µmol m−2 s−1 (FL), and the photoperiod was 16/8 h (light/dark). The temperature of
+the culturing room was 25 ± 2 ◦C. At the end of the experiment (90 days), 30 baby food
+jars were taken out to collect the experimental data.
+The treatments in TIS were comprised of 4 replicates per treatment, each replicate
+containing 10 explants. The cultures were maintained under controlled environment
+conditions with continuous light (Valoya’s L-Series LED grow light, model L35-144, 35W,
+Horticulturae 2024, 10, 1 4 of 11
+AP67 spectrum; 14% Blue, 16% Green, 53% Red, and 17% Far Red) and light intensity
+of 79 µmol m−2 s−1, temperature of 25 ± 2 ◦C, and photoperiod of 16/8 h (light/dark).
+After 90 days of culture establishment, the initial 10 explants turned into 10 clusters with
+multiple shoots. Data were provided by 7 randomly selected clusters out of the 10. Plant
+height (height of the tallest shoot), fresh weight, dry weight, chlorophyll content, and
+shoot multiplication rate were evaluated. To obtain the dry weight, the plant material was
+placed in an oven and dried at 80 ◦C for 48 h. For the shoot multiplication rate, shoots
+that were clearly differentiated were counted, the total number was calculated, and they
+were classified into small, medium, and large grades based on their length (small: ≤2 cm,
+medium: 2–4 cm, large: >4 cm). Due to the low survival rate of small shoots in the
+acclimatization process, the medium and large shoots were summed up and referred to as
+‘effective shoots’.
+It is important to note that in addition to the differences in the type of media used
+and the method of cultivation, the light source used in the bioreactor system is different
+from that of a traditional semi-solid system. The traditional semi-solid systems use regular
+fluorescent lights, as they are the traditional systems used in our lab for many different
+cultures, whereas for the bioreactor, we use the new LED system, as recommended for
+optimal growth, propagation, and development.
+2.4. Relative Chlorophyll Content Analysis
+Fully expanded leaves were selected from 5 plants per treatment for chlorophyll
+analysis. Chlorophyll relative content was measured as SPAD values by placing the third
+leaf of each plantlet, counted from top downwards, in a portable SPAD-502 chlorophyll
+meter (SPAD-502, Minolta Co., Ltd., Osaka, Japan).
+2.5. Statistical Analysis
+A completely randomized experimental design was used for all experiments. Data
+were collected and submitted to analysis of variance (ANOVA) using the software R version
+4.1.3 (Copyright © 2022 The R Foundation for Statistical Computing). Tukey’s post hoc
+multiple comparison adjustment (α = 0.05) was used for all pairwise comparisons of means.
+2.6. Effect of Concentration of Biostimulant on Plantlet Growth
+The experiment was completely randomized with 3 treatments (3 concentrations of
+biostimulant; ml IQ Forte/L water) and one control group: (1) Treatment 1: 2.0 mL/L,
+(2) Treatment 2: 3.0 mL/L, (3) Treatment 3: 4.0 mL/L, (4) Control: water without biostim-
+ulant. The concentration of biostimulant was determined based on the manufacturer’s
+label recommendations. The water in all treatments came from the irrigation system of the
+greenhouse with a water-soluble fertilizer (Peter’s 20-10-20 Peat Lite at 150 ppm). There
+were 20 repetitions for each treatment, where one repetition means one plant in a pot. At
+the end of the experiment, the following parameters were evaluated: (1) survival: % of
+plants that survived after transplant to greenhouse, (2) growth: shoot and root development
+(length, fresh and dry weight), and (3) chlorophyll relative content (SPAD).
+The biostimulant IQ Forte was applied at two-week intervals during the course of the
+experiment (according to the instructions provided by the manufacturer), 50 mL per pot
+per time. Meanwhile, foliar phosphite fertilizer was applied every two weeks to ensure that
+there was no microbial infection. The amount applied was 50 mL per pot of an aqueous
+solution containing 1.6% of the original solution. The interval between the application of
+these two products was one week.
+After 100 days of the plants growing in the greenhouse, data were collected. Survival
+rates were recorded first. Other data were provided by 10 randomly selected plantlets out
+of plants that survived. Plant height (height of the tallest shoot), fresh weight, dry weight,
+and chlorophyll content were evaluated.
+Horticulturae 2024, 10, 1 5 of 11
+3. Results
+3.1. Micropropagation Using TIS Bioreactors
+Significant differences were observed among culture systems for plant height. The
+highest plant height occurred in treatment 1 (1 min,1.5 h; 5.2cm), followed by treatment 2
+(2 min, 1.5 h; 4.2 cm) and treatment 3 (2 min, 3 h; 4.0 cm). The control group in semi-solid
+medium had a plant height of 4.1cm. The plant height of treatment 1 was significantly
+higher than the height in the other groups (Figure 2).
+Horticulturae 2024, 10, x FOR PEER REVIEW 5 of 12 
+ 
+ 
+of plants that survived. Plant height (height of the tallest shoot), fresh weight, dry weight, 
+and chlorophyll content were evaluated. 
+3. Results 
+3.1. Micropropagation Using TIS Bioreactors 
+Signiﬁcant diﬀerences were observed among cult ure systems for plant height. The 
+highest plant height occurred in treatment 1 (1 min,1.5 h; 5.2cm), followed by treatment 2 
+(2 min, 1.5 h; 4.2 cm) and treatment 3 (2 min, 3 h; 4.0 cm). The control group in semi-solid 
+medium had a plant height of 4.1cm. The plant height of treatment 1 was signi ﬁcantly 
+higher than the height in the other groups (Figure 2). 
+  
+  
+  
+Figure 2. E ﬀect of di ﬀerent in vitro culture system s on plants’ development of M. deliciosa ‘Thai 
+Constellation’ after 90 days culturing. (A) Plant height, (B) Fresh weight, (C) Dry weight, (D) SPAD, 
+(E) Eﬀective shoots, and (F) Total number of shoots. Treatment: Liquid medium in SETIS™ bioreac-
+tor; treatment 1: immersion frequency of 1.5 h, immersion duration of 1 min; treatment 2: immersion 
+frequency of 1.5 h, immersion duration of 2 min;  treatment 3: immersion frequency of 3 h, immer-
+sion duration of 2 min. Control: Semi-solid medium in baby food jar. Bars indicate mean ± SE. Dif-
+ferent letters indicate signiﬁcant diﬀerences by Tukey’s test at p ≤ 0.05. 
+a
+b b b
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+T1 T2 T3 Control
+Plant Height(cm)
+A
+a
+a
+b
+c
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+T1 T2 T3 Control
+Fresh Weight(g)
+B
+a a a
+b
+0.00
+0.50
+1.00
+1.50
+2.00
+T1 T2 T3 Control
+Dry Weight(g)
+C
+a a
+b
+c
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+T1 T2 T3 Control
+SPAD
+D
+a a a
+b
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+T1 T2 T3 Control
+Effect Shoots
+E
+a a
+a
+b
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+T1 T2 T3 Control
+Total Number of Shoots
+F
+Figure 2. Effect of different in vitro culture systems on plants’ development of M. deliciosa ‘Thai
+Constellation’ after 90 days culturing. (A) Plant height, (B) Fresh weight, (C) Dry weight, (D) SPAD,
+(E) Effective shoots, and (F) Total number of shoots. Treatment: Liquid medium in SETIS™ bioreactor;
+treatment 1: immersion frequency of 1.5 h, immersion duration of 1 min; treatment 2: immersion
+frequency of 1.5 h, immersion duration of 2 min; treatment 3: immersion frequency of 3 h, immersion
+duration of 2 min. Control: Semi-solid medium in baby food jar. Bars indicate mean ± SE. Different
+letters indicate significant differences by Tukey’s test atp ≤ 0.05.
+Horticulturae 2024, 10, 1 6 of 11
+For fresh weight, treatments 1 and 2 ( p < 0.001) (17.02 g and 18.13 g, respectively)
+were significantly higher than treatment 3 (11.05 g), and all three treatments in bioreactors
+were significantly higher than the explants cultured in a semi-solid medium, with 5.85 g.
+Similarly, for dry weight, all three treatments in bioreactors (p < 0.001) (1.18 g to 1.39g) were
+significantly higher than the control cultured in a semi-solid medium (0.51 g); however,
+there were no significant differences among the dry weights of the three treatments.
+Total numbers of shoots ( p < 0.004) (15.4 to 17.5 shoots per explant) in bioreactors
+were significantly higher than those in the control group using a semi-solid medium, with
+9.5 shoots per explant. The number of effective shoots ( p < 0.007) (6.8 to 8.5 shoots per
+explant) in bioreactors was significantly higher than the control, with 3.9 shoots per explant.
+The highest chlorophyll relative content was recorded in the control group in a semi-
+solid medium with an SPAD value of 22.0 ( p < 0.001), followed by treatment 3 with an
+SPAD value of 14.8 (p < 0.007) and then treatment 1 and treatment 2 with SPAD values of
+11.8 and 11.2, respectively (Figure 2).
+3.2. Acclimatization Using IQ Forte as a Biostimulant
+Survival rates varied greatly among the four groups. Treatments 1 (2.0 mL/L; 85%)
+and 2 (3.0 mL/L; 90%), where lower concentrations of the biostimulant were applied, had
+higher survival rates, while treatment 3 (4.0 mL/L; 70%) and the control group (75%) had
+lower survival rates (Figure 3).
+Horticulturae 2024, 10, x FOR PEER REVIEW 6 of 12 
+ 
+ 
+For fresh weight, treatments 1 and 2 ( p < 0.001) (17.02 g and 18.13 g, respectively) 
+were signiﬁcantly higher than treatment 3 (11.05 g), and all three treatments in bioreactors 
+were signiﬁcantly higher than the explants cultured in a semi-solid medium, with 5.85 g. 
+Similarly, for dry weight, all three treatments in bioreactors ( p < 0.001) (1.18 g to 1.39g) 
+were signiﬁcantly higher than the control cultured in a semi-solid medium (0.51 g); how-
+ever, there were no signiﬁcant diﬀerences among the dry weights of the three treatments. 
+Total numbers of shoots ( p < 0.004) (15.4 to 17.5 shoots per explant) in bioreactors 
+were signiﬁcantly higher than those in the control group using a semi-solid medium, with 
+9.5 shoots per explant. The number of e ﬀective shoots ( p < 0.007) (6.8 to 8.5 shoots per 
+explant) in bioreactors was signi ﬁcantly higher than the control, with 3.9 shoots per ex-
+plant.  
+The highest chlorophyll relative content was recorded in the control group in a semi-
+solid medium with an SPAD value of 22.0 ( p < 0.001), followed by treatment 3 with an 
+SPAD value of 14.8 (p < 0.007) and then treatment 1 and treatment 2 with SPAD values of 
+11.8 and 11.2, respectively (Figure 2). 
+3.2. Acclimatization Using IQ Forte as a Biostimulant 
+Survival rates varied greatly among the four groups. Treatments 1 (2.0 mL/L; 85%) 
+and 2 (3.0 mL/L; 90%), where lower concentrations of the biostimulant were applied, had 
+higher survival rates, while treatment 3 (4.0 mL/L; 70%) and the control group (75%) had 
+lower survival rates (Figure 3). 
+ 
+Figure 3. Survival of M. deliciosa ‘Thai Constellation’ after 100 days of growing in the greenhouse. 
+Treatment 1: 2.0 mL/L biostimulant ; treatment 2: 3.0 mL/L biostimu lant; treatment 3: 4.0 mL/L bi-
+ostimulant; control: water without biostimulant. 
+For the plant growth data (including plant height, fresh weight, and dry weight), the 
+diﬀerences between the three groups were not signi ﬁcant at the 0.05 level of signi ﬁcance 
+according to ANOVA. At the same time, treatment 3 was signiﬁcantly lower than the other 
+two treatments, but it was not signiﬁcantly diﬀerent from the control group. 
+The highest plant height (16.1 cm) occurred in treatment 2, followed by treatment 1 
+(15.8 cm) and the control group (15.2 cm). Treatment 3 had a plant height of 12.9 cm, sig-
+niﬁcantly lower than treatments 1 and 2 ( p < 0.02). For fresh weight, treatments 1 and 2 
+(22.21 g to 20.48 g, respectively) were signi ﬁcantly higher than treatment 3 (11.17 g) ( p < 
+0.03). There was no signiﬁcant diﬀerence between the control group (16.24 g) and the other 
+treatments. Similarly, for dry weight, treatment 3 (0.87 g) was signi ﬁcantly lower than 
+treatments 1 (1.79 g) and 2 (1.61 g) ( p < 0.05), with no signi ﬁcant diﬀerence between the 
+control group (1.37 g) and the other groups (Figure 4). 
+85% 90%
+70% 75%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Treatment
+1
+Treatment
+2
+Treatment
+3
+Control
+Survival
+Figure 3. Survival of M. deliciosa ‘Thai Constellation’ after 100 days of growing in the greenhouse.
+Treatment 1: 2.0 mL/L biostimulant; treatment 2: 3.0 mL/L biostimulant; treatment 3: 4.0 mL/L
+biostimulant; control: water without biostimulant.
+For the plant growth data (including plant height, fresh weight, and dry weight), the
+differences between the three groups were not significant at the 0.05 level of significance
+according to ANOVA. At the same time, treatment 3 was significantly lower than the other
+two treatments, but it was not significantly different from the control group.
+The highest plant height (16.1 cm) occurred in treatment 2, followed by treatment
+1 (15.8 cm) and the control group (15.2 cm). Treatment 3 had a plant height of 12.9 cm,
+significantly lower than treatments 1 and 2 (p < 0.02). For fresh weight, treatments 1 and
+2 (22.21 g to 20.48 g, respectively) were significantly higher than treatment 3 (11.17 g)
+(p < 0.03). There was no significant difference between the control group (16.24 g) and the
+other treatments. Similarly, for dry weight, treatment 3 (0.87 g) was significantly lower
+than treatments 1 (1.79 g) and 2 (1.61 g) (p < 0.05), with no significant difference between
+the control group (1.37 g) and the other groups (Figure 4).
+Horticulturae 2024, 10, 1 7 of 11
+Horticulturae 2024, 10, x FOR PEER REVIEW 7 of 12 
+ 
+ 
+ 
+Figure 4. Eﬀect of di ﬀerent concentrations of biostimu lant on plants’ development of M. deliciosa 
+‘Thai Constellation’ after 100 days of growing in the greenhouse. (A) Plant height, (B) Fresh weight, 
+(C) Dry weight, (D) SPAD; treatment 1: 2.0 mL/L biostimulant; treatment 2: 3.0 mL/L biostimulant; 
+treatment 3: 4.0 mL/L biostimulant; control: wate r without biostimulant. Bars indicate mean ± SE. 
+Diﬀerent letters indicate signiﬁcant diﬀerences by Tukey’s test at p ≤ 0.05. 
+For the relative chlorophyll content, results were slightly di ﬀerent. Treatment 3 was 
+signiﬁcantly lower than treatment 2 and the control, while treatment 1 was not signi ﬁ-
+cantly diﬀerent from the other groups (Figure 4). 
+4. Discussion 
+The evaluation of the diﬀerent in vitro culture systems demonstrated the usefulness 
+of TI (temporary immersion) to increase the quantity and quality of shoots produced with 
+respect to the conventional micropropagation system in a semi-solid medium [19]. Simi-
+larly, Anthurium andreanum Lind. and malanga ( Colocasia esculenta L. Scho tt) multiplica-
+tion can also be greatly improved in e ﬃciency by TIS [19,20]. In studies with sugarcane 
+and diﬀerent types of TIS bioreactors, the e ﬃciency of using temporary immersion sys-
+tems for direct organogenesis has also been shown [21]. 
+The two species mentioned above belong to the Araceae family, like M. deliciosa. In 
+our study, M. deliciosa ‘Thai Constellation’ propagated in SETIS™ bioreactors achieved 
+higher multiplication rates and increased fresh/dry weight as compared to those in a semi-
+solid culture medium. For the shoot multiplication rate, not only was the total number of 
+new shoots signiﬁcantly greater in temporary immersion bioreactors than in a semi-solid 
+culture medium, but the number of e ﬀective shoots produced by it was likewise much 
+greater, which is of great signi ﬁcance for commercial production practice. Because each 
+eﬀective shoot that emerges can be used as a new single explant to enter the next round 
+of multiplication, the eﬀective shoot yield improvement during each round of multiplica-
+tion will greatly aﬀect the ﬁnal production eﬃciency. The increase in fresh/dry weight in 
+the bioreactor is also important. Shoots that accumulate more nutrients have a higher ad-
+aptation and survival rate during subsequent multiplication or acclimatization. 
+Figure 4. Effect of different concentrations of biostimulant on plants’ development of M. deliciosa
+‘Thai Constellation’ after 100 days of growing in the greenhouse. (A) Plant height, (B) Fresh weight,
+(C) Dry weight, (D) SPAD; treatment 1: 2.0 mL/L biostimulant; treatment 2: 3.0 mL/L biostimulant;
+treatment 3: 4.0 mL/L biostimulant; control: water without biostimulant. Bars indicate mean ± SE.
+Different letters indicate significant differences by Tukey’s test atp ≤ 0.05.
+For the relative chlorophyll content, results were slightly different. Treatment 3 was
+significantly lower than treatment 2 and the control, while treatment 1 was not significantly
+different from the other groups (Figure 4).
+4. Discussion
+The evaluation of the different in vitro culture systems demonstrated the usefulness
+of TI (temporary immersion) to increase the quantity and quality of shoots produced with
+respect to the conventional micropropagation system in a semi-solid medium [19]. Similarly,
+Anthurium andreanum Lind. and malanga (Colocasia esculenta L. Schott) multiplication can
+also be greatly improved in efficiency by TIS [19,20]. In studies with sugarcane and different
+types of TIS bioreactors, the efficiency of using temporary immersion systems for direct
+organogenesis has also been shown [21].
+The two species mentioned above belong to the Araceae family, like M. deliciosa. In
+our study, M. deliciosa ‘Thai Constellation’ propagated in SETIS™ bioreactors achieved
+higher multiplication rates and increased fresh/dry weight as compared to those in a semi-
+solid culture medium. For the shoot multiplication rate, not only was the total number of
+new shoots significantly greater in temporary immersion bioreactors than in a semi-solid
+culture medium, but the number of effective shoots produced by it was likewise much
+greater, which is of great significance for commercial production practice. Because each
+effective shoot that emerges can be used as a new single explant to enter the next round of
+multiplication, the effective shoot yield improvement during each round of multiplication
+will greatly affect the final production efficiency. The increase in fresh/dry weight in
+the bioreactor is also important. Shoots that accumulate more nutrients have a higher
+adaptation and survival rate during subsequent multiplication or acclimatization.
+Horticulturae 2024, 10, 1 8 of 11
+One of the main advantages of using TIS is that it promotes ventilation within the cul-
+ture vessel, allowing the removal of volatile compounds such as ethylene [22], recirculating
+the carbon dioxide necessary for photosynthesis [23], and increasing stomatal functionality
+in the leaves compared to those obtained in semi-solid environments [24]. These factors
+could explain the increased efficiency of M. deliciosa multiplication in TIS.
+Unlike the above parameters, however, for plant height, the data in the temporary
+immersion bioreactors were not fully ahead of the traditional semi-solid medium culture
+method. The average plant height in the control was not significantly different from either
+treatment 2 or treatment 3.
+For the relative chlorophyll content, the experimental data collected contradicts many
+experiments. An increase in the content of photosynthetic pigments in TIS compared to a
+semi-solid system has been observed in malanga (Colocasia esculenta) [20]. In addition, an in-
+crease in chlorophyll synthesis has also been reported by using TIS in the micropropagation
+of A. andreanum, and the relative chlorophyll content was significantly higher for Brassavola
+nodosa (L.) Lindl. plantlets produced in TIS bioreactors as compared to those from a semi-
+solid medium [25]. In this experiment, however, in temporary immersion bioreactors, the
+relative chlorophyll content of the leaves of the explants was significantly lower than that
+of the control using the traditional method. The control group was significantly higher than
+all other treatments. Irradiance is an important factor in physiological processes that affects
+the synthesis of chlorophyll [26], leading to potentially two main reasons for our results:
+1. The light system in the immersion bioreactors in this experiment was different from the
+lighting used in the control group. It has been shown that different light sources result
+in significant differences in relative chlorophyll content among banana varieties [10].
+The effects of LED and fluorescent lamps were compared as sources of light on the
+growth and development of sweet basil (Ocimum basilicum L.) and lemon balm (Melissa
+officinalis L.), indicating that the response of plants to the applied light is individual
+and depends on the species [27].
+2. For micropropagated plants in the lab, photosynthesis is not really useful for their
+growth since we have already added a sufficient amount of sucrose to the medium as
+their nutrient source. Plant materials in TIS may instead accumulate relatively little
+chlorophyll due to higher growth rates.
+Immersion and aeration frequency and duration in TIS bioreactors are factors that
+require adjustments for each species, and they play an important role in plant in vitro
+multiplication and plant development [28]. The optimization of such parameters is impor-
+tant to prevent physiological disorders such as hyperhydricity. Generally, the incidence
+of hyperhydricity increases due to the over-accumulation of water in plant tissues [ 29].
+Two different immersion frequencies (1.5 h and 3 h) and two immersion durations (1 min
+and 2 min) were set to form three experimental groups in this experiment. For several
+parameters, such as dry weight, total new shoots produced, and number of effective shoots,
+the results of the three treatments were not significantly different. This is the first study on
+variegated M. deliciosa using TIS, and there were no previous reports to suggest optimum
+conditions for Monstera in general. Thus, this initial study explored some basic parameters
+for immersion using TIS bioreactors, warranting further studies to optimize the system,
+such as using shorter immersion duration and lower immersion frequency.
+For plant height, treatment 1 with an immersion duration of 1 min was significantly
+higher than treatments 2 and 3 with an immersion duration of 2 min. At the time of
+experimental data collection, no significant hyperhydricity was observed. This suggests that
+a shorter immersion duration helps to increase the plant height of variegated M. deliciosa.
+While the dry weights of the three treatments were not significantly different, the
+fresh weights of treatments 1 and 2 were significantly greater than those of treatment three.
+This implies that the water content of the plant material may be related to the frequency
+of immersion. A higher frequency of immersion would increase the water content of the
+culture. A similar trend has been described, where shorter immersion intervals gave rise to
+Horticulturae 2024, 10, 1 9 of 11
+a higher number of shoots and a greater ratio of hyperhydric carnation plantlets cultured
+in the TIS [30].
+The relative chlorophyll content of treatment 3 was significantly higher than that of
+treatments 1 and 2. This may indicate that in TIS, the relative chlorophyll content of the
+plant material is related to its water content.
+The roles played by accumulated amino acids in plants vary, from acting as an os-
+molyte, regulating ion transport, modulating stomatal opening, and detoxifying heavy
+metals. Amino acids also affect the synthesis and activity of some enzymes, gene expres-
+sion, and redox homeostasis [31]. By providing exogenous amino acids to maize seedlings,
+it was observed that in addition to proline, alanine, serine, and asparagine also delayed
+wilting under stress conditions [32]. In wheat, a foliar spray of methionine in a mixture
+increased drought tolerance and was associated with an increase in plant–water relations,
+physio-biochemical attributes, yield attributes, and nutrition quality when applied at
+0.2 mg/mL [33]. Using two levels of methionine, i.e., 100 mg/L and 200 mg/L, on green
+parasol plants improved the absorption of N, P and K, which was associated with increases
+in dry weight of shoots, leaf area, and leaf chlorophyll contents [34]. In cowpea, a 0.4 mM
+concentration of methionine was effective in enhancing stress tolerance and improving
+growth, yield characteristics, contents of chlorophyll, carotenoids, shoot and seed nutrients,
+and other components [35].
+Several studies mentioned above have demonstrated that a wide range of amino acid
+compositions have a beneficial effect on many species of plants, especially in terms of
+nutrient uptake and increasing their resistance to stress. The main components of the
+biostimulant used in this experiment are amino acids obtained from the hydrolysis of plant
+proteins, and we expected that they would play a significant role in the acclimatization of
+variegated M. deliciosa.
+The results show that application of low concentrations of a biostimulant returned
+higher survival rates for variegated M. deliciosa seedlings, while high concentrations of a
+biostimulant had an opposite effect, leading to reduced survival rates.
+In the experiment, the growth data of the plantlets (plant height, fresh weight, and dry
+weight) treated with low concentrations of biostimulants were not significantly different
+from the control. The reasons for this were analyzed as follows:
+1. Insufficient sample number. This is mainly due to the high value of the material (varie-
+gated M. deliciosa) in this experiment, the high cost of expanding the sample numbers,
+and the lack of experience with its acclimatization process (death of plant material
+due to excessive sunlight and high temperatures). Subsequent experiments could
+increase the number of samples based on more mature acclimatization experience.
+2. It is true that a proportion of plants are insensitive to biostimulants by means of
+increasing exogenous amino acids.
+It is evident from the data that the use of low concentrations of a biostimulant did not
+significantly affect the relative chlorophyll content of leaves of variegated M. deliciosa. It
+is noteworthy that the SPAD values of treatment 3 were significantly lower than those of
+treatment 2 and the control, indicating that higher concentrations of amino acid solutions
+may, on the contrary, hinder the development of chloroplasts in the green parts of the leaves
+of variegated M. deliciosa.
+5. Conclusions
+This is the first study reporting the use of the SETIS™ bioreactor for the micropropa-
+gation of M. deliciosa ‘Thai Constellation’. We determined that this variegatedM. deliciosa
+under TIS bioreactors provided higher multiplication rates and increased fresh/dry weight
+compared to conventional culture systems using a semi-solid agar-based medium. Different
+immersion and aeration frequencies and duration in TIS bioreactors do affect the growth
+of the material in a number of ways, such as plant height, fresh weight, and chlorophyll
+content. Although the plant material in TIS has grown favorably under the conditions
+we set up, we still need to follow up with more experiments to find out if there are more
+Horticulturae 2024, 10, 1 10 of 11
+suitable culture conditions for M. deliciosa. This is also the first study reporting the use of
+IQ Forte as a biostimulant for the acclimatization of M. deliciosa ‘Thai Constellation’. We
+found that this biostimulant at low concentrations enhanced the acclimatization survival
+of variegated M. deliciosa. The gain in plantlets’ growth was not significant, while higher
+concentrations of the biostimulant may have a negative effect on the growth of variegated
+M. deliciosa.
+For future research, expanded experimentation is necessary. The first step could be to
+set up more different culture conditions, mainly different immersion and aeration intervals
+and durations, under conditions of more adequate plant material and more bioreactors.
+This setup of culture conditions could be based on this study to increase the differences
+in conditions to get more significant results. This study only proved the advantages of
+the TIS bioreactor in the multiplication of variegated M. deliciosa, and experiments on its
+rooting efficiency under the new system would be a good addition. This experiment did
+not demonstrate the effect of IQ Forte, the new biostimulant, well. The following directions
+can be taken for the subsequent improvement of the experiment: (1) Consider the effect of
+seasonal climate to provide more stable and safe acclimatization conditions for variegated
+M. deliciosa to avoid the occurrence of stress. (2) Prepare sufficient experimental materials
+before the experiment. (3) Other cheaper varieties of Monstera can be used to test this novel
+biostimulant to reduce the cost of testing.
+For commercial production, this study suggests the use of SETIS™ bioreactors instead
+of the system using a semi-solid agar-based medium at the stage of multiplication of
+M. deliciosa ‘Thai Constellation’. The new system not only saves production space and labor
+but also expands the micropropagation of M. deliciosa at a higher efficiency.
+Author Contributions: Conceptualization, W.V .; methodology, W.V . and Y.J.; validation, W.V ., Y.J.
+and D.B.; formal analysis, Y.J.; investigation, Y.J.; resources, W.V . and D.B.; data curation, Y.J.;
+writing—original draft preparation, Y.J.; writing—review and editing, W.V .; visualization, Y.J.; super-
+vision, W.V . and D.B.; project administration, W.V . and D.B.; funding acquisition, W.V . All authors
+have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data is contained within the article.
+Acknowledgments: This work is supported by the USDA National Institute of Food and Agriculture,
+Hatch project 1012202.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1. Bailey, L.H.; Bailey, E.Z.Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada; MacMillan: New
+York, NY, USA, 1976; pp. 739–740.
+2. Peppard, T.L. Volatile flavor constituents of Monstera deliciosa. J. Agric. Food Chem. 1992, 40, 257–262. [CrossRef]
+3. Spínola, V .; Perestrelo, R.; Câmara, J.S.; Castilho, P .C. Establishment ofMonstera deliciosa fruit volatile metabolomic profile at
+different ripening stages using solid-phase microextraction combined with gas chromatography–mass spectrometry.Food Res. Int.
+2015, 67, 409–417. [CrossRef]
+4. Dewei, H.A.N. Tissue Culture and Rapid Propagation of Monstera deliciosa. J. Anhui Agric. Sci. 2010, 38, 14270–14271.
+5. Bhojwani, S.S.; Dantu, P .K.; Bhojwani, S.S.; Dantu, P .K. Micropropagation. InPlant Tissue Culture: An Introductory Text; Springer:
+New Delhi, India, 2013; pp. 245–274.
+6. Berthouly, M.; Etienne, H. Temporary immersion system: A new concept for use liquid medium in mass propagation. In Liquid
+Culture Systems for In Vitro Plant Propagation; Springer: Dordrecht, The Netherlands, 2005; pp. 165–195.
+7. Preil, W. General introduction: A personal reflection on the use of liquid media for in vitro culture. In Liquid Culture Systems for In
+Vitro Plant Propagation; Springer: Dordrecht, The Netherlands, 2005; pp. 1–18.
+8. Bello-Bello, J.J.; Cruz-Cruz, C.A.; Pérez-Guerra, J.C. A new temporary immersion system for commercial micropropagation of
+banana (Musa AAA cv. Grand Naine). Vitr. Cell. Dev. Biol.-Plant 2019, 55, 313–320. [CrossRef]
+Horticulturae 2024, 10, 1 11 of 11
+9. Ramírez-Mosqueda, M.A.; Bello-Bello, J.J. SETIS™ bioreactor increases in vitro multiplication and shoot length in vanilla (Vanilla
+planifolia Jacks. Ex Andrews). Acta Phys. Plant 2021, 43, 52. [CrossRef]
+10. Vendrame, W.A.; Feuille, C.; Beleski, D.; Bueno, P .M.C.In vitro growth responses of ornamental Bananas (Musa sp.) as affected by
+light sources. Horticulturae 2022, 8, 92. [CrossRef]
+11. Conover, C.A.; Poole, R.T. Acclimatization of indoor foliage plants. Hort. Rev. 1984, 6, 119–154.
+12. Kozai, T. Acclimatization of micropropagated plants. Biotech. Agric For. 1991, 17, 127–141.
+13. European Biostimulant Industry Council (EBIC). 2016. Available online: http://www.biostimulants.eu/ (accessed on 23
+October 2020).
+14. Mrid, R.B.; Benmrid, B.; Hafsa, J.; Boukcim, H.; Sobeh, M.; Yasri, A. Secondary metabolites as biostimulant and bioprotectant
+agents: A review. Sci. Total Environ. 2021, 777, 146204. [CrossRef]
+15. Schaafsma, G. Safety of protein hydrolysates, fractions thereof and bioactive peptides in human nutrition. Eur. J. Clin. Nutr. 2009,
+63, 1161–1168. [CrossRef]
+16. Colla, G.; Nardi, S.; Cardarelli, M.; Ertani, A.; Lucini, L.; Canaguier, R.; Rouphael, Y. Protein hydrolysates as biostimulants in
+horticulture. Sci. Hort. 2015, 196, 28–38. [CrossRef]
+17. Colla, G.; Hoagland, L.; Ruzzi, M.; Cardarelli, M.; Bonini, P .; Canaguier, R.; Rouphael, Y. Biostimulant action of protein
+hydrolysates: Unraveling their effects on plant physiology and microbiome. Front. Plant Sci. 2017, 8, 2202. [CrossRef] [PubMed]
+18. Murashige, T.; Skoog, F. A revised medium for rapid growth and bioassays with tobacco tissue cultures.Physiol. Plant 1962, 15,
+473–497. [CrossRef]
+19. Martínez-Estrada, E.; Islas-Luna, B.; Pérez-Sato, J.A.; Bello-Bello, J.J. Temporary immersion improvesin vitro multiplication and
+acclimatization of Anthurium andreanum Lind. Sci. Hort. 2019, 249, 185–191. [CrossRef]
+20. Arano-Avalos, S.; Gómez-Merino, F.C.; Mancilla-Álvarez, E.; Sánchez-Páez, R.; Bello-Bello, J.J. An efficient protocol for commercial
+micropropagation of malanga (Colocasia esculenta L. Schott) using temporary immersion. Sci. Hort. 2020, 261, 108998. [CrossRef]
+21. Orozco-Ortiz, C.; Sanchez, L.; Araya-Mattey, J.; Vargas-Solorzano, I.; Araya-Valverde, E. BIT biorreactor increases in vitro
+multiplication of quality shoots in sugarcane ( Saccharum spp. variety LAICA 04-809). Plant Cell Tissue Org. Cult. 2022, 152,
+115–128. [CrossRef]
+22. Roels, S.; Noceda, C.; Escalona, M.; Sandoval, J.; Canal, M.J.; Rodriguez, R.; Debergh, P . The effect of headspace renewal in a
+temporary immersion bioreactor on plantain (Musa AAB) shoot proliferation and quality. Plant Cell Tissue Org. Cult. 2006, 84,
+155–163. [CrossRef]
+23. Aragón, C.E.; S ánchez, C.; Gonzalez-Olmedo, J.; Escalona, M.; Carvalho, L.; Am âncio, S. Comparison of plantain plantlets
+propagated in temporary immersion bioreactors and gelled medium during in vitro growth and acclimatization. Biol. Plant 2014,
+58, 29–38. [CrossRef]
+24. Afreen, F. Temporary immersion bioreactor. Plant Tissue Cult. Eng. 2008, 2008, 187–201.
+25. Vendrame, W.A.; Xu, J.; Beleski, D.G. Micropropagation ofBrassavola nodosa (L.) Lindl. using SETIS™ bioreactor. Plant Cell Tissue
+Org. Cult. 2023, 153, 67–76. [CrossRef]
+26. Mancilla-Álvarez, E.; P érez-Sato, J.A.; N úñez-Pastrana, R.; Spinoso-Castillo, J.L.; Bello, J.J.B. Comparison of Different Semi-
+Automated Bioreactors for In vitro Propagation of Taro (Colocasia esculenta L. Schott). Plants 2021, 10, 1010.
+27. Fr ˛ aszczak, B.; Golcz, A.; Zawirska-Wojtasiak, R.; Janowska, B. Growth rate of sweet basil and lemon balm plants grown under
+fluorescent lamps and LED modules. Acta Sci. Pol. Hortorum Cultus 2014, 13, 3–13.
+28. Georgiev, V .; Schumann, A.; Pavlov, A.; Bley, T. Temporary immersion systems in plant biotechnology.Eng. Life Sci. 2014, 14,
+607–621. [CrossRef]
+29. Saher, S.; Piqueras, A.; Hellin, E.; Olmos, E. Hyperhydricity in micropropagated carnation shoots: The role of oxidative stress.
+Physiol. Plant. 2004, 120, 152–161. [CrossRef] [PubMed]
+30. Ahmadian, M.; Babaei, A.; Shokri, S.; Hessami, S. Micropropagation of carnation (Dianthus caryophyllus L.) in liquid medium by
+temporary immersion bioreactor in comparison with solid culture. J. Gen. Eng. Biotechnol. 2017, 15, 309–315. [CrossRef] [PubMed]
+31. Rai, V .K. Role of amino acids in plant responses to stresses. Biol. Plant. 2002, 45, 481–487. [CrossRef]
+32. Thakur, P .S.; Rai, V .K. Exogenously supplied amino acids and water deficits inZea mays cultivars. Biol. Plant 1985, 27, 458–461.
+[CrossRef]
+33. Hammad, S.A.; Ali, O.A. Physiological and biochemical studies on drought tolerance of wheat plants by application of amino
+acids and yeast extract. Ann. Agric. Sci. 2014, 59, 133–145. [CrossRef]
+34. Shekari, G.; Javanmardi, J. Effects of foliar application pure amino acid and amino acid containing fertilizer on broccoli (Brassica
+oleracea L. var. italica) transplants. Adv. Crop Sci. Technol. 2017, 5, 280–287. [CrossRef]
+35. Merwad, A.R.M.; Desoky, E.S.M.; Rady, M.M. Response of water deficit-stressedVigna unguiculata performances to silicon, proline
+or methionine foliar application. Sci. Hort. 2018, 228, 132–144. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
