@@ -392,22 +392,22 @@
         <ul id="results-container" style="list-style: none; padding: 0; margin-top: 10px; font-size: 0.9em;"></ul>
       </div>
       
-      <a href="{{ '/' | relative_url }}">/index_acasa</a>
-      <a href="{{ '/aboutme.html' | relative_url }}">/despre_mine</a>
-      <a href="{{ '/Ghiduri.html' | relative_url }}">/ghiduri_baza</a>
-      <a href="{{ 'protocoale/Protocoale.html' | relative_url }}">/protocoale</a>
-      <a href="{{ '/Hall-of-Fame.html' | relative_url }}" style="color: #FFD700;">/hall_of_fame_🏆</a>
-      <a href="{{ 'surse/youtubechannels.html' | relative_url }}">/surse_media</a>
-      <a href="{{ 'surse/researchlinks.html' | relative_url }}">/surse_stiinta</a>
-      <a href="{{ 'surse/CONTRIBUTING.html' | relative_url }}">/cum_sa_contribui</a>
+      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">/index_acasa</a>
+      <a href="{{ '/aboutme.html' | relative_url }}" class="{% if page.url == '/aboutme.html' %}active{% endif %}">/despre_mine</a>
+      <a href="{{ '/Ghiduri.html' | relative_url }}" class="{% if page.url == '/Ghiduri.html' %}active{% endif %}">/ghiduri_baza</a>
+      <a href="{{ 'protocoale/Protocoale.html' | relative_url }}" class="{% if page.url == '/protocoale/Protocoale.html' %}active{% endif %}">/protocoale</a>
+      <a href="{{ '/Hall-of-Fame.html' | relative_url }}" style="color: #FFD700;" class="{% if page.url == '/Hall-of-Fame.html' %}active{% endif %}">/hall_of_fame_🏆</a>
+      <a href="{{ 'surse/youtubechannels.html' | relative_url }}" class="{% if page.url == '/surse/youtubechannels.html' %}active{% endif %}">/surse_media</a>
+      <a href="{{ 'surse/researchlinks.html' | relative_url }}" class="{% if page.url == '/surse/researchlinks.html' %}active{% endif %}">/surse_stiinta</a>
+      <a href="{{ 'surse/CONTRIBUTING.html' | relative_url }}" class="{% if page.url == '/surse/CONTRIBUTING.html' %}active{% endif %}">/cum_sa_contribui</a>
       <a href="#" id="open-calc-btn" style="color: var(--accent-amber); border-left: 2px solid var(--accent-amber); background: rgba(255, 176, 0, 0.05); margin-top: 15px;">[🧮] Calculator Medii</a>
       <a href="https://paypal.me/CVLaur" target="_blank" style="color: #2ea043; border-left: 2px solid #2ea043; background: rgba(46, 160, 67, 0.05); margin-top: 10px;">[☕] Susține (PayPal)</a>
       <hr>
       <div style="margin-bottom: 10px;">
         <span style="color: var(--text-muted); font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px;">--- Legal ---</span>
       </div>
-      <a href="{{ 'surse/Avertisment.html' | relative_url }}" style="color: #ff4444; font-weight: bold;">[⚠️] Avertisment & Siguranță</a>
-      <a href="{{ 'surse/Privacy.html' | relative_url }}">[🔒] Privacy Policy</a>
+      <a href="{{ 'surse/Avertisment.html' | relative_url }}" style="color: #ff4444; font-weight: bold;" class="{% if page.url == '/surse/Avertisment.html' %}active{% endif %}">[⚠️] Avertisment & Siguranță</a>
+      <a href="{{ 'surse/Privacy.html' | relative_url }}" class="{% if page.url == '/surse/Privacy.html' %}active{% endif %}">[🔒] Privacy Policy</a>
       <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none; margin-top: 15px;">[↗] cod_sursa</a>
     </div>
 
