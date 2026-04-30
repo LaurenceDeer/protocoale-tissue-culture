@@ -66,3 +66,12 @@ Cărțile astea costă o avere. Aici le ai gratis. E esențial să le frunzăre�
   </div>
   <a href="https://share.google/OENi81Ee9iYbNiHp5" target="_blank" class="btn-download">⬇️ Descarcă / Accesează PDF</a>
 </div>
+
+<div class="book-item">
+  <h3 class="book-title">The Ultimate Guide to Houseplant Propagation</h3>
+  <div class="book-author">✍️ Autor: Lindsay Sisti</div>
+  <div class="book-review">
+    <strong>TL;DR:</strong> Un ghid excelent cu tehnici pas-cu-pas pentru propagarea plantelor de apartament, incluzând metode avansate precum culturile in vitro (perfect pentru specii rare cum ar fi Monstera Albo). O lectură vizuală și ușor de urmărit!
+  </div>
+  <a href="https://books.google.ro/books?hl=en&lr=&id=5nn-EAAAQBAJ&oi=fnd&pg=PP1&dq=monstera+albo+tissue+culture+protocol&ots=o1Tc65Vqfw&sig=iSRUdUaaSntrRVrzXMGHh0qi0N4&redir_esc=y#v=onepage&q&f=false" target="_blank" class="btn-download">⬇️ Accesează Google Books</a>
+</div>
