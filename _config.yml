@@ -1,8 +1,8 @@
-title: Open Hydroponics RO
-description: Informații, ghiduri și protocoale pentru cultivarea plantelor în sisteme hidroponice (Kratky, DWC, etc.) adaptate pentru România.
+title: Open Tissue Culture RO
+description: Cercetare și protocoale de micropropagare (In Vitro) adaptate pentru buget redus în România.
 theme: jekyll-theme-midnight
 url: "https://laurencedeer.github.io"
-baseurl: "/protocoale-hydroponics"
+baseurl: "/protocoale-tissue-culture"
 
 # Setări vizuale
 show_downloads: false

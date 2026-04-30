@@ -53,7 +53,7 @@ title: Despre Mine
 
   <div class="about-card">
     <h3>🏴‍☠️ De ce website-ul ăsta?</h3>
-    <p>Scopul meu pe termen lung este să-mi construiesc o carieră hardcore în food science și (bio)chimie, iar site-ul ăsta e extensia naturală a muncii mele. Mă frustrează gatekeeping-ul. Faptul că informația despre sisteme avansate de hidroponie și nutriție a plantelor este ținută sub cheie în lucrări academice ascunse de paywall-uri sau vândută la suprapreț mi se pare o mizerie. Așa că am decis să adun totul aici, moca.</p>
+    <p>Scopul meu pe termen lung este să-mi construiesc o carieră hardcore în food science și (bio)chimie, iar site-ul ăsta e extensia naturală a muncii mele. Mă frustrează gatekeeping-ul. Faptul că informația despre tissue culture este ținută sub cheie în lucrări academice ascunse de paywall-uri sau vândută la suprapreț mi se pare o mizerie. Așa că am decis să adun totul aici, moca.</p>
   </div>
 
   <div class="about-card">

@@ -1,7 +1,7 @@
----
+﻿---
 layout: default
 title: Centralizator Ghiduri
-description: "Ghiduri pas-cu-pas pentru sisteme hidroponice acasă. De la soluții nutritive și set-up, la mentenanță și troubleshooting."
+description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la troubleshooting și reducerea contaminării."
 ---
 
 <style>
@@ -11,7 +11,7 @@ summary {
   padding: 15px;
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-left: 4px solid var(--accent-cyan);
+  border-left: 4px solid var(--accent-amber);
   border-radius: 4px;
   font-family: var(--font-heading);
   font-weight: 500;
@@ -33,7 +33,7 @@ summary::after {
   content: "[+]";
   font-family: 'Consolas', 'Monaco', monospace;
   font-size: 0.9em;
-  color: var(--accent-cyan);
+  color: var(--accent-amber);
 }
 
 details[open] summary::after {
@@ -58,22 +58,22 @@ Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezent�
 <details markdown="1">
   <summary><strong>Modulul 1: Chestiile de bază - pentru cine incepe astăzi.</strong></summary>
     
-Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-A MURIT PLANTA DE 100 DE LEI" (cum ar fi multe specii interesante de ardei iuți...just sayin')
+Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
 
-* [Ghidul "Absolute Zero" (Primul Tău Sistem Kratky)](./ghiduri/Absolute-Zero.md)
-* [Soluții Nutritive (A/B)](./ghiduri/Solutii-Nutritive.md)
-* [Tipuri de Sisteme: Kratky vs DWC vs NFT](./ghiduri/TipuriSisteme.md)
-* [Oxigenarea Rădăcinilor](./ghiduri/Oxigenare.md)
+* [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.md)
+* [Preparare Medii](./ghiduri/PreparareMedii.md)
+* [SAB vs LFH](./ghiduri/SABvsLFH.md)
+* [Sterilizare](./ghiduri/Sterilizare.md)
   
 </details>
 
 <details markdown="1">
   <summary><strong>Modulul 2: Știința din spate (Chimie și Biologie)</strong></summary>
   
-Aici intră chestiile tehnice explicate de oameni de știință. Bune de știut pentru curioși ca mine.
+Aici intră chestiile tehnice explicate de oameni de știință / cercetători în lucrările publicate pe site-uri de genul Researchgate. Bune de știut pentru curioși ca mine.
 
-* [Controlul pH-ului și EC-ului (Electroconductivitate)](./ghiduri/pH-EC.md)
-* [Ciclul Azotului și Nutrienții Esențiali](./ghiduri/NutrientiEsentiali.md)
+* [Reglatori de Creștere](./ghiduri/PGRs.md)
+* [Controlul pH-ului](./ghiduri/pH.md)
 
 </details>
 
@@ -82,9 +82,11 @@ Aici intră chestiile tehnice explicate de oameni de știință. Bune de știut 
   
 Astea vor face diferența dintre amatori și pro-playeri
 
-* [Reducerea Algelor și Bolilor Radiculare](./ghiduri/BoliAlge.md)
+* [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.md)
+* [Reducerea Contaminării](./ghiduri/Contaminarea.md)
+* [Selecția Explantelor](./ghiduri/Selecție-Explante.md)
 * [Troubleshooting Vizual (Probleme și Soluții)](./ghiduri/Troubleshooting.md)
-* [Terminologie-Dicționar](/ghiduri/Dictionar.md)
+* [Terminologie-Dicționar](/ghiduri/Dicționar.md)
 
 </details>
 
@@ -97,5 +99,3 @@ Aici vor fi surse de informare de unde și eu mă informez pentru a vă aduce in
 * [Sci-Hub Stuff (IYKYK)](./surse/SciHub.md)
 * [Cărți + PDF-uri](./surse/Cărți.md)
 * [Canale de Youtube](./surse/youtubechannels.md)
-
-</details>
