@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "ro-RO" }}">
   <head>
     <meta charset="UTF-8">
@@ -403,7 +403,12 @@
       <a href="#" id="open-calc-btn" style="color: var(--accent-amber); border-left: 2px solid var(--accent-amber); background: rgba(255, 176, 0, 0.05); margin-top: 15px;">[🧮] Calculator Medii</a>
       <a href="https://paypal.me/CVLaur" target="_blank" style="color: #2ea043; border-left: 2px solid #2ea043; background: rgba(46, 160, 67, 0.05); margin-top: 10px;">[☕] Susține (PayPal)</a>
       <hr>
-      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none;">[↗] cod_sursa</a>
+      <div style="margin-bottom: 10px;">
+        <span style="color: var(--text-muted); font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px;">--- Legal ---</span>
+      </div>
+      <a href="{{ 'surse/Avertisment.html' | relative_url }}" style="color: #ff4444; font-weight: bold;">[⚠️] Avertisment & Siguranță</a>
+      <a href="{{ 'surse/Privacy.html' | relative_url }}">[🔒] Privacy Policy</a>
+      <a href="https://github.com/LaurenceDeer/protocoale-tissue-culture" target="_blank" style="color: var(--text-muted); border: none; margin-top: 15px;">[↗] cod_sursa</a>
     </div>
 
     <div class="main-content">
@@ -414,6 +419,11 @@
         <footer>
           <p style="margin-top: 60px; padding-top: 20px; border-top: 1px dashed var(--border-color); color: var(--text-muted); font-size: 0.85em; font-family: 'Consolas', monospace;">
             > sys.exit(0) | Open Tissue Culture RO
+            <br><br>
+            <span style="font-family: var(--font-body); font-size: 0.9em; line-height: 1.4; display: block;">
+              <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: inherit; text-decoration: underline;">CC BY-NC 4.0</a> — Conținut gratuit pentru toți, interzisă vânzarea. <br>
+              ⚠️ <strong>Avertisment:</strong> Acest site are scop pur educațional. Replicarea experimentelor implică riscuri fizice (arsuri chimice, presiune termică) și se face strict pe propriul risc. Plantele patentate nu trebuie clonate pentru comercializare. Citește <a href="{{ 'surse/Avertisment.html' | relative_url }}" style="color: var(--accent-amber);">Avertismentul Legal complet</a>.
+            </span>
           </p>
         </footer>
       </div>
