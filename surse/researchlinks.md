@@ -82,7 +82,7 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
 </div>
 
 <div class="paper-item">
-  <p class="paper-title"><a href="https://scholar.google.com/scholar?q=Optimization+of+Surface+Sterilization+and+Organogenesis+Protocol+for+Monstera+spp." target="_blank">Optimization of Surface Sterilization and Organogenesis Protocol for Monstera spp.</a></p>
+  <p class="paper-title"><a href="https://conference.um.ac.id/index.php/LAS/article/view/7854/2307" target="_blank">Optimization of Surface Sterilization and Organogenesis Protocol for Monstera spp.</a></p>
   <p class="paper-meta">Tjahjono, A.P.I, Karmawan, L.U., 2022 — Live and Applied Science, Vol 1</p>
   <p class="paper-tldr"><span class="tag-topic">Monstera Deliciosa/Adansonii</span> <strong>TL;DR:</strong> Soluția pentru o sterilizare sigură și reducerea oxidării este baia în trepte (10%, 5%, 2% NaOCl).</p>
 </div>
