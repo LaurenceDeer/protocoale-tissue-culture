@@ -76,7 +76,13 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
 </div>
 
 <div class="paper-item">
-  <p class="paper-title"><a href="#" target="_blank">TBD</a></p>
-  <p class="paper-meta">TBD</p>
-  <p class="paper-tldr"><span class="tag-topic">TBD</span> <strong>TL;DR:</strong> TBD.</p>
+  <p class="paper-title"><a href="https://doi.org/10.3390/horticulturae10010001" target="_blank">Micropropagation and Acclimatization of Monstera deliciosa Liebm. ‘Thai Constellation’</a></p>
+  <p class="paper-meta">Jing, Y., Beleski, D., Vendrame, W., 2024 — Horticulturae 10(1)</p>
+  <p class="paper-tldr"><span class="tag-topic">Monstera Thai Constellation</span> <strong>TL;DR:</strong> Bioreactoarele lichide (TIS) dublează producția față de agar. Cel mai bun hormon de multiplicare a fost 7.5mg/L BAP.</p>
+</div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://scholar.google.com/scholar?q=Optimization+of+Surface+Sterilization+and+Organogenesis+Protocol+for+Monstera+spp." target="_blank">Optimization of Surface Sterilization and Organogenesis Protocol for Monstera spp.</a></p>
+  <p class="paper-meta">Tjahjono, A.P.I, Karmawan, L.U., 2022 — Live and Applied Science, Vol 1</p>
+  <p class="paper-tldr"><span class="tag-topic">Monstera Deliciosa/Adansonii</span> <strong>TL;DR:</strong> Soluția pentru o sterilizare sigură și reducerea oxidării este baia în trepte (10%, 5%, 2% NaOCl).</p>
 </div>
