@@ -86,3 +86,10 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
   <p class="paper-meta">Tjahjono, A.P.I, Karmawan, L.U., 2022 — Live and Applied Science, Vol 1</p>
   <p class="paper-tldr"><span class="tag-topic">Monstera Deliciosa/Adansonii</span> <strong>TL;DR:</strong> Soluția pentru o sterilizare sigură și reducerea oxidării este baia în trepte (10%, 5%, 2% NaOCl).</p>
 </div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://scholar.google.com/scholar?q=In+vitro+Propagation+of+Thuja+occidentalis+Through+Apical+Shoot+Culture+Kabir" target="_blank">In vitro Propagation of Thuja occidentalis Through Apical Shoot Culture</a></p>
+  <p class="paper-meta">Kabir, M.H., Roy, P.K. & Ahmed, G., 2006 — Plant Tissue Cult. & Biotech. 16(1): 5-9</p>
+  <p class="paper-tldr"><span class="tag-topic">Thuja Occidentalis</span> <strong>TL;DR:</strong> MS fără hormoni = 100% succes la multiplicare (~6.5 lăstari/explant). IBA 1.0 mg/L pe ½MS = 100% înrădăcinare. BA și Kn ucid explantele.</p>
+</div>
+

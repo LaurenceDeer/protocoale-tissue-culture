@@ -24,6 +24,13 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
     </a>
   </div>
 
+  <div class="home-card">
+    <a href="thuja.html">
+      <h2 style="color: var(--accent-amber);">🌲 Thuja Occidentalis (Tuia)</h2>
+      <p>Coniferă ornamentală. Protocol fără hormoni cu rată de succes 100%. Nivel: Mediu.</p>
+    </a>
+  </div>
+
   <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
     <a>
       <h2>🌸 Orhidee (Phalaenopsis)</h2>
