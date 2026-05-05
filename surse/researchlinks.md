@@ -93,3 +93,15 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
   <p class="paper-tldr"><span class="tag-topic">Thuja Occidentalis</span> <strong>TL;DR:</strong> MS fără hormoni = 100% succes la multiplicare (~6.5 lăstari/explant). IBA 1.0 mg/L pe ½MS = 100% înrădăcinare. BA și Kn ucid explantele.</p>
 </div>
 
+<div class="paper-item">
+  <p class="paper-title"><a href="https://scholar.google.com/scholar?q=Efficient+in+vitro+Culture+Protocols+for+Propagating+Phalaenopsis+Cool+Breeze+Balilashaki" target="_blank">Efficient in vitro Culture Protocols for Propagating Phalaenopsis 'Cool Breeze'</a></p>
+  <p class="paper-meta">Balilashaki, Kh., Naderi, R., Kalantari, S. & Vahedi, M., 2014 — Plant Tissue Cult. & Biotech. 24(2): 191-203</p>
+  <p class="paper-tldr"><span class="tag-topic">Phalaenopsis (Orhidee)</span> <strong>TL;DR:</strong> MS + 4mg/L BA + 1mg/L NAA = 15.3 lăstari/nod floral. Mediul Chen = 83.4% germinare semințe. 100% supraviețuire la aclimatizare pe substrat poros.</p>
+</div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://doi.org/10.31547/jabet.v3i3.101" target="_blank">Tissue culture of Phalaenopsis: present status and future prospects</a></p>
+  <p class="paper-meta">Khatun, K., Nath, U.K. & Rahman, M.S., 2020 — J. Adv. Biotechnol. Exp. Ther. 3(3): 273-285</p>
+  <p class="paper-tldr"><span class="tag-topic">Phalaenopsis (Review)</span> <strong>TL;DR:</strong> Review comprehensiv. TDZ > BAP pentru PLB-uri din frunze. Cărbune activ + bioreactoare temporare rezolvă fenolizarea. Variație somaclonală sub 10%.</p>
+</div>
+

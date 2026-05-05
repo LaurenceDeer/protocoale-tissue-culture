@@ -31,10 +31,10 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
     </a>
   </div>
 
-  <div class="home-card" style="opacity: 0.5; cursor: default; border-style: dashed;">
-    <a>
-      <h2>🌸 Orhidee (Phalaenopsis)</h2>
-      <p>În lucru (WIP). Protocol pentru germinarea semințelor asimbiotice (fără fungi) pe mediu simplu.</p>
+  <div class="home-card">
+    <a href="phalaenopsis.html">
+      <h2 style="color: var(--accent-amber);">🌸 Orhidee (Phalaenopsis)</h2>
+      <p>Orhidee Moth. Multiplicare din noduri florale cu BAP+NAA sau germinare asimbiotică pe mediul Chen. Nivel: Greu.</p>
     </a>
   </div>
 
