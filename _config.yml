@@ -7,6 +7,7 @@ baseurl: "/protocoale-tissue-culture"
 # Setări vizuale
 show_downloads: false
 google_analytics: 
+image: /assets/images/logo.png
 
 # Plugin-uri
 plugins:
