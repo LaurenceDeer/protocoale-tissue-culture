@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: protocol
 title: Protocol Drosera Spatulata (Clonare Vegetativă)
 dificultate: Medie
 categorie: Carnivore

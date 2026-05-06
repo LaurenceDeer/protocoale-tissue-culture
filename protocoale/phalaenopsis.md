@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: protocol
 title: Protocol Phalaenopsis (Orhidee Moth)
 dificultate: Grea
 categorie: Orhidee

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: protocol
 title: Protocol Thuja Occidentalis (Tuia / Arborvitae)
 dificultate: Medie
 categorie: Conifere

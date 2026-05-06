@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: protocol
 title: Protocol Monstera Deliciosa (Inclusiv Thai/Albo)
 dificultate: Grea
 categorie: Aroide
