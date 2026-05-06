@@ -6,7 +6,7 @@ description: "Învață cum să clonezi prima plantă acasă cu sub 100 RON. Ghi
 
 # 🧊 Ghidul "Absolute Zero" (Primul Tău Borcan)
 
-> *Cum să clonezi prima plantă cu un buget de sub 100 RON. Zero echipament de laborator.*
+> *Cum să clonezi prima plantă cu un buget de sub 200 RON. Zero echipament de laborator.*
 
 Dacă ești complet la început, ideea de "plant tissue culture" sună scump. Auzi de hote cu flux laminar, autoclave de mii de euro și chimicale greu de pronunțat. 
 
@@ -27,7 +27,7 @@ Dacă ești complet la început, ideea de "plant tissue culture" sună scump. Au
 ### 2. Consumabile
 - **Alcool Izopropilic (70%)** - *~20 RON*
 - **Clor (Inălbitor de rufe gen Ace)** - *~10 RON (pentru sterilizarea plantei)*
-- **Apă distilată** - *~5 RON (găsești la benzinării sau supermarket)*
+- **Apă distilată** - *~20 RON (găsești la dedeman, este În mod specific cea de la agricola. Cea mai potrivita pentru TC)*
 
 ### 3. "Ingrediente" pentru Mediu (Zahăr și Gel)
 Pentru prima încercare, nu cumpărăm Mediu MS scump. Ne facem propria rețetă de test pentru a exersa *tehnica sterilă*:
