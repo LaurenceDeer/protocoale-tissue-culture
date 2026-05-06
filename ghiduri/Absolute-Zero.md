@@ -14,7 +14,7 @@ Dacă ești complet la început, ideea de "plant tissue culture" sună scump. Au
 
 ---
 
-## 🛒 Lista de Cumpărături (Buget ~100 RON)
+## 🛒 Lista de Cumpărături (Buget ~200 RON)
 
 ### 1. Echipament
 - **Borcane mici de sticlă** (ex: borcane de la gem/muștar) - *0 RON (reciclate)*
