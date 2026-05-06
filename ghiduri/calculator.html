@@ -1,0 +1,295 @@
+---
+layout: default
+title: Calculator Medii de Cultură
+---
+
+# 🧮 Calculator de Medii & Hormoni
+
+Acest instrument îți calculează exact cantitățile de pulbere și lichide necesare pentru prepararea mediului de cultură. Introdu volumul dorit și parametrii rețetei, iar tabelul de rezultate se va actualiza automat. Adio calcule pe șervețele!
+
+<style>
+  .calc-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 30px;
+  }
+  
+  @media (max-width: 800px) {
+    .calc-container {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .calc-panel {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 25px;
+  }
+
+  .calc-panel h3 {
+    margin-top: 0;
+    color: var(--accent-amber);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+
+  .input-group {
+    margin-bottom: 15px;
+  }
+
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 0.95em;
+  }
+
+  .input-group input, .input-group select {
+    width: 100%;
+    background-color: var(--bg-main);
+    border: 1px solid var(--border-color);
+    color: var(--text-main);
+    padding: 10px;
+    border-radius: 4px;
+    font-family: var(--font-body);
+    transition: border-color 0.2s;
+  }
+
+  .input-group input:focus, .input-group select:focus {
+    outline: none;
+    border-color: var(--accent-amber);
+  }
+
+  /* Rezultate */
+  .result-box {
+    background-color: var(--bg-main);
+    border-left: 4px solid var(--accent-amber);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .result-box.hormone-box {
+    border-left-color: #f85149; /* Rosu pentru atentie la mililitri */
+  }
+
+  .result-title {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+  }
+
+  .result-value {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: var(--text-main);
+  }
+  
+  .result-unit {
+    font-size: 0.5em;
+    color: var(--text-muted);
+    font-weight: normal;
+  }
+
+  /* Butoane Hormoni */
+  .btn-add {
+    background-color: transparent;
+    color: var(--accent-amber);
+    border: 1px dashed var(--accent-amber);
+    padding: 10px;
+    width: 100%;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    transition: all 0.2s;
+    margin-top: 10px;
+  }
+
+  .btn-add:hover {
+    background-color: rgba(255, 176, 0, 0.1);
+  }
+
+  .hormone-entry {
+    background-color: rgba(255,255,255,0.03);
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    position: relative;
+    border: 1px solid var(--border-hover);
+  }
+
+  .btn-remove {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #f85149;
+    cursor: pointer;
+    font-size: 1.2em;
+  }
+</style>
+
+<div class="calc-container">
+  <!-- Partea Stângă: Formularul de Date -->
+  <div class="calc-panel">
+    <h3>1. Parametrii Generali</h3>
+    
+    <div class="input-group">
+      <label>Volumul de Apă Dorit (ml)</label>
+      <input type="number" id="calc-volume" value="1000" min="50" step="50" oninput="calculate()">
+    </div>
+
+    <div class="input-group">
+      <label>Concentrația Sărurilor MS (Tipic 4.4 g/L pentru Full MS)</label>
+      <select id="calc-ms" onchange="calculate()">
+        <option value="4.4">100% (Full MS - 4.4 g/L)</option>
+        <option value="2.2">50% (Half MS - 2.2 g/L)</option>
+        <option value="1.1">25% (Quarter MS - 1.1 g/L)</option>
+        <option value="0">0% (Fără Săruri MS)</option>
+      </select>
+    </div>
+
+    <div class="input-group">
+      <label>Zahăr / Sucroză (g/L)</label>
+      <input type="number" id="calc-sugar" value="30" min="0" step="5" oninput="calculate()">
+      <small style="color: var(--text-muted); font-size: 0.8em;">Standard: 30g/L. Orhidee: 20g/L.</small>
+    </div>
+
+    <div class="input-group">
+      <label>Gelifiant (Agar / Gellan) (g/L)</label>
+      <input type="number" id="calc-agar" value="7" min="0" step="0.5" oninput="calculate()">
+      <small style="color: var(--text-muted); font-size: 0.8em;">Agar: ~7-8g/L. Gellan/Phytagel: ~2.5g/L.</small>
+    </div>
+
+    <h3 style="margin-top: 40px;">2. Hormoni / PGRs (Opțional)</h3>
+    <p style="font-size: 0.85em; color: var(--text-muted);">Calculează mililitrii necesari folosind "Soluții Stock" (ex: ai dizolvat 100mg hormon în 100ml apă => Stock de 1mg/ml).</p>
+    
+    <div id="hormones-list"></div>
+    <button class="btn-add" onclick="addHormone()">+ Adaugă Hormon</button>
+
+  </div>
+
+  <!-- Partea Dreaptă: Rezultatele Live -->
+  <div class="calc-panel">
+    <h3>🧪 Rețeta Ta Exactă</h3>
+    
+    <div class="result-box">
+      <div class="result-title">Săruri Murashige & Skoog (MS)</div>
+      <div class="result-value" id="res-ms">4.40 <span class="result-unit">grame</span></div>
+    </div>
+
+    <div class="result-box">
+      <div class="result-title">Zahăr (Sucroză)</div>
+      <div class="result-value" id="res-sugar">30.00 <span class="result-unit">grame</span></div>
+    </div>
+
+    <div class="result-box">
+      <div class="result-title">Agent Gelatinizant</div>
+      <div class="result-value" id="res-agar">7.00 <span class="result-unit">grame</span></div>
+    </div>
+
+    <div id="res-hormones-container">
+      <!-- Rezultatele pentru hormoni se populează aici -->
+    </div>
+    
+    <div style="margin-top: 30px; padding: 15px; background-color: rgba(255, 176, 0, 0.05); border-radius: 6px; font-size: 0.9em; color: var(--text-muted);">
+      <strong>Cum se prepară:</strong><br>
+      1. Toarnă <span id="res-water-step1">800</span> ml de apă distilată într-un vas.<br>
+      2. Adaugă ingredientele solide de mai sus (mai puțin agar-ul) și mixează până la dizolvare.<br>
+      3. Adaugă lichidele (Hormonii) dacă folosești, măsurând precis cu pipeta.<br>
+      4. Completează cu apă distilată până la volumul exact de <strong id="res-water-final" style="color: var(--text-main);">1000</strong> ml.<br>
+      5. Ajustează pH-ul (de obicei la 5.7 - 5.8).<br>
+      6. La final, adaugă agar-ul și du la fiert/autoclavat.
+    </div>
+
+  </div>
+</div>
+
+<script>
+  let hormoneCount = 0;
+
+  function addHormone() {
+    hormoneCount++;
+    const id = hormoneCount;
+    
+    const html = `
+      <div class="hormone-entry" id="hormone-entry-${id}">
+        <button class="btn-remove" onclick="removeHormone(${id})">✖</button>
+        <div class="input-group">
+          <label>Nume Hormon (ex: BAP, NAA)</label>
+          <input type="text" id="h-name-${id}" value="BAP" oninput="calculate()">
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+          <div class="input-group">
+            <label>Dorință (mg/L)</label>
+            <input type="number" id="h-target-${id}" value="1.0" min="0" step="0.1" oninput="calculate()">
+          </div>
+          <div class="input-group">
+            <label>Stock (mg/ml)</label>
+            <input type="number" id="h-stock-${id}" value="1.0" min="0.1" step="0.1" oninput="calculate()">
+          </div>
+        </div>
+      </div>
+    `;
+    
+    document.getElementById('hormones-list').insertAdjacentHTML('beforeend', html);
+    calculate();
+  }
+
+  function removeHormone(id) {
+    document.getElementById(`hormone-entry-${id}`).remove();
+    calculate();
+  }
+
+  function calculate() {
+    // Luam volumul
+    const volume = parseFloat(document.getElementById('calc-volume').value) || 0;
+    const ratio = volume / 1000;
+
+    // Calculăm pulberile
+    const msStr = parseFloat(document.getElementById('calc-ms').value);
+    const sugar = parseFloat(document.getElementById('calc-sugar').value) || 0;
+    const agar = parseFloat(document.getElementById('calc-agar').value) || 0;
+
+    document.getElementById('res-ms').innerHTML = (msStr * ratio).toFixed(2) + ' <span class="result-unit">grame</span>';
+    document.getElementById('res-sugar').innerHTML = (sugar * ratio).toFixed(2) + ' <span class="result-unit">grame</span>';
+    document.getElementById('res-agar').innerHTML = (agar * ratio).toFixed(2) + ' <span class="result-unit">grame</span>';
+    
+    // Update la instructiunile textuale
+    document.getElementById('res-water-final').innerText = volume;
+    document.getElementById('res-water-step1').innerText = Math.round(volume * 0.8);
+
+    // Calculăm hormonii
+    const hContainer = document.getElementById('res-hormones-container');
+    hContainer.innerHTML = ''; // Reset
+    
+    const entries = document.querySelectorAll('.hormone-entry');
+    entries.forEach(entry => {
+      const id = entry.id.split('-')[2];
+      const name = document.getElementById(`h-name-${id}`).value || 'Hormon';
+      const target = parseFloat(document.getElementById(`h-target-${id}`).value) || 0;
+      const stock = parseFloat(document.getElementById(`h-stock-${id}`).value) || 1;
+      
+      // Formula: (Target [mg/L] / Stock [mg/ml]) * Ratio (Volume in L) = mL necesari
+      const mlRequired = (target / stock) * ratio;
+      
+      const html = `
+        <div class="result-box hormone-box">
+          <div class="result-title">Adaugă cu pipeta: ${name}</div>
+          <div class="result-value" style="color: #f85149;">${mlRequired.toFixed(2)} <span class="result-unit">mililitri (ml)</span></div>
+        </div>
+      `;
+      hContainer.insertAdjacentHTML('beforeend', html);
+    });
+  }
+
+  // Run initial calculation
+  calculate();
+</script>

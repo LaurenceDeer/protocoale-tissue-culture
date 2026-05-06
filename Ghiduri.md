@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Centralizator Ghiduri
 description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la troubleshooting și reducerea contaminării."
@@ -62,6 +62,7 @@ Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșu
 
 * [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.md)
 * [Preparare Medii](./ghiduri/PreparareMedii.md)
+* [🧮 Calculator de Medii & Hormoni (Interactiv)](./ghiduri/calculator.html)
 * [SAB vs LFH](./ghiduri/SABvsLFH.md)
 * [Sterilizare](./ghiduri/Sterilizare.md)
   
