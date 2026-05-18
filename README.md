@@ -44,7 +44,7 @@ Ai nimerit bine. Ăsta este hub-ul românesc de Plant Tissue Culture. Fără jar
   </div>
 
   <div class="home-card">
-    <a href="(https://laurencedeer.gumroad.com/?section=nraf11zEY3oF2vZ7ViB7Qg==#nraf11zEY3oF2vZ7ViB7Qg==)">
+    <a href="https://laurencedeer.gumroad.com/?section=nraf11zEY3oF2vZ7ViB7Qg==#nraf11zEY3oF2vZ7ViB7Qg">
       <h2>Field Guide</h2>
       <p>Un micuț ghid unde am pus laolaltă informații rapide despre sterilizări, etichete și checlisturi. Informația este mult mai completă aici pe website, dar mai lungă. Ia-l doar dacă ai chef să mă ajuți cu o donație care îți și aduce ceva la schimb ;)</p>
     </a>
