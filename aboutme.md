@@ -69,7 +69,7 @@ title: Despre Mine
   <div class="about-card support-card" style="grid-column: 1 / -1;">
     <h3>☕ Vrei să mă susții?</h3>
     <p>Tot ce îți pun la dispoziție pe website, toate informațiile și protocoalele, sunt complet gratuite. Totuși, ele vin la prețul de timp, dedicare (și ocazional echipament prăjit) din partea mea. Nu-i absolut deloc necesar, dar dacă te-au ajutat ghidurile și vrei să susții proiectul, poți lăsa de-o cafea/un agar aici: <br><br>
-    <a href="https://paypal.me/CVLaur" target="_blank" style="display: inline-block; background: #238636; color: #fff; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-weight: bold;">Susține Proiectul (Patreon / Ko-fi)</a></p>
+    <a href="https://paypal.me/CVLaur" target="_blank" style="display: inline-block; background: #238636; color: #fff; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-weight: bold;">Susține Proiectul (PayPal / Ko-fi)</a></p>
   </div>
 
 </div>
