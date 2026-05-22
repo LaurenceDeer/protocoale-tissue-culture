@@ -10,6 +10,14 @@ permalink: /
 # 🇷🇴 Laboratorul Tău în Borcan 🇷🇴
 **Ghidul open-source pentru clonarea plantelor în sufragerie.**
 
+<div style="background: rgba(255, 176, 0, 0.05); border-left: 3px solid var(--accent-amber); padding: 12px 15px; margin: 20px 0; font-family: 'Consolas', monospace; font-size: 0.9em; color: var(--accent-amber); border-radius: 4px;">
+  STATUS: protocoale extrase din literatura | validare practica in curs.
+</div>
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/protocoale-tissue-culture/start-aici.html" style="display: inline-block; background-color: var(--accent-amber); color: #060606; padding: 12px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: var(--font-heading); font-size: 1.1em; box-shadow: 0 0 15px rgba(255, 176, 0, 0.3); transition: all 0.2s ease;">🚀 START AICI: Traseul Începătorului</a>
+</div>
+
 Dacă ai ajuns aici, probabil te-ai săturat să dai sute de lei pe o plantă rară care se usucă în două săptămâni, sau vrei să înveți cum să dai *Ctrl+C / Ctrl+V* la viață folosind niște zahăr, agar și o oală sub presiune. 
 
 Ai nimerit bine. Ăsta este hub-ul românesc de Plant Tissue Culture. Fără jargon academic inutil, fără paywall-uri. Doar știință aplicată direct.

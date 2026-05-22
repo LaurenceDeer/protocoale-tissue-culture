@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laurencedeer.github.io/protocoale-tissue-culture/sitemap.xml

@@ -50,8 +50,10 @@ details p, details ul {
   margin-left: 15px;
 }
 </style>
-### WORK IN PROGRESS
-Aici o să pun linkurile către ghidurile pe care le compun, iar pagina prezentă este o metodă de centralizare.
+## 📚 Ghiduri Pas-Cu-Pas & Documentație
+Bun venit în hub-ul activ de micropropagare. Aici găsești ghidurile noastre structurate pentru a începe cu succes clonarea in vitro direct acasă. Extindem baza de date și adăugăm noi materiale în mod gradual.
+
+Dacă ești la prima vizită, îți recomandăm cu insistență să începi parcurgerea traseului structurat: **[🚀 Start Aici: Traseul Începătorului](./start-aici.html)**.
 
 ---
 
