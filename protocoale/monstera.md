@@ -3,6 +3,10 @@ layout: protocol
 title: Protocol Monstera Deliciosa (Inclusiv Thai/Albo)
 dificultate: Grea
 categorie: Aroide
+status: literatura
+hormoni: BAP, NAA
+ultima_actualizare: 2026-05-24
+versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Monstera Deliciosa / Thai Constellation_

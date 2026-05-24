@@ -3,8 +3,95 @@ layout: default
 ---
 
 <article class="protocol-content">
+  <div class="protocol-meta-badges">
+    <span class="badge badge-difficulty difficulty-{{ page.dificultate | downcase }}">
+      ⏱️ Dificultate: {{ page.dificultate }}
+    </span>
+    <span class="badge badge-category">
+      📁 Categorie: {{ page.categorie }}
+    </span>
+    <span class="badge badge-status status-{{ page.status | downcase }}">
+      🔬 Status: {{ page.status | capitalize }}
+    </span>
+    <span class="badge badge-hormoni">
+      🧪 Hormoni: {{ page.hormoni }}
+    </span>
+    <span class="badge badge-date">
+      📅 Actualizat: {{ page.ultima_actualizare }}
+    </span>
+    <span class="badge badge-version">
+      v{{ page.versiune }}
+    </span>
+  </div>
+
   {{ content }}
 </article>
+
+<style>
+.protocol-meta-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.protocol-meta-badges .badge {
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.82em;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 4px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* Stiluri specifice pentru dificultate */
+.protocol-meta-badges .difficulty-ușoară {
+  color: #10B981 !important;
+  background: rgba(16, 185, 129, 0.04);
+  border-color: rgba(16, 185, 129, 0.2);
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.05);
+}
+
+.protocol-meta-badges .difficulty-medie {
+  color: var(--accent-amber) !important;
+  background: rgba(255, 176, 0, 0.04);
+  border-color: rgba(255, 176, 0, 0.2);
+  box-shadow: 0 0 8px rgba(255, 176, 0, 0.05);
+}
+
+.protocol-meta-badges .difficulty-grea {
+  color: #EF4444 !important;
+  background: rgba(239, 68, 68, 0.04);
+  border-color: rgba(239, 68, 68, 0.2);
+  box-shadow: 0 0 8px rgba(239, 68, 68, 0.05);
+}
+
+/* Stiluri specifice pentru status */
+.protocol-meta-badges .status-literatura {
+  color: #A78BFA !important;
+  background: rgba(167, 139, 250, 0.04);
+  border-color: rgba(167, 139, 250, 0.2);
+  box-shadow: 0 0 8px rgba(167, 139, 250, 0.05);
+}
+
+.protocol-meta-badges .status-in-testare {
+  color: #3B82F6 !important;
+  background: rgba(59, 130, 246, 0.04);
+  border-color: rgba(59, 130, 246, 0.2);
+}
+
+.protocol-meta-badges .status-validat-ro {
+  color: #10B981 !important;
+  background: rgba(16, 185, 129, 0.04);
+  border-color: rgba(16, 185, 129, 0.2);
+}
+</style>
 
 <!-- Giscus Comments Section -->
 <div class="comments-section" style="margin-top: 60px; padding-top: 30px; border-top: 1px dashed var(--border-color);">

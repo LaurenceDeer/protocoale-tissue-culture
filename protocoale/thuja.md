@@ -3,6 +3,10 @@ layout: protocol
 title: Protocol Thuja Occidentalis (Tuia / Arborvitae)
 dificultate: Medie
 categorie: Conifere
+status: literatura
+hormoni: Fără (multiplicare), IBA (înrădăcinare)
+ultima_actualizare: 2026-05-24
+versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Thuja Occidentalis_, pentru prietenul meu Alex :)

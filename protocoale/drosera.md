@@ -3,6 +3,10 @@ layout: protocol
 title: Protocol Drosera Spatulata (Clonare Vegetativă)
 dificultate: Medie
 categorie: Carnivore
+status: literatura
+hormoni: Fără
+ultima_actualizare: 2026-05-24
+versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Drosera Spatulata_

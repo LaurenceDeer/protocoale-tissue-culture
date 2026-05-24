@@ -3,6 +3,10 @@ layout: protocol
 title: Protocol Phalaenopsis (Orhidee Moth)
 dificultate: Grea
 categorie: Orhidee
+status: literatura
+hormoni: BAP, NAA, IAA
+ultima_actualizare: 2026-05-24
+versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Phalaenopsis_ (Orhidee)
