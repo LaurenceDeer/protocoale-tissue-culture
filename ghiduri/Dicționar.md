@@ -53,6 +53,9 @@ Punem diferiți PGRs în mediile de creștele, în funcție de unde ești cu pro
 ### **PPM** *(Plant Preservative Mixture)*
 Un produs chimic brevetat (biocid) care ucide bacteriile și fungii, dar lasă planta să trăiască. Este "cheat code-ul" începătorilor pentru a evita contaminarea, în cazul în care vezi că nu-ți prea iese cu metodele de lucru în SAB.
 
+### **ppm** *(parts per million)*
+Unitate de măsură pentru concentrații extrem de mici (părți per milion). În soluții apoase, **1 ppm este echivalent cu 1 mg/L** (miligram pe litru). Se folosește frecvent pentru stabilirea dozelor fine de hormoni vegetali sau alte chimicale în mediile de cultură.
+
 ---
 
 ## 🔬 3. Laborator & Echipament

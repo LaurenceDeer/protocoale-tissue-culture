@@ -11,7 +11,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "pgrs": "Hormoni vegetali (Plant Growth Regulators).",
         "auxine": "Hormoni care stimulează formarea rădăcinilor.",
         "citokinine": "Hormoni care stimulează formarea frunzelor și lăstarilor.",
-        "ppm": "Biocid folosit pentru a preveni contaminarea (Plant Preservative Mixture).",
+        "ppm": "Unitate de măsură pentru concentrații mici (părți per milion). 1 ppm = 1 mg/L.",
+        "PPM": "Biocid comercial folosit pentru prevenirea contaminării în medii de cultură (Plant Preservative Mixture).",
         "inocuitate": "Arta de a lucra steril, fără a introduce microbi.",
         "autoclav": "Echipament pentru sterilizare sub presiune (sau oală sub presiune).",
         "sab": "Cutie cu aer mort (Still Air Box) pentru lucrul steril.",
@@ -33,6 +34,9 @@ document.addEventListener("DOMContentLoaded", function() {
             if (regex.test(text)) {
                 const span = document.createElement('span');
                 span.innerHTML = text.replace(regex, function(match) {
+                    if (dictionary[match]) {
+                        return `<span class="glossary-term" data-tooltip="${dictionary[match]}">${match}</span>`;
+                    }
                     const term = match.toLowerCase();
                     if (dictionary[term]) {
                         return `<span class="glossary-term" data-tooltip="${dictionary[term]}">${match}</span>`;

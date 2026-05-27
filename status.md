@@ -6,7 +6,7 @@ description: "Urmărește versiunea curentă a site-ului, ultimele actualizări 
 
 # 📈 Status Hub & Jurnal de Modificări (Changelog)
 
-Versiunea curentă a site-ului: **v0.2.0-beta**
+Versiunea curentă a site-ului: **v0.1.2-beta**
 
 Aici poți urmări evoluția hub-ului, modificările recente și istoricul lansărilor noastre.
 
@@ -14,7 +14,15 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 
 ## ⚡ Istoricul Versiunilor
 
-### v0.1.1 — Structură Hub & Standardizare (Curentă)
+### v0.1.2 — Filtrare & Instrumente de Lucru (Curentă)
+*Data: 27 Mai 2026*
+
+*   **Filtrare Interactivă Protocoale:** Implementarea unui sistem de filtre dinamice (Categorie, Dificultate, Hormoni) pe pagina de [Protocoale](./protocoale/Protocoale.html), folosind Javascript nativ pentru afișarea instantanee a speciilor.
+*   **Fișă Checklist Laborator:** Crearea ghidului print-friendly [Checklist Laborator](./ghiduri/checklist-laborator.html) cu pași clari de verificare a sterilității și pregătirii mediilor, optimizat complet pentru tipărirea fizică la imprimantă.
+*   **Corectare Glosar (ppm vs PPM):** Diferențierea case-sensitive în glosar și dicționar între `ppm` (unitate de măsură pentru concentrații) și `PPM` (biocidul *Plant Preservative Mixture*).
+*   **Card Philodendron Interactiv:** Cardul speciilor în lucru trimite acum direct către Roadmap-ul public pentru transparența dezvoltării.
+
+### v0.1.1 — Structură Hub & Standardizare
 *Data: 24 Mai 2026*
 
 *   **Standardizare Metadate:** Toate protocoalele existente au acum metadate YAML standardizate (`status: literatura`, `hormoni`, `ultima_actualizare`, `versiune`).
