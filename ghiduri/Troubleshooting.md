@@ -10,7 +10,7 @@ Ai făcut totul "ca la carte", dar borcanul tău arată ca un experiment știin�
 
 Folosește acest ghid pentru a identifica inamicul și a afla unde trebuie să îți îmbunătățești tehnica.
 
-<div class="mermaid" style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px; padding: 20px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.35); text-align: center;">
+<pre class="mermaid" style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px; padding: 20px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.35); text-align: center; font-family: inherit;">
 graph TD
     Start["🔍 Identificare Problemă"] --> Contaminare["Contaminare (pete / puf pe gel)"]
     Start --> ProblemePlanta["Probleme de dezvoltare la plantă"]
@@ -18,16 +18,16 @@ graph TD
     Contaminare --> Fungal["A. Puf alb/verde/negru (Mucegai)"]
     Contaminare --> Bacterial["B. Pete lăptoase/zmârcâială (Bacterii)"]
 
-    Fungal --> FungalAction["Sursa: Aerul sau SAB nesterilizat corespunzător. <br> Soluție: Aruncă flaconul, sterilizează borcanul. Curăță mai bine SAB-ul."]
-    Bacterial --> BacterialAction["Sursa: Explant nesterilizat / unelte murdare. <br> Soluție: Aruncă flaconul. Mărește expunerea la clor. Flambează uneltele."]
+    Fungal --> FungalAction["Sursa: Aerul sau SAB nesterilizat corespunzător. <br/> Soluție: Aruncă flaconul, sterilizează borcanul. Curăță mai bine SAB-ul."]
+    Bacterial --> BacterialAction["Sursa: Explant nesterilizat / unelte murdare. <br/> Soluție: Aruncă flaconul. Mărește expunerea la clor. Flambează uneltele."]
 
     ProblemePlanta --> Innegrire["A. Gel maro sau negru (Fenolizare)"]
     ProblemePlanta --> Translucid["B. Aspect sticlos și fragil (Vitrificare)"]
     ProblemePlanta --> Stagnare["C. Planta nu crește deloc (Stagnare)"]
 
-    Innegrire --> InnegrireAction["Sursa: Compuși fenolici toxici eliberați prin tăiere. <br> Soluție: Subcultură rapidă, taie cu lamă super ascuțită, pune Cărbune Activ."]
-    Translucid --> TranslucidAction["Sursa: Umiditate 100% / hormon BAP în exces / puțin agar. <br> Soluție: Scade doza de BAP, mărește cantitatea de agar, folosește filtru."]
-    Stagnare --> StagnareAction["Sursa: pH greșit / lipsă nutrienți / hormoni incorecți. <br> Soluție: Verifică pH-ul (5.7-5.8), folosește MS complet."]
+    Innegrire --> InnegrireAction["Sursa: Compuși fenolici toxici eliberați prin tăiere. <br/> Soluție: Subcultură rapidă, taie cu lamă super ascuțită, pune Cărbune Activ."]
+    Translucid --> TranslucidAction["Sursa: Umiditate 100% / hormon BAP în exces / puțin agar. <br/> Soluție: Scade doza de BAP, mărește cantitatea de agar, folosește filtru."]
+    Stagnare --> StagnareAction["Sursa: pH greșit / lipsă nutrienți / hormoni incorecți. <br/> Soluție: Verifică pH-ul (5.7-5.8), folosește MS complet."]
 
     style Start fill:#111,stroke:#FFB000,stroke-width:2px,color:#fff
     style Contaminare fill:#4a121a,stroke:#EF4444,color:#fff
@@ -37,7 +37,7 @@ graph TD
     style Innegrire fill:#2b2211,stroke:#ffeeba,color:#fff3cd
     style Translucid fill:#2b2211,stroke:#ffeeba,color:#fff3cd
     style Stagnare fill:#0f2b3b,stroke:#bee5eb,color:#d1ecf1
-</div>
+</pre>
 
 ---
 
