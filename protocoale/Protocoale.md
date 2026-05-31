@@ -70,6 +70,7 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
       <option value="aroide">Aroide</option>
       <option value="conifere">Conifere</option>
       <option value="orhidee">Orhidee</option>
+      <option value="gesneriaceae">Gesneriaceae</option>
     </select>
   </div>
 
@@ -77,6 +78,7 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
     <label for="filter-difficulty">⏱️ Dificultate:</label>
     <select id="filter-difficulty">
       <option value="all">Toate</option>
+      <option value="usoara">Ușoară</option>
       <option value="medie">Medie</option>
       <option value="grea">Grea</option>
     </select>
@@ -94,6 +96,13 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
 
 <div class="home-grid">
   
+  <div class="home-card" data-category="gesneriaceae" data-difficulty="usoara" data-hormones="cu">
+    <a href="saintpaulia.html">
+      <h2 style="color: var(--accent-amber);">🌸 Violetă Africană (Saintpaulia)</h2>
+      <p>Gesneriaceae. Multiplicare prin organogeneză directă din fragmente de frunze cu BAP+NAA și înrădăcinare pe 1/2 MS. Nivel: Ușor.</p>
+    </a>
+  </div>
+
   <div class="home-card" data-category="carnivore" data-difficulty="medie" data-hormones="fara">
     <a href="drosera.html">
       <h2 style="color: var(--accent-amber);">🌱 Drosera (Roua Cerului)</h2>

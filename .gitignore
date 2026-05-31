@@ -1,0 +1,32 @@
+# Excel temporary files
+~$*
+~$*.xlsx
+~$*.xls
+
+# Microsoft Office files
+*.doc
+*.docx
+*.docm
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.ppt
+*.pptx
+*.pptm
+
+# Keep the main roadmap tracked
+!ROADMAP-HUB.xlsx
+
+# PDF documents
+*.pdf
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -6,7 +6,7 @@ description: "Urmărește versiunea curentă a site-ului, ultimele actualizări 
 
 # 📈 Status Hub & Jurnal de Modificări (Changelog)
 
-Versiunea curentă a site-ului: **v0.1.2-beta**
+Versiunea curentă a site-ului: **v0.1.3-beta**
 
 Aici poți urmări evoluția hub-ului, modificările recente și istoricul lansărilor noastre.
 
@@ -14,7 +14,15 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 
 ## ⚡ Istoricul Versiunilor
 
-### v0.1.2 — Filtrare & Instrumente de Lucru (Curentă)
+### v0.1.3 — Conținut & Comunitate (Curentă)
+*Data: 27 Mai 2026*
+
+*   **Protocol Nou Saintpaulia (Violetă Africană):** Adăugarea protocolului științific complet pentru [Saintpaulia ionantha](./protocoale/saintpaulia.html) pe bază de organogeneză directă din frunză, sintetizat din studiul academic USAMV Cluj-Napoca (Hârța & Clapa, 2022).
+*   **Diagrame de Diagnostic Mermaid:** Integrarea unei diagrame de flux Mermaid interactive în ghidul de [Troubleshooting](./ghiduri/Troubleshooting.html) pentru diagnosticarea rapidă a contaminărilor și problemelor de creștere, stilizată pentru tema Midnight.
+*   **Șablon Protocol Contribuitori:** Crearea unui model Markdown standardizat în [CONTRIBUTING.md](./surse/CONTRIBUTING.html) pentru a ușura redactarea de protocoale noi de către comunitate.
+*   **Șabloane GitHub Issues:** Configurarea formatelor oficiale pentru raportarea de erori, propunerea de protocoale noi și înscrierea succeselor în *Hall of Fame* în `.github/ISSUE_TEMPLATE/`.
+
+### v0.1.2 — Filtrare & Instrumente de Lucru
 *Data: 27 Mai 2026*
 
 *   **Filtrare Interactivă Protocoale:** Implementarea unui sistem de filtre dinamice (Categorie, Dificultate, Hormoni) pe pagina de [Protocoale](./protocoale/Protocoale.html), folosind Javascript nativ pentru afișarea instantanee a speciilor.
