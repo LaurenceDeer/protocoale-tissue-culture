@@ -6,7 +6,7 @@ description: "Urmărește versiunea curentă a site-ului, ultimele actualizări 
 
 # 📈 Status Hub & Jurnal de Modificări (Changelog)
 
-Versiunea curentă a site-ului: **v0.1.3-beta**
+Versiunea curentă a site-ului: **v0.1.4-beta**
 
 Aici poți urmări evoluția hub-ului, modificările recente și istoricul lansărilor noastre.
 
@@ -14,7 +14,14 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 
 ## ⚡ Istoricul Versiunilor
 
-### v0.1.3 — Conținut & Comunitate (Curentă)
+### v0.1.4 — Protocoale Noi & Bază de Cercetare (Curentă)
+*Data: 14 Iunie 2026*
+
+*   **Protocoale Noi Musa (Bananier) & Nepenthes (Plantă Pitcher):** Adăugarea ghidurilor tehnice complete de micropropagare pentru [Musa spp.](./protocoale/musa.html) (pe bază de MS cu acid ascorbic pentru combaterea fenolizării) și [Nepenthes khasiana](./protocoale/nepenthes.html) (pe bază de WPM cu cărbune activ pentru protecția rădăcinilor delicate).
+*   **Actualizare Bază Științifică (Research Links):** Integrarea studiilor academice citate pentru protocoalele de *Saintpaulia*, *Musa* și *Nepenthes* direct în pagina de [Surse de Cercetare](./surse/researchlinks.html).
+*   **Redesign Flowchart & Căutare Conținut:** Optimizarea diagramei de erori în format orizontal, adăugarea linkurilor de click-to-scroll în ghiduri și indexarea textului paginilor în search bar (modificări comise acum).
+
+### v0.1.3 — Conținut & Comunitate
 *Data: 27 Mai 2026*
 
 *   **Protocol Nou Saintpaulia (Violetă Africană):** Adăugarea protocolului științific complet pentru [Saintpaulia ionantha](./protocoale/saintpaulia.html) pe bază de organogeneză directă din frunză, sintetizat din studiul academic USAMV Cluj-Napoca (Hârța & Clapa, 2022).

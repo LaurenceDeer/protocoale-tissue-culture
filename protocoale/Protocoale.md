@@ -71,6 +71,7 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
       <option value="conifere">Conifere</option>
       <option value="orhidee">Orhidee</option>
       <option value="gesneriaceae">Gesneriaceae</option>
+      <option value="tropicale">Tropicale</option>
     </select>
   </div>
 
@@ -110,10 +111,24 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
     </a>
   </div>
 
+  <div class="home-card" data-category="carnivore" data-difficulty="medie" data-hormones="cu">
+    <a href="nepenthes.html">
+      <h2 style="color: var(--accent-amber);">🩸 Pitcher Plant (Nepenthes)</h2>
+      <p>Plantă carnivoră. Protocol pe mediu WPM cu cărbune activ pentru a preveni arderea rădăcinilor și secreția de fenoli. Nivel: Mediu.</p>
+    </a>
+  </div>
+
   <div class="home-card" data-category="aroide" data-difficulty="grea" data-hormones="cu">
     <a href="monstera.html">
       <h2 style="color: var(--accent-amber);">🌿 Monstera (Deliciosa / Thai) </h2>
       <p>Aroide. Protocol extragere muguri axilari, mediu cu citokinine (BAP) și aclimatizare biostimulată. Nivel: Greu.</p>
+    </a>
+  </div>
+
+  <div class="home-card" data-category="tropicale" data-difficulty="medie" data-hormones="cu">
+    <a href="musa.html">
+      <h2 style="color: var(--accent-amber);">🍌 Bananier (Musa spp.)</h2>
+      <p>Plantă tropicală. Multiplicare masivă pe mediu MS cu adaos de antioxidanți (acid ascorbic) și conservare la rece (15°C). Nivel: Mediu.</p>
     </a>
   </div>
 

@@ -105,3 +105,28 @@ Fără explicații lungi. Doar titlul, link-ul și un TL;DR (rezumatul) ca să n
   <p class="paper-tldr"><span class="tag-topic">Phalaenopsis (Review)</span> <strong>TL;DR:</strong> Review comprehensiv. TDZ > BAP pentru PLB-uri din frunze. Cărbune activ + bioreactoare temporare rezolvă fenolizarea. Variație somaclonală sub 10%.</p>
 </div>
 
+<div class="paper-item">
+  <p class="paper-title"><a href="https://journals.usamvcluj.ro/index.php/horticulture/article/view/14358" target="_blank">Micropropagation of Ornamental Gesneriaceae Species and Genetic Uniformity Assessment of In Vitro Plants Using SCoT Markers</a></p>
+  <p class="paper-meta">Monica Hârța, Doina Clapa, 2022 — Scientific Papers. Series B, Horticulture, Vol. LXVI, No. 1, pp. 692-700</p>
+  <p class="paper-tldr"><span class="tag-topic">Saintpaulia (Violetă Africană)</span> <strong>TL;DR:</strong> Organogeneză directă din frunză pe MS + 0.5mg/L BAP + 0.2mg/L IAA. Rată maximă de multiplicare (16.9) pe MS + 1.0mg/L BAP + 0.2mg/L NAA. Uniformitate genetică 100% confirmată molecular prin markeri SCoT.</p>
+</div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://link.springer.com/chapter/10.1007/978-1-4020-5637-6_26" target="_blank">Tissue Culture Studies in Nepenthes khasiana</a></p>
+  <p class="paper-meta">V. Bahadur, K.S. Kirad, A. Mathew & D.B. Singh, 2008 — Acta Horticulturae 786: 287-293</p>
+  <p class="paper-tldr"><span class="tag-topic">Nepenthes (Pitcher Plant)</span> <strong>TL;DR:</strong> WPM + 2% sucroză + 500mg/L cărbune activ + 0.5mg/L BAP + 0.05mg/L NAA/IAA oferă 90% supraviețuire la segmente multi-nodale. Înrădăcinare în 21 zile cu 0.05mg/L NAA.</p>
+</div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://link.springer.com/article/10.1007/BF00269894" target="_blank">A tissue culture technique for rapid clonal propagation and storage under minimal growth conditions of Musa (Banana and plantain)</a></p>
+  <p class="paper-meta">Nirmalya Banerjee & Edmond de Langhe, 1985 — Plant Cell Reports 4: 351-354</p>
+  <p class="paper-tldr"><span class="tag-topic">Musa (Bananier)</span> <strong>TL;DR:</strong> Multiplicare excelentă pe MS + 2.3mg/L BA + 0.18mg/L IAA, folosind 10mg/L Acid Ascorbic pentru a preveni înnegrirea (browning-ul). Conservare pe termen lung (13-17 luni) la 15°C și 1000 lux.</p>
+</div>
+
+<div class="paper-item">
+  <p class="paper-title"><a href="https://doi.org/10.1007/s44372-025-00099-2" target="_blank">Recent progress in tissue culture techniques and biotechnological innovations for banana production (Musa spp.): a review</a></p>
+  <p class="paper-meta">Samuel C. Chukwu et al., 2025 — Discover Plants 2:13</p>
+  <p class="paper-tldr"><span class="tag-topic">Musa (Review)</span> <strong>TL;DR:</strong> Review amplu despre in-vitro micropropagarea bananierilor. Detaliază sterilizarea sucker-ilor, utilizarea BAP/TDZ/IAA/NAA și depășirea provocărilor privind contaminările interne și fenolizarea.</p>
+</div>
+
+

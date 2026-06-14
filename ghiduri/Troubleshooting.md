@@ -11,32 +11,22 @@ Ai făcut totul "ca la carte", dar borcanul tău arată ca un experiment știin�
 Folosește acest ghid pentru a identifica inamicul și a afla unde trebuie să îți îmbunătățești tehnica.
 
 <pre class="mermaid" style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px; padding: 20px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.35); text-align: center; font-family: inherit;">
-graph TD
-    Start["🔍 Identificare Problemă"] --> Contaminare["Contaminare (pete / puf pe gel)"]
-    Start --> ProblemePlanta["Probleme de dezvoltare la plantă"]
+graph LR
+    Start["🔍 Identificare Problemă"] --> Contaminare["Contaminare (pe gel/planta)"]
+    Start --> ProblemePlanta["Probleme dezvoltare plantă"]
 
-    Contaminare --> Fungal["A. Puf alb/verde/negru (Mucegai)"]
-    Contaminare --> Bacterial["B. Pete lăptoase/zmârcâială (Bacterii)"]
+    Contaminare --> Fungal["A. Mucegai / Puf"]
+    Contaminare --> Bacterial["B. Pete lăptoase / Zmârcâială"]
 
-    Fungal --> FungalAction["Sursa: Aerul sau SAB nesterilizat corespunzător. <br/> Soluție: Aruncă flaconul, sterilizează borcanul. Curăță mai bine SAB-ul."]
-    Bacterial --> BacterialAction["Sursa: Explant nesterilizat / unelte murdare. <br/> Soluție: Aruncă flaconul. Mărește expunerea la clor. Flambează uneltele."]
+    ProblemePlanta --> Innegrire["A. Înnegrire (Fenolizare)"]
+    ProblemePlanta --> Translucid["B. Aspect sticlos (Vitrificare)"]
+    ProblemePlanta --> Stagnare["C. Nu crește (Stagnare)"]
 
-    ProblemePlanta --> Innegrire["A. Gel maro sau negru (Fenolizare)"]
-    ProblemePlanta --> Translucid["B. Aspect sticlos și fragil (Vitrificare)"]
-    ProblemePlanta --> Stagnare["C. Planta nu crește deloc (Stagnare)"]
-
-    Innegrire --> InnegrireAction["Sursa: Compuși fenolici toxici eliberați prin tăiere. <br/> Soluție: Subcultură rapidă, taie cu lamă super ascuțită, pune Cărbune Activ."]
-    Translucid --> TranslucidAction["Sursa: Umiditate 100% / hormon BAP în exces / puțin agar. <br/> Soluție: Scade doza de BAP, mărește cantitatea de agar, folosește filtru."]
-    Stagnare --> StagnareAction["Sursa: pH greșit / lipsă nutrienți / hormoni incorecți. <br/> Soluție: Verifică pH-ul (5.7-5.8), folosește MS complet."]
-
-    style Start fill:#111,stroke:#FFB000,stroke-width:2px,color:#fff
-    style Contaminare fill:#4a121a,stroke:#EF4444,color:#fff
-    style ProblemePlanta fill:#0c281a,stroke:#10B981,color:#fff
-    style Fungal fill:#2a1b1c,stroke:#f5c6cb,color:#f8d7da
-    style Bacterial fill:#2a1b1c,stroke:#f5c6cb,color:#f8d7da
-    style Innegrire fill:#2b2211,stroke:#ffeeba,color:#fff3cd
-    style Translucid fill:#2b2211,stroke:#ffeeba,color:#fff3cd
-    style Stagnare fill:#0f2b3b,stroke:#bee5eb,color:#d1ecf1
+    click Fungal "#mucegai" "Mergi la secțiune"
+    click Bacterial "#bacterii" "Mergi la secțiune"
+    click Innegrire "#fenolizare" "Mergi la secțiune"
+    click Translucid "#vitrificare" "Mergi la secțiune"
+    click Stagnare "#stagnare" "Mergi la secțiune"
 </pre>
 
 ---
@@ -45,8 +35,11 @@ graph TD
 
 Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 
-### A. "Puful" (Mucegai / Contaminare Fungală)
+### A. "Puful" (Mucegai / Contaminare Fungală) {#mucegai}
 **Cum arată:** Puf alb, verde, negru sau roz care crește pe gel sau direct pe explant. Arată ca mucegaiul de pe pâinea lăsată prea mult pe masă.
+
+![Contaminare fungală in vitro]({{ '/assets/images/mucegai.png' | relative_url }})
+*Fig 1. Contaminare fungală (mucegai) pe mediu de cultură. Sursă: [r/PlantedTank (Reddit)](https://www.reddit.com/r/PlantedTank/comments/m54mcq/suggestion_for_treating_mold_in_tissue_culture/)*
 **Sursa:** Aerul. Mucegaiul se răspândește prin spori purtați de curenții de aer.
 **Unde ai greșit:**
 - Nu ai folosit corect SAB-ul (ai mișcat prea repede mâinile și ai creat curenți de aer).
@@ -54,8 +47,11 @@ Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 - Nu te-ai spălat pe mâini / nu ai dat cu suficient alcool pe mănuși și în cutie.
 - Borcanele nu se închid ermetic.
 
-### B. "Laptele / Zmârcâiala" (Contaminare Bacteriană)
+### B. "Laptele / Zmârcâiala" (Contaminare Bacteriană) {#bacterii}
 **Cum arată:** Pete lăptoase, tulburi, galbene sau albe, care "curg" sau se întind pe gel. De multe ori pornesc exact de la baza plantei (explantului). Miros foarte urât dacă deschizi borcanul.
+
+![Contaminare bacteriană in vitro]({{ '/assets/images/bacterii.png' | relative_url }})
+*Fig 2. Contaminare bacteriană cu aspect lăptos. Sursă: [PTCB (Journal)](https://doi.org/10.3329/ptcb.v28i1.37202)*
 **Sursa:** Planta în sine sau instrumentele insuficient sterilizate.
 **Unde ai greșit:**
 - Protocolul de sterilizare a plantei (clor/înălbitor) a fost prea scurt sau prea slab.
@@ -67,9 +63,12 @@ Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 
 ---
 
-## 🥀 2. Planta "Plânge" sau se Înnegrește (Fenolizare)
+## 🥀 2. Planta "Plânge" sau se Înnegrește (Fenolizare) {#fenolizare}
 
 **Cum arată:** Gelul din jurul plantei se face maro închis sau negru. Baza plantei se usucă și se înnegrește.
+
+![Fenolizare in vitro]({{ '/assets/images/fenolizare.png' | relative_url }})
+*Fig 3. Fenolizare (browning) - oxidarea și înnegrirea mediului din cauza secreției de compuși fenolici. Sursă: [Lab Associates](https://labassociates.com/browning-in-tissue-culture-media)*
 **Ce se întâmplă:** Când ai tăiat planta cu bisturiul, ea a "strigat" după ajutor eliberând compuși fenolici (un mecanism de apărare natural). În natură, acești compuși o apără. În borcan, fiind un spațiu închis, planta se otrăvește singură cu ei.
 **Cum previi:**
 - Folosește un bisturiu extrem de ascuțit (taie ferm, nu "mesteca" și nu strivi tulpina).
@@ -78,7 +77,7 @@ Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 
 ---
 
-## 💧 3. Planta "de Sticlă" (Vitrificare / Hiperhidrare)
+## 💧 3. Planta "de Sticlă" (Vitrificare / Hiperhidrare) {#vitrificare}
 
 **Cum arată:** Frunzele devin groase, fragile, apoase, translucide. Planta pare "umflată" cu apă și are un aspect de sticlă mată. 
 **Ce se întâmplă:** Aerul din borcan are 100% umiditate. Uneori, stomatele plantei (porii prin care respiră) se dau peste cap, iar planta începe să absoarbă incontrolabil lichid din gel. Nu mai face fotosinteză și în cele din urmă se "îneacă".
@@ -90,7 +89,7 @@ Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 
 ---
 
-## 🐌 4. Planta refuză să crească (Stagnare)
+## 🐌 4. Planta refuză să crească (Stagnare) {#stagnare}
 
 **Cum arată:** Ai o plantă perfect verde, curată, fără mucegai... dar care stă de 2 luni și nu crește nicio frunză.
 **Unde e problema:**
