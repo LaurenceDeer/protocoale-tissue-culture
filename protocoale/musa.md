@@ -53,7 +53,7 @@ Bananierul in vitro se inițiază cel mai bine din drajoni tineri (suckers) reco
 1.  **Pregătire fizică:** Se recoltează drajonul și se curăță de pământ. Cu un cuțit mare, se îndepărtează straturile exterioare (frunzele bazale și tulpina falsă) până când se ajunge la un cub alb de țesut curat de aproximativ 2x2 cm care conține mugurele apical din interior.
 2.  **Sterilizare preliminară:** Se clătește cubul sub jet de apă timp de 30 de minute.
 3.  **Sterilizare Etapa 1:** În interiorul SAB-ului, se scufundă blocul de țesut în alcool **70-95%** timp de **30 de secunde**.
-4.  **Sterilizare Etapa 2:** Se scufundă într-o soluție de **1.5% Hipoclorit de Calciu** (sau 10-15% clor comercial ACE) + 2 picături de detergent Tween 20 timp de **20 de minute**.
+4.  **Sterilizare Etapa 2:** Se scufundă într-o soluție de **1.5% Hipoclorit de Calciu** (sau 10-15% clor comercial ACE) + 2 picături de detergent (sau Tween 20) timp de **20 de minute**.
 5.  **Clătire:** Se clătește de 3-4 ori cu apă distilată sterilă.
 6.  **Fasonare finală:** Cu un bisturiu steril, se înlătură straturile de țesut arse de clor pentru a izola domul meristematic central (aprox. **2-3 mm** în diametru, cu 2-3 primordii foliare).
 7.  **Inoculare:** Se așază meristemul pe mediul de inițiere (A).
