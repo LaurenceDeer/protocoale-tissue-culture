@@ -6,7 +6,7 @@ description: "Urmărește versiunea curentă a site-ului, ultimele actualizări 
 
 # 📈 Status Hub & Jurnal de Modificări (Changelog)
 
-Versiunea curentă a site-ului: **v0.1.4-beta**
+Versiunea curentă a site-ului: **v0.1.5-beta**
 
 Aici poți urmări evoluția hub-ului, modificările recente și istoricul lansărilor noastre.
 
@@ -14,7 +14,14 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 
 ## ⚡ Istoricul Versiunilor
 
-### v0.1.4 — Protocoale Noi & Bază de Cercetare (Curentă)
+### v0.1.5 — Feed-uri Atom/RSS, Corecturi Linkuri & Optimizare SEO (Curentă)
+*Data: 6 Iulie 2026*
+
+*   **Feed Atom/RSS (`feed.xml`):** Crearea unui flux de tip RSS/Atom valid în rădăcina proiectului, permițând utilizatorilor să se aboneze direct la actualizări de rețete și protocoale.
+*   **Optimizări Metadate SEO:** Adăugarea de descrieri meta unice (`description` în front matter) pentru toate paginile și protocoalele din hub, îmbunătățind indexarea pe motoarele de căutare. Corectarea ierarhiei tag-urilor de titluri pentru a asigura un singur `<h1>` per pagină.
+*   **Corectare Legături Interne:** Remedierea tuturor linkurilor interne care făceau referire la fișiere `.md` din centralizatorul de ghiduri și din ghidurile individuale, înlocuindu-le corect cu `.html`. Corectarea linkului extern YouTube din ghidul de sterilizare și eliminarea linkurilor placeholder invalide.
+
+### v0.1.4 — Protocoale Noi & Bază de Cercetare
 *Data: 14 Iunie 2026*
 
 *   **Protocoale Noi Musa (Bananier) & Nepenthes (Plantă Pitcher):** Adăugarea ghidurilor tehnice complete de micropropagare pentru [Musa spp.](./protocoale/musa.html) (pe bază de MS cu acid ascorbic pentru combaterea fenolizării) și [Nepenthes khasiana](./protocoale/nepenthes.html) (pe bază de WPM cu cărbune activ pentru protecția rădăcinilor delicate).

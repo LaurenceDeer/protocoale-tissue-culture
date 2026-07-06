@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cărți și Manuale
+description: "Bibliografie și cărți de referință în domeniul culturilor de țesuturi vegetale (Plant Tissue Culture) pentru studiu individual."
 ---
 
 # 📚 Biblioteca (Cărți Moca)

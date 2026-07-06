@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prepararea Mediilor - Bucătăria Chimică
+description: "Ghid detaliat de preparare a mediilor de cultură in vitro (rețeta standard MS) la tine în bucătărie."
 ---
 
 # 🧪 Prepararea Mediilor de Cultură
@@ -73,7 +74,7 @@ Asta este rețeta de bază pentru 90% din plante (inclusiv Drosera, Saintpaulia,
 4.  **Fierberea (Activarea):** Pune amestecul pe foc. Trebuie să ajungă la punctul de fierbere pentru ca agarul să se activeze. Amestecă des să nu se prindă. Când devine limpede, e gata.
     * **Notă:** Există agitatoare magnetice cu încălzire dacă ai chef să dai bani pe unul: [agitator de pe emag](https://www.emag.ro/agitator-magnetic-electric-vevor-1000ml-0-1600-rpm-incalzire-rapida-viteza-ajustabila-sumarrk5o90ym8/pd/DWVM043BM/)
 5.  **Turnarea:** Toarnă lichidul fierbinte în borcane (cam 2-3 cm înălțime).
-6.  **Sterilizarea:** Pune capacele (nu le strânge la maxim!) și bagă-le la Autoclavă / Oala sub presiune (vezi ghidul de [Sterilizare](./Sterilizare.md)).
+6.  **Sterilizarea:** Pune capacele (nu le strânge la maxim!) și bagă-le la Autoclavă / Oala sub presiune (vezi ghidul de [Sterilizare](./Sterilizare.html)).
 
 ---
 

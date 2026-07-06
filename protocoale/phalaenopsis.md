@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Phalaenopsis (Orhidee Moth)
+description: "Protocol de micropropagare pentru orhideea Phalaenopsis (Moth Orchid) din tije florale. Ghid complet de sterilizare și rețete."
 dificultate: Grea
 categorie: Orhidee
 status: literatura

@@ -84,4 +84,4 @@ Acesta e momentul critic.
 
 Pune borcanul pe un raft la temperatura camerei (preferabil cu o lumină LED simplă deasupra, 16h/zi de lumină e ok, dacă nu ai, merge și lumina camerei). 
 - Dacă după 7-10 zile gelul este curat (fără puf alb, verde sau "lapte"), **AI REUȘIT**. Ai stăpânit tehnica sterilă!
-- Dacă a apărut mucegaiul... revizuiește pașii și mai încearcă o dată. (Vezi [Troubleshooting Vizual](./Troubleshooting.md)).
+- Dacă a apărut mucegaiul... revizuiește pașii și mai încearcă o dată. (Vezi [Troubleshooting Vizual](./Troubleshooting.html)).

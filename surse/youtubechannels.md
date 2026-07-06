@@ -67,7 +67,7 @@ title: Shoutout dragilor si dragelor care deja produc content video de mult timp
   .badge-info { background: #1f6feb; color: #fff; }
 </style>
 
-## 📺 Canale de YouTube (The Real MVP's)
+# 📺 Canale de YouTube (The Real MVP's)
 
 Aici sunt oamenii care și-au mucegăit zeci de culturi și au filmat totul ca să nu trebuiască să pierzi tu timpul și banii. Obligatoriu de urmărit dacă vrei să vezi *cum* se mișcă o pensetă în SAB.
 
@@ -75,7 +75,7 @@ Aici sunt oamenii care și-au mucegăit zeci de culturi și au filmat totul ca s
 
  <div class="resource-card">
     <span class="badge badge-yt">▶️ YouTube</span>
-    <h3><a href="[#]TBD" target="_blank">Va veni aici canalul meu, eventual!!!</a></h3>
+    <h3><a href="#" target="_blank">Va veni aici canalul meu, eventual!!!</a></h3>
     <p>Desigur, doresc mai întâi să lucrez la website, și abia după ce fac și eu rost de materiale și toate cele, vreau să product conținut video ;)</p>
   </div>
 

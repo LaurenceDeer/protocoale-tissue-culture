@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Bananier (Musa spp.)
+description: "Protocol de multiplicare in vitro pentru bananier (Musa spp.). Ghid pas-cu-pas pentru stabilirea culturii și înrădăcinare."
 dificultate: Medie
 categorie: Tropicale
 status: literatura

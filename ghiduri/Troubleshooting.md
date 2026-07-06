@@ -95,7 +95,7 @@ Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
 **Unde e problema:**
 - **Mediul e greșit:** Poate planta urăște rețeta MS 100% și preferă Half-MS (1/2).
 - **Hormoni:** Poate ai pus doar Auxine, iar planta a făcut doar rădăcini, ignorând complet partea de sus.
-- **pH incorect:** Ai verificat pH-ul înainte să torni gelul? Dacă e prea acid (< 5.0) sau prea alcalin (> 6.0), planta nu poate trage nutrienții din gel, chiar dacă ei sunt acolo! (Vezi [Ghidul pH-ului](./pH.md)).
+- **pH incorect:** Ai verificat pH-ul înainte să torni gelul? Dacă e prea acid (< 5.0) sau prea alcalin (> 6.0), planta nu poate trage nutrienții din gel, chiar dacă ei sunt acolo! (Vezi [Ghidul pH-ului](./pH.html)).
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>

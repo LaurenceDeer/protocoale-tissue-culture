@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Monstera Deliciosa (Inclusiv Thai/Albo)
+description: "Protocol complet de tissue culture pentru Monstera Deliciosa (inclusiv varietățile rare Thai Constellation și Albo Variegata)."
 dificultate: Grea
 categorie: Aroide
 status: literatura

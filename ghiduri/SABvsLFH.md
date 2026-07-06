@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SAB vs. LFH - Ori ieftin ori scump
+description: "Comparație detaliată între Still Air Box (SAB) și Laminar Flow Hood (LFH). Opțiuni pentru spațiul steril de lucru acasă."
 ---
 
 # SAB vs. LFH: Cutia de Plastic vs. Wet Dream-ul Laboratorului

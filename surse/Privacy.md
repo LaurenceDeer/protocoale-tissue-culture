@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Politica de Confidențialitate
+description: "Politica de confidențialitate și protecția datelor pentru vizitatorii hub-ului Open Tissue Culture RO."
 ---
 
 # 🔒 Privacy Policy (Transparență Totală)

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reducerea Contaminării
+description: "Cum să previi, să identifici și să elimini contaminările cu mucegai sau bacterii în culturile de țesuturi in vitro acasă."
 ---
 
 # 🦠 Reducerea Contaminării (Anti-Mucegai în mare parte)

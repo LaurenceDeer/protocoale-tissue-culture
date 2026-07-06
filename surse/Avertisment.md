@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Avertisment Legal & Siguranță
+description: "Avertisment legal și de siguranță pentru activitățile de cultură de țesuturi vegetale și manipulare de substanțe chimice."
 ---
 
 # ⚠️ Avertisment Legal și de Siguranță

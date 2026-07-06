@@ -1,6 +1,7 @@
 ---
 layout: default
 title: PGRs - Hormonii Vegetali
+description: "Totul despre fitohormoni (PGRs) în tissue culture: auxine, citokinine, gibereline. Rolul lor în multiplicare și înrădăcinare."
 ---
 
 # 🧬 Reglatorii de Creștere (PGRs)

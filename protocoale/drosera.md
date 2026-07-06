@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Drosera Spatulata (Clonare Vegetativă)
+description: "Protocol detaliat de micropropagare pentru Drosera Spatulata (Roua Cerului). Rețete de mediu și sterilizare vegetativă."
 dificultate: Medie
 categorie: Carnivore
 status: literatura

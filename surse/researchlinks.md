@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Baza de Date (Research Papers)
+description: "Baza de date cu lucrări științifice, articole de cercetare și studii clinice de referință în micropropagare."
 ---
 
 # 🔬 Literatura Grea: Baza de Date

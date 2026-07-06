@@ -50,7 +50,7 @@ details p, details ul {
   margin-left: 15px;
 }
 </style>
-## 📚 Ghiduri Pas-Cu-Pas & Documentație
+# 📚 Ghiduri Pas-Cu-Pas & Documentație
 Bun venit în hub-ul activ de micropropagare. Aici găsești ghidurile noastre structurate pentru a începe cu succes clonarea in vitro direct acasă. Extindem baza de date și adăugăm noi materiale în mod gradual.
 
 Dacă ești la prima vizită, îți recomandăm cu insistență să începi parcurgerea traseului structurat: **[🚀 Start Aici: Traseul Începătorului](./start-aici.html)**.
@@ -62,11 +62,11 @@ Dacă ești la prima vizită, îți recomandăm cu insistență să începi parc
     
 Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
 
-* [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.md)
-* [Preparare Medii](./ghiduri/PreparareMedii.md)
+* [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.html)
+* [Preparare Medii](./ghiduri/PreparareMedii.html)
 * [🧮 Calculator de Medii & Hormoni (Interactiv)](./ghiduri/calculator.html)
-* [SAB vs LFH](./ghiduri/SABvsLFH.md)
-* [Sterilizare](./ghiduri/Sterilizare.md)
+* [SAB vs LFH](./ghiduri/SABvsLFH.html)
+* [Sterilizare](./ghiduri/Sterilizare.html)
   
 </details>
 
@@ -75,8 +75,8 @@ Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșu
   
 Aici intră chestiile tehnice explicate de oameni de știință / cercetători în lucrările publicate pe site-uri de genul Researchgate. Bune de știut pentru curioși ca mine.
 
-* [Reglatori de Creștere](./ghiduri/PGRs.md)
-* [Controlul pH-ului](./ghiduri/pH.md)
+* [Reglatori de Creștere](./ghiduri/PGRs.html)
+* [Controlul pH-ului](./ghiduri/pH.html)
 
 </details>
 
@@ -85,11 +85,11 @@ Aici intră chestiile tehnice explicate de oameni de știință / cercetători �
   
 Astea vor face diferența dintre amatori și pro-playeri
 
-* [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.md)
-* [Reducerea Contaminării](./ghiduri/Contaminarea.md)
-* [Selecția Explantelor](./ghiduri/Selecție-Explante.md)
-* [Troubleshooting Vizual (Probleme și Soluții)](./ghiduri/Troubleshooting.md)
-* [Terminologie-Dicționar](/ghiduri/Dicționar.md)
+* [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.html)
+* [Reducerea Contaminării](./ghiduri/Contaminarea.html)
+* [Selecția Explantelor](./ghiduri/Selecție-Explante.html)
+* [Troubleshooting Vizual (Probleme și Soluții)](./ghiduri/Troubleshooting.html)
+* [Terminologie-Dicționar](./ghiduri/Dicționar.html)
 
 </details>
 
@@ -98,7 +98,9 @@ Astea vor face diferența dintre amatori și pro-playeri
   
 Aici vor fi surse de informare de unde și eu mă informez pentru a vă aduce informațiile pe acest website.
 
-* [Reviste Științifice și Publicații](./surse/researchlinks.md)
-* [Sci-Hub Stuff (IYKYK)](./surse/SciHub.md)
-* [Cărți + PDF-uri](./surse/Cărți.md)
-* [Canale de Youtube](./surse/youtubechannels.md)
+* [Reviste Științifice și Publicații](./surse/researchlinks.html)
+* [Sci-Hub Stuff (IYKYK)](./surse/SciHub.html)
+* [Cărți + PDF-uri](./surse/Cărți.html)
+* [Canale de Youtube](./surse/youtubechannels.html)
+
+</details>

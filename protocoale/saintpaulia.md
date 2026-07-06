@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Violetă Africană (Saintpaulia ionantha)
+description: "Protocol rapid de clonare pentru Saintpaulia ionantha (Violeta Africană) din bucăți de frunză. Rețetă mediu și înrădăcinare."
 dificultate: Ușoară
 categorie: Gesneriaceae
 status: literatura

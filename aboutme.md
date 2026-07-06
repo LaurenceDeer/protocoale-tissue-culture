@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Despre Mine
+description: "Află mai multe despre autorul din spatele Open Tissue Culture RO, motivația proiectului și cum poți susține acest hub open-source."
 ---
 
 # 🧬 Cine scrie aberațiile astea?

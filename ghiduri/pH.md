@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Controlul pH-ului
+description: "Ghid practic despre importanța și calibrarea pH-ului în mediile de cultură in vitro. Cum și de ce afectează pH-ul absorbția nutrienților."
 ---
 
 # 🧪 pH-ul: Linia fină dintre Viață și "Supică de dat la bursuci"

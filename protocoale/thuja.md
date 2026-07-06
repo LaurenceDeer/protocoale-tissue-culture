@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Thuja Occidentalis (Tuia / Arborvitae)
+description: "Protocol de micropropagare pentru conifere (Thuja Occidentalis). Medii de cultură, hormoni și pași de sterilizare."
 dificultate: Medie
 categorie: Conifere
 status: literatura

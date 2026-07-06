@@ -1,6 +1,7 @@
 ---
 layout: protocol
 title: Protocol Pitcher Plant (Nepenthes khasiana)
+description: "Protocol de micropropagare pentru Nepenthes (khasiana). Stabilire pe mediu WPM, multiplicare și înrădăcinare in vitro."
 dificultate: Medie
 categorie: Carnivore
 status: literatura

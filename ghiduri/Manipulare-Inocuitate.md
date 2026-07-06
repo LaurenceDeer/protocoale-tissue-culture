@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Toxicologie și Manipulare
+description: "Ghid de securitate și bune practici în laboratorul de tissue culture acasă. Cum manipulezi în siguranță acizii, bazele, hormonii și sterilizanții."
 ---
 
 # ☠️ Inocuitate: Toxicologia de Bucătărie

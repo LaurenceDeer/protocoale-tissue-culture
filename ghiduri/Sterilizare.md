@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Sterilizarea - Protocolul Zero
+description: "Protocoale eficiente de sterilizare chimică a explantelor folosind clor, peroxid sau alcool, fără a distruge țesutul vegetal."
 ---
 
 # ☢️ Sterilizarea: Arta de a ucide tot (nu și planta, hopefully..)
 > *"În Tissue Culture, inocuitatea nu e păgânism. E singura religie."*
 
 Poți să ai cel mai bun mediu MS, cei mai scumpi hormoni și cea mai rară orhidee. Dacă a intrat un singur spor de mucegai în borcan, ai pierdut. Game Over.
-Aici nu ne jucăm. Urmăm protocolul "[PlantsInJars](www.youtube.com/watch?v=LTA8EHBNKPM)" combinat cu rigoarea științifică.
+Aici nu ne jucăm. Urmăm protocolul "[PlantsInJars](https://www.youtube.com/watch?v=LTA8EHBNKPM)" combinat cu rigoarea științifică.
 
 ---
 

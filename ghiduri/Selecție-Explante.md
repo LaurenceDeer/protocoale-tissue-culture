@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Selecția Explantului
+description: "Cum să alegi și să recoltezi corect explantele (noduri, frunze, semințe) pentru inițierea culturilor in vitro."
 ---
 
 # ✂️ Selecția Explantului: Ce tai și de unde, ca să nu plângi mai târziu

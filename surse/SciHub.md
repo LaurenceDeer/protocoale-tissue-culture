@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Haiducie Academică (Sci-Hub)
+description: "Ghid de acces la literatura academică și lucrări științifice din domeniul culturii de țesuturi prin metode alternative."
 ---
 
 # 🏴‍☠️ Acces la Știință: Cum treci de paywall-uri

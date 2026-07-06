@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aprovizionare (Hardware & Gear)
+description: "Lista completă de furnizori, magazine și echipamente recomandate pentru realizarea unui laborator de tissue culture acasă."
 ---
 
 # 🛒 Aprovizionare Locală (Hardware & Chimicale)
