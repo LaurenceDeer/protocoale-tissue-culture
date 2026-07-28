@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shoutout dragilor si dragelor care deja produc content video de mult timp, fără ei, nu exista website-ul ăsta!
+description: "Canale de YouTube recomandate pentru a vizualiza tehnici practice de culturi de țesuturi, hotă laminară și clonare in vitro."
 ---
 
 <style>
