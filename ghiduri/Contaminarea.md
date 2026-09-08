@@ -1,44 +1,59 @@
 ---
 layout: default
 title: Reducerea Contaminării
-description: "Cum să previi, să identifici și să elimini contaminările cu mucegai sau bacterii în culturile de țesuturi in vitro acasă."
+description: "Cum să previi, să identifici și să elimini contaminările cu mucegai sau bacterii în culturile de țesuturi in vitro acasă. Tehnici aseptice pentru Still Air Box."
 ---
 
-# 🦠 Reducerea Contaminării (Anti-Mucegai în mare parte)
-**Sau: Cum să nu fii propriul tău inamic în SAB.**
+# 🦠 Reducerea Contaminării: Ghid de Asepsie
 
-Aici nu vorbim despre cum prepari mediul. Presupunem că ai oala sub presiune și mediul tău e perfect steril. Contaminarea care apare *după* ce ai pus planta în borcan este 100% vina ta. E eroare de pilotaj.
+> *„Dacă mediul din oală a ieșit perfect steril, orice contaminare care apare după introducerea plantei în borcan este rezultatul unei breșe de tehnică aseptică.”*
 
-Uite cum minimizezi șansele să crești o fermă de mucegai pufos sau slinos sau care mai de care...
+Mucegaiul și bacteriile nu apar din neant: ele sunt transportate de praful din aer, de instrumentele nesterile, de hainele noastre sau de epiderma insuficient dezinfectată a plantei.
 
----
-
-## 🌿 1. Sursa Explantului (De unde răpești planta)
-Nu toate plantele sunt egale în fața clorului. Nivelul de murdărie determină cât de agresiv trebuie să fii cu sterilizarea.
-
-* **Plantele de Casă / Magazin (Sere Indoor):** Sunt cele mai curate. Nu prea au praf, ploaie acidă sau excremente de păsări pe ele. Rata de contaminare e mică, deci poți folosi o sterilizare mai blândă (ex: 5-10 minute în clor 10%). Risc mai mic să topești sau arzi planta.
-* **Plantele Sălbatice / Outdoor:** Sunt un coșmar biologic. Sunt pline de spori de fungi din aer, bacterii încrustate în frunze și insecte invizibile sau greu de văzut. Aici trebuie să dai cu artileria grea (clor 20%+, timp mai lung).
-    * *Nota bene despre viruși:* Dacă planta sălbatică are un virus intern, nicio baie de clor din lume nu te salvează. Clorul curăță suprafața, nu sângele plantei. _unless.._ 
+Înțelegerea punctelor critice de contaminare te ajută să cobori rata de eșec sub 5% chiar și într-o bucătărie obișnuită.
 
 ---
 
-## 🧫 2. "Mise en place" pentru SAB
-SAB-ul (Still Air Box) nu e magic. E doar o cutie de plastic. Magia o faci tu prin cum te organizezi. Dacă ai băgat mâinile în cutie și îți dai seama că ai uitat penseta afară... ai pierdut, game over, iț gon.
+## 🌿 1. Proveniența Explantului: De Unde Recoltăm?
 
-* **Fă lista de inventar:** Înainte să începi, asigură-te că ai înăuntru:
-    * Borcanele cu mediu.
-    * Soluțiile de sterilizare (Clor) și clătire (Apă distilată sterilă).
-    * Instrumentele (Bisturiu, Pensete lungi).
-    * *Glass Bead Sterilizer* (Paharul ăla care îți arde sculele la 250°C).
-    * Orice altceva îți mai trebuie.
-* **Baia de Alcool:** Dai cu spray cu **Alcool Izopropilic (IPA) 70%** pe absolut tot ce intră în cutie. Pe exteriorul borcanelor, pe pereții cutiei, pe mănuși. *Lasă 2 minute să se evapore, altfel faci explozie când bagi uneltele încinse. Never say never.*
+Nivelul de încărcare microbiană de la suprafața plantei dictează cât de agresiv trebuie să fie protocolul de sterilizare:
+
+* **Plante crescute la interior / în seră:** Sunt cele mai curate. Nu au fost expuse la ploaie, praf atmosferic grosier sau fecale de păsări. Rata de succes la inițiere este de peste 90%, iar o baie de 10–15 minute în soluție de clor 10–15% este suficientă fără a arde țesutul tânăr.
+* **Plante din grădină sau din natură:** Reprezintă un mediu biologic complex. Sunt pline de spori fungici rezistenți și bacterii endofite (care trăiesc în micile crăpături ale scoarței). Aici este obligatorie o pre-spălare mecanică îndelungată cu detergent și periuță moale la chiuvetă, urmată de băi de clor mai concentrate (20%+) și adăugarea de biocid PPM în mediul in vitro.
 
 ---
 
-## 🥷 3. Mișcările de Ninja (Cum te porți în SAB)
-SAB vine de la *Still* Air Box. "Still" înseamnă nemișcat. Scopul e să lași aerul plin de spori să se lase pe fundul cutiei și să nu-l mai deranjezi.
+## 🧫 2. Pregătirea Spațiului de Lucru (*Mise en Place*)
 
-* **Fără mișcări bruște:** Dacă bagi mâinile repede sau tragi aer adânc, creezi turbulențe. Turbulențele sug aerul murdar din cameră direct prin găurile cutiei. Mișcă-te încet, ca și cum ai fi sub apă.
-* **Nu scoate mâinile:** Odată ce ai băgat mâinile (date cu alcool), rămân acolo până termini operațiunea. Fiecare ieșire și intrare e un risc de a trage spori după tine.
-* **Lucrează în spate:** Nu tăia plantele fix lângă găurile pe unde îți intră mâinile. Du-te cât mai în adâncimea cutiei, aproape de peretele din spate. Acolo aerul e cel mai mort.
-* **Regula de aur a spațiului aerian:** NICIODATĂ nu trece cu mâna, penseta murdară sau brațul pe deasupra unui borcan deschis. Dacă ceva cade de pe mănușa ta, cade fix în mediul MS. Tine borcanele într-o parte și lucrează în cealaltă.
+Still Air Box-ul (SAB) nu este o cameră cu vid; eficiența lui depinde 100% de modul în care îți organizezi instrumentarul înainte de a începe lucrul:
+
+1. **Checklist-ul dinaintea inoculării:** Asigură-te că ai introdus în cutie absolut tot ce ai nevoie:
+   * Borcanele cu mediul steril gelificat.
+   * Flacoanele cu apă distilată sterilă pentru clătire.
+   * Pensetele lungi de inox și bisturiul cu lame noi.
+   * Suportul de tăiere steril (capac de cutie Petri sau faianță ștearsă cu alcool).
+   * Sterilizatorul electric cu bile de sticlă (*Glass Bead Sterilizer*).
+2. **Dezinfectarea completă cu Alcool 70%:** Pulverizează pereții interiori ai cutiei, fundul cutiei și exteriorul fiecărui recipient înainte de a-l așeza înăuntru. Lasă 2–3 minute pentru stabilizarea aerului și evaporarea vaporilor grei.
+
+---
+
+## 🥷 3. Mișcările Aseptice în Interiorul SAB-ului
+
+În limba engleză, *Still* înseamnă nemișcat. Scopul principal este să permiți aerului să se așeze și să nu creezi turbulențe care să aspire praful din încăpere prin orificiile laterale.
+
+* **Mișcă-te lent, ca sub apă:** Fără mișcări bruște de brațe. Când deplasezi o pensetă sau un borcan, fă-o lent și pe plan orizontal.
+* **Păstrează mâinile în interior:** Odată ce ai introdus mâinile dezinfectate în cutie, nu le mai scoate până când nu ai finalizat runda de inoculare. Fiecare retragere și reintroducere a brațelor acționează ca un piston care trage aer murdar din cameră.
+* **Lucrează în adâncimea cutiei:** Realizează tăieturile și manipularea plantelor cât mai aproape de peretele din spate al cutiei, departe de cele două orificii de acces.
+* **Regula Spațiului Aerian (VITAL):**  
+  🛑 **NICIODATĂ nu trece cu mâna, antebrațul sau o pensetă nesterilizată pe deasupra unui borcan deschis!**  
+  Particulele microscopice de pe mânecă sau mănușă vor cădea direct pe suprafața gelului. Așază borcanele închise într-o parte, deschide capacul doar sub un unghi de 45° și lucrează lateral față de gura recipientului.
+
+---
+
+## 🔍 4. Ce Faci Când Apare Contaminarea?
+
+Dacă observi apariția unui punct de mucegai sau a unei pete bacteriene în primele zile:
+
+1. **Nu deschide borcanul în cameră:** Deschiderea unui borcan contaminat va elibera miliarde de spori în aerul din casă, compromițând viitoarele sesiuni de lucru.
+2. **Sterilizează borcanul la cald:** Pune borcanul contaminat (cu capacul închis) în oala sub presiune și sterilizează-l timp de 15 minute la 121°C pentru a distruge complet agentul patogen.
+3. **Curăță și reutilizează:** După răcire, aruncă conținutul inactivat la gunoi, spală borcanul cu detergent și clătește-l bine — este gata pentru o nouă rundă!

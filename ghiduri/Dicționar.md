@@ -1,93 +1,86 @@
 ---
 layout: default
 title: Terminologie & Dicționar (RO-EN)
-description: "Dicționar complet RO-EN cu terminologia folosită în Plant Tissue Culture. Învață ce înseamnă explant, meristem, calus, agar sau PGRs."
+description: "Dicționar complet RO-EN cu terminologia folosită în Plant Tissue Culture. Învață ce înseamnă explant, meristem, calus, agar, PGRs, PPM sau vitrificare."
 ---
 
-# 📖 Dicționarul Biohackerului (RO - EN)
+# 📖 Dicționarul Biohackerului: Terminologie RO — EN
 
-Majoritatea documentației de calitate este în limba engleză. Acest ghid te ajută să nu te pierzi în traducere și să vorbești aceeași limbă cu comunitatea internațională. 
-Bun de avut pe un al doilea monitor sau măcar deschis în a doua fereastră de browser pentru a fi mai ușor de accesat la nevoie.
+> *Ghid rapid de traducere și înțelegere a termenilor tehnici folosiți în literatura internațională de micropropagare.*
 
 ---
 
-## 🌱 1. Biologie & Procesul de Creștere
+## 🌱 1. Biologie & Procese de Dezvoltare
 
 ### **Explant** *(Explant)*
-"Sacrificiul". Bucățica de plantă (frunză, tulpină, rădăcină, mugure, depinde de la ce plantă o luăm) pe care o tai și o pui în borcan pentru a genera o plantă nouă.
-> *Exemplu:* "Am luat un explant de 1cm din vârful Droserei."
+Bucățica minusculă de țesut vegetal (nod, fragment de frunză, pețiol, vârf de rădăcină sau mugure) pe care o recoltezi, o sterilizezi chimic și o introduci în borcan pentru a regenera o nouă plantă.
 
-### **Meristem** *(Meristem)*
-"Celule Stem" ale plantelor. Țesutul din vârfurile de creștere (muguri) unde celulele se divid rapid și nu sunt încă specializate.
-> *Pro Tip:* Meristemul este adesea singura parte a plantei care nu are viruși. Dacă vrei plante curate, clonezi meristemul.
+### **Meristem** *(Meristem / Shoot Apical Meristem)*
+Zona de țesut embrionar din vârful mugurilor unde celulele se divid activ și nu sunt încă specializate. Deoarece vasele conductoare de sevă nu ajung până în vârful meristemului, acesta este adesea **100% liber de viruși**.
 
 ### **Calus** *(Callus)*
-Un țesut "amorf", ca o tumoare vegetală sau o cicatrice. Arată ca o bilă de celule nediferențiate.
-> *Context:* Uneori vrem să obținem calus (pentru a-l modifica genetic), alteori e un semn că am pus hormoni în cantități egale și planta a "luat-o razna".
+O masă dezorganizată de celule vegetale nediferențiate (celule stem) care se formează pe suprafața tăieturii ca răspuns la rănire sau la un raport egal de auxine și citochinine.
 
-### **Aclimatizare** *(Hardening off / Acclimatization)*
-Procesul prin care scoți planta din borcan (unde a trăit la 100% umiditate și zahăr la discreție) și o obișnuiești cu lumea reală (aer uscat, pământ).
-> *Warning:* Aici mor 50% din plantele începătorilor. Se face treptat, cu blend-uri specifice de pământ!
+### **Organogeneză** *(Organogenesis)*
+Procesul prin care celulele in vitro formează organe noi (lăstari sau rădăcini). Poate fi **directă** (lăstarii cresc direct din țesutul frunzei) sau **indirectă** (trecând mai întâi printr-o fază intermediară de calus).
+
+### **Aclimatizare** *(Hardening Off / Deflasking)*
+Etapa critică de tranziție prin care o plăntuță crescută la 100% umiditate și hrană pe bază de zahăr este transferată în substrat solid (ghiveci) și învățată treptat să trăiască în aerul uscat al camerei.
 
 ---
 
-## 🧪 2. Chimia & Mediile de Cultură
+## 🧪 2. Chimie & Mediile de Cultură
 
 ### **Mediu MS** *(Murashige & Skoog Medium)*
-"Sfântul Graal". Cea mai folosită rețetă de nutrienți din lume (inventată în 1962). Conține săruri, vitamine și aminoacizi. De obicei o achiziționezi online, nu o faci de la 0 (e cam greu sa faci rost de tot ce-ți trebuie)
-> *Full MS* = Concentrație 100%.
-> *Half MS (1/2 MS)* = Diluat la jumătate (folosit des la orhidee și plante carnivore).
+Cea mai utilizată formulă nutritivă din lume (creată în 1962). Conține un amestec echilibrat de macronutrienți ($N, P, K, Ca, Mg, S$), micronutrienți ($Fe, Mn, Zn, B, Cu, Mo$) și vitamine (grupul B).
+* *Full-MS (MS 100%):* Doza completă standard (~4.4 g/L).
+* *Half-MS (½ MS):* Formulă diluată la jumătate (~2.2 g/L), folosită frecvent pentru înrădăcinare sau specii sensibile.
 
-### **Agar** *(Agar-Agar)*
-Gelatina vegetariană (extrasă din alge). Rolul ei este doar să țină planta "în picioare", să nu se scufunde în lichid. Nu hrănește planta. Transformă lichidul într-un gel, consistența depinde de cât pui în rețetă.
+### **Agar-Agar** *(Agar)*
+Agent gelifiant natural extras din alge marine roșii. Are rolul de suport mecanic solid pentru plantă; nu furnizează nutrienți și se lichefiază doar la temperaturi de peste 85°C.
+
+### **Gelrite / Gellan Gum**
+Agent de gelifiere sintetic obținut prin fermentație bacteriană. Produce un gel **complet transparent**, permițând monitorizarea timpurie a sistemului radicular și a contaminărilor.
 
 ### **Sucroză** *(Sucrose)*
-Zahăr de masă. Sursa de energie (carbon) a plantei. În borcan, planta nu face fotosinteză eficient, așa că "mănâncă" zahărul din gel.
+Zahăr alb de masă. În borcan, plantele nu au suficient $CO_2$ și lumină pentru o fotosinteză eficientă, astfel că zahărul din gel reprezintă principala lor sursă de energie și carbon.
 
-### **PGRs** *(Plant Growth Regulators)*
-Hormoni vegetali. "Butoanele" pe care le apeși ca să comanzi plantei ce să facă.
-* **Auxine (ex: NAA, IBA):** Comandă: *"Fă rădăcini!"*
-* **Citokinine (ex: BAP, Kinetin):** Comandă: *"Fă lăstari/frunze!"*
-Punem diferiți PGRs în mediile de creștele, în funcție de unde ești cu procesul creșterii acesteia. Uneori, nu pui auxine în mediu, ci pui planta în puțin NAA de ex. atunci când vrei s-o aclimatizezi pentru a o îndemna la a-și dezvolta rădăcinile.
+### **PGRs** *(Plant Growth Regulators / Fitohormoni)*
+Compuși chimici adăugați în doze infime (mg/L) pentru a ghida dezvoltarea plantei:
+* **Auxine (IBA, NAA, IAA):** Stimulează formarea și alungirea rădăcinilor.
+* **Citokinine (BAP, Kinetină, TDZ):** Stimulează diviziunea celulară și apariția de lăstari noi din mugurii dormanzi.
 
 ### **PPM** *(Plant Preservative Mixture)*
-Un produs chimic brevetat (biocid) care ucide bacteriile și fungii, dar lasă planta să trăiască. Este "cheat code-ul" începătorilor pentru a evita contaminarea, în cazul în care vezi că nu-ți prea iese cu metodele de lucru în SAB.
+Biocid lichid brevetat cu spectru larg care inhibă dezvoltarea sporilor fungici și a bacteriilor din mediu, fără a afecta negativ respirația celulelor vegetale.
 
-### **ppm** *(parts per million)*
-Unitate de măsură pentru concentrații extrem de mici (părți per milion). În soluții apoase, **1 ppm este echivalent cu 1 mg/L** (miligram pe litru). Se folosește frecvent pentru stabilirea dozelor fine de hormoni vegetali sau alte chimicale în mediile de cultură.
+### **ppm** *(Parts Per Million)*
+Unitate de măsură pentru concentrații fine. În soluții apoase, **1 ppm = 1 mg/L** (un miligram per litru).
 
 ---
 
 ## 🔬 3. Laborator & Echipament
 
-### **Inocuitate** *(Aseptic technique)*
-Arta de a lucra steril. Totalitatea mișcărilor și procedurilor prin care te asiguri că niciun spor de mucegai ori bacterie nu intră în borcan.
+### **Inocuitate / Tehnică Aseptică** *(Aseptic Technique)*
+Ansamblul de reguli, mișcări și proceduri sterile menite să prevină intrarea sporilor de mucegai și a bacteriilor în recipientele de cultură.
 
-### **Autoclav** *(Autoclave)*
-O mașină care sterilizează cu abur sub presiune (121°C la 15 PSI).
-> *Low Cost:* Oala sub presiune (Pressure Cooker) din bucătărie face exact același lucru.
+### **Autoclav / Oală sub Presiune** *(Autoclave / Pressure Cooker)*
+Aparat ermetic care utilizează abur saturat sub presiune la **121°C (15 PSI)** timp de 15–20 minute pentru a distruge toate formele de viață microbiană, inclusiv endosporii rezistenți.
 
 ### **SAB** *(Still Air Box)*
-Cutie cu "aer mort". O cutie de plastic cu găuri pentru mâini, folosită pentru a izola spațiul de lucru de curenții de aer din cameră.
+Cameră simplă de lucru din plastic transparent cu orificii laterale pentru mâini. Folosește principiul gravitației și al aerului nemișcat pentru a menține o zonă aseptică de lucru la costuri minime.
 
 ### **LFH** *(Laminar Flow Hood)*
-Hota cu flux laminar. Aparat scump care suflă aer filtrat HEPA spre tine, creând un mediu perfect steril.
+Hotă profesională care împinge continuu un flux orizontal paralel de aer purificat printr-un filtru **HEPA H14** (eficiență 99.995%), oferind o zonă de lucru complet deschisă și curată.
 
 ---
 
-## ⚠️ 4. Probleme & Boli
+## ⚠️ 4. Tulburări Fiziologice & Probleme
 
 ### **Contaminare** *(Contamination)*
-Inamicul nr. 1. Apariția mucegaiului (puf alb/verde/negru) sau a bacteriilor (zmârcâială lăptoasă) pe gel.
-> *Soluție:* Arunci tot borcanul (iar prin asta mă refer la ce-i în borcan, nu neapărat la borcan în sine. Pe ăla îl sterilizăm și folosim din nou). Nu încerca să-l salvezi.
+Invazia mediului in vitro de către colonii de mucegai (puf fin) sau bacterii (pelicule lăptoase), cauzată de sterilizarea incompletă a explantului sau de curenți de aer murdar.
+
+### **Fenolizare / Înnegrire** *(Browning / Phenolic Exudation)*
+Secreția de compuși polifenolici oxidabili de către țesutul rănit la tăiere. Mediul din jurul plantei devine brun sau negru, devenind toxic pentru explant dacă nu este transferat rapid pe mediu proaspăt.
 
 ### **Vitrificare / Hiperhidrare** *(Hyperhydricity / Vitrification)*
-Când planta arată "de sticlă", translucidă și îmbibată cu apă.
-> *Cauză:* Prea multă umiditate sau prea multe citokinine. Planta nu mai poate respira și se îneacă celular.
-
-### **Fenolizare** *(Browning / Phenolic Exudation)*
-Când mediul din jurul plantei se face maro/negru. Planta "sângerează" compuși fenolici (toxici) pentru că a fost rănită la tăiere. De asta este important ca lama folosită la tăiere să fie cât mai ascuțită.
-> *Soluție:* Mută planta rapid pe un mediu nou (subcultură).
-
----
-*Acest dicționar este în continuă expansiune. Ai găsit un termen ciudat? Dă un pull request! Ori lasă mesaj pe unul din canalele mele de comunicare -> încă nu am alte canale de comunicare în afară de GitHub* 
+Tulburare fiziologică în care frunzele devin groase, translucide, fragile și îmbibate excesiv cu apă, cauzată de umiditatea excesivă, gelul prea moale sau concentrațiile prea mari de citochinine.

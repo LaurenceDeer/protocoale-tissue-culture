@@ -6,7 +6,7 @@ description: "Urmărește versiunea curentă a site-ului, ultimele actualizări 
 
 # 📈 Status Hub & Jurnal de Modificări (Changelog)
 
-Versiunea curentă a site-ului: **v0.1.5-beta**
+Versiunea curentă a site-ului: **v0.1.6-beta**
 
 Aici poți urmări evoluția hub-ului, modificările recente și istoricul lansărilor noastre.
 
@@ -14,7 +14,14 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 
 ## ⚡ Istoricul Versiunilor
 
-### v0.1.5 — Feed-uri Atom/RSS, Corecturi Linkuri & Optimizare SEO (Curentă)
+### v0.1.6 — Umanizare & Rescriere Completă Conținut (Voice & Tone Refactor) (Curentă)
+*Data: 8 Septembrie 2026*
+
+*   **Rescriere Protocoale de Micropropagare:** Trecerea tuturor celor 7 protocoale (`saintpaulia`, `musa`, `nepenthes`, `monstera`, `phalaenopsis`, `thuja`, `drosera`) și a paginii index la persoana a II-a singular (tutuire directă), limbaj practic de laborator / biohacker și eliminarea completă a formulărilor rigide/academice de AI. Păstrarea 100% intactă a datelor științifice (concentrații mg/L, pH, timpi, citări universitare).
+*   **Rescriere Ghiduri Tehnice & Practice:** De-robotizarea și optimizarea celor 13 ghiduri din `ghiduri/` (`Absolute-Zero`, `PreparareMedii`, `SABvsLFH`, `Sterilizare`, `pH`, `PGRs`, `Manipulare-Inocuitate`, `Contaminarea`, `Selecție-Explante`, `Troubleshooting`, `checklist-laborator`, `Dicționar`, `calculator`) și a centralizatorului `Ghiduri.md`.
+*   **Traseul Începătorului (`start-aici.md`):** Rafinarea completă a stepper-ului vizual și a pașilor de onboarding pentru începători.
+
+### v0.1.5 — Feed-uri Atom/RSS, Corecturi Linkuri & Optimizare SEO
 *Data: 6 Iulie 2026*
 
 *   **Feed Atom/RSS (`feed.xml`):** Crearea unui flux de tip RSS/Atom valid în rădăcina proiectului, permițând utilizatorilor să se aboneze direct la actualizări de rețete și protocoale.

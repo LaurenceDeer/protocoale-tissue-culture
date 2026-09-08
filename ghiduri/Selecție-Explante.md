@@ -1,45 +1,65 @@
 ---
 layout: default
 title: Selecția Explantului
-description: "Cum să alegi și să recoltezi corect explantele (noduri, frunze, semințe) pentru inițierea culturilor in vitro."
+description: "Cum să alegi și să recoltezi corect explantele (noduri, frunze, muguri meristematici) pentru inițierea cu succes a culturilor in vitro."
 ---
 
-# ✂️ Selecția Explantului: Ce tai și de unde, ca să nu plângi mai târziu
-**Sau: De ce frunza aia bătrână o să-ți transforme agarul într-o ciorbă neagră.**
+# ✂️ Selecția Explantului: Ce Tai și de Unde
 
-Să ne înțelegem de la început: dacă iei o foarfecă ruginită și tai o frunză la întâmplare de pe un ficus obosit de pe hol, faci compost, nu miracole in vitro.
+> *„Dacă iei o foarfecă tocită și tai o frunză bătrână de pe o plantă bolnavă, obții doar compuși fenolici toxici și mucegai. Calitatea clonelor tale depinde direct de starea explantului de pornire.”*
 
-Alegerea bucății de plantă (explantul) pe care o bagi în borcan dictează dacă vei avea o clonă perfectă în 3 săptămâni sau un mucegai cu depresie. Regula de aur? **Cu cât celulele sunt mai tinere, cu atât e mai ușor să le dai "factory reset".**
+Alegerea fragmentului biologic de pornire (denumit **explant**) dictează dacă vei avea zeci de lăstari sănătoși în câteva săptămâni sau un borcan înnegrit de compuși toxici. 
 
-Uite cum stă treaba, împărțită pe categorii, ca să știi exact în ce te bagi.
-
----
-
-## 👶 1. Regula Vârstei: Zoomer vs. Boomer
-Celulele bătrâne sunt încăpățânate, ca majoritatea bătrânilor, iar aici fără excepții. Dacă iei o frunză de la baza plantei (groasă, plină de lignină), aia și-a trăit viața. Când o tai, se panichează, se oxidează grav și începe să verse compuși fenolici. Asta înseamnă că agarul tău se face negru sau maro în jurul ei, iar explantul se sinucide chimic.
-* **Ce vrei de fapt:** Creșteri noi. Lăstari tineri, frunze care abia se desfac, vârfuri verzi și crude. Astea sunt deja pe "modul diviziune" și abia așteaptă să se multiplice.
+Regula de aur a biologiei in vitro este simplă: **cu cât celulele sunt mai tinere și mai active în diviziune, cu atât se adaptează mai ușor la condițiile artificiale din borcan**.
 
 ---
 
-## 🏆 2. Tier List-ul Anatomic (Ce bucată alegi)
+## 👶 1. Regula Vârstei Celulare: Țesut Tânăr vs. Țesut Bătrân
 
-### 🟢 Easy Mode: Nodurile (Mugurii Axilari)
-E cel mai bun start pentru oricine. La baza fiecărei frunze, fix pe tulpină, stă un mugure mic, adormit. Chestia aia *știe deja* că e o plantă întreagă. Are tot codul de bază pregătit. Tu trebuie doar să-i tai dominanța vârfului principal și să-i dai niște citokinine (ex: BAP).
-* **Rezultat:** Mugurele ăla explodează din somn și scoate 5-10 lăstari noi. Bam, clonare rapidă.
-
-### 🟡 Medium Mode: Frunze și Pețiol (Codițe)
-Aici deja te joci cu genetica hardcore. Iei o celulă care "știe" că e strict o frunză și o forțezi să uite asta. Trebuie să o faci să se transforme într-o masă amorfă de celule stem (calus), și abia apoi să facă rădăcini și lăstari.
-* **Rezultat:** Necesită un echilibru perfect de hormoni la nivel de miligram. Dacă greșești doza, obții o tumoare vegetală care stă degeaba pe mediu. 
-* *(Excepție: Speciile gen Drosera, care scot pui direct de pe tentaculele de pe frunză fără prea mult stres).*
-
-### 🔴 Masochist Mode: Meristemul
-Vârful suprem de creștere absolută. Vorbim de tăieturi de **0.2 - 0.5 mm** direct sub microscop. 
-* **De ce ai face asta?** E singura zonă din plantă în care virușii nu pot ajunge, pentru că celulele se divid mai repede decât se propagă infecția. Obții o plantă 100% pură și sănătoasă dintr-o mamă infectată praf.
-* **De ce să NU faci asta:** Ai băut un espresso și îți tremură mâna pe bisturiu? Ai ratat. E efectiv nivel de chirurgie pe creier.
+* **Țesutul bătrân (Frunze bazale mari, tulpini lemnificate):** Celulele și-au încheiat ciclul activ de diviziune și au pereți celulari îngroșați cu lignină. Când le tai, reacționează printr-o secreție masivă de polifenoli de apărare, care oxidează și înnegresc mediul (*browning*), omorând explantul înainte ca acesta să apuce să crească.
+* **Țesutul tânăr (Muguri proaspeți, lăstari noi, frunze în curs de desfacere):** Celulele sunt tinere, elastice și se află deja într-un ritm rapid de multiplicare. Răspund instantaneu la semnalele hormonale din mediu și au o capacitate de regenerare de zeci de ori mai mare.
 
 ---
 
-## 🏥 3. Starea Mamei (Garbage In, Garbage Out)
-Dacă planta mamă e plină de paraziți, stă în soare la uscat, e deshidratată sau e în plin proces de înflorire, hormonii ei interni sunt complet dereglați. 
-Explantul pe care îl tai va veni în borcan direct cu tot bagajul ăla de stres. O să se chinuie să supraviețuiască în mediul in vitro în loc să crească.
-* **Sfat:** Înainte să clonezi ceva, bagă planta mamă "în cantonament" vreo 2 săptămâni. Ud-o calumea, ține-o la temperatură și lumină optimă, curăț-o de praf și dăunători. Taie explantul abia când vezi că a intrat într-un boost masiv de creștere vegetativă.
+## 🏆 2. Clasificarea Anatomică a Explantelor
+
+```
+                       ┌─────────────────────────────────────┐
+                       │     CE PARTE DIN PLANTĂ ALEGEM?     │
+                       └─────────────────────────────────────┘
+                                          │
+         ┌────────────────────────────────┼────────────────────────────────┐
+         ▼                                ▼                                ▼
+┌──────────────────┐             ┌──────────────────┐             ┌──────────────────┐
+│   🟢 MOD UȘOR    │             │   🟡 MOD MEDIU   │             │  🔴 NIVEL EXPERT │
+│ (Noduri Axilare) │             │ (Frunze & Pețiol)│             │   (Meristeme)    │
+└──────────────────┘             └──────────────────┘             └──────────────────┘
+  Cod genetic gata                Trebuie să formeze               Complet liber de
+  pregătit; zeci de               calus sau pui direct;            viruși; necesită
+  lăstari rapizi.                 doze fine de hormoni.            microscop (0.2 mm).
+```
+
+### 🟢 Nivel Ușor: Nodurile Axilare (Mugurii de pe tulpină)
+Este punctul ideal de start pentru majoritatea plantelor de apartament (*Monstera, Philodendron, Epipremnum*).
+* **De ce funcționează:** La subsuoara fiecărei frunze există un mugure dormant complet structurat. Are deja tot „codul de bază” format. Tu trebuie doar să îndepărtezi dominanța vârfului principal și să aplici o doză de citochinină (BAP) pentru a declanșa apariția de lăstari multipli.
+
+### 🟡 Nivel Mediu: Fragmente de Frunză și Pețiol (Codițe)
+Folosit cu succes la specii precum *Saintpaulia (Violetă Africană)*, *Begonia* sau *Drosera*.
+* **De ce este mai delicat:** Celulele unei frunze sunt specializate pentru fotosinteză. Pentru a genera o plantă nouă, ele trebuie forțate chimic să se „dediferențieze” (să devină din nou celule stem pluripotente), fie formând mai întâi o masă de calus, fie generând direct primordii de lăstari.
+
+### 🔴 Nivel Expert: Domul Meristematic Apical (Micro-disecție)
+Vorbim despre izolarea vârfului de creștere pur, cu o dimensiune de **0.2 – 0.5 mm**, folosind bisturiul sub lupă sau microscop stereo.
+* **De ce se practică:** Deoarece celulele din meristem se divid mai rapid decât viteza de propagare a virușilor vegetali în vasele de sevă, meristemul este adesea **100% liber de virusuri**, chiar dacă planta-mamă este bolnavă!
+* **Dificultate:** Necesită mare dexteritate manuală și un control strict al manipulării sterile.
+
+---
+
+## 🏥 3. Pregătirea Plantei-Mamă (*Cantonamentul*)
+
+O plantă-mamă stresată, deshidratată, ținută în frig sau plină de acarieni va genera explante încărcate de toxine interne și hormoni de stres, cu șanse scăzute de supraviețuire.
+
+### Protocolul de Pregătire (cu 2 săptămâni înainte de recoltare):
+1. **Condiții optime:** Mută planta-mamă la lumină bună și temperatură optimă (22–26°C).
+2. **Udare echilibrată:** Menține umiditatea constantă în substrat, fără băltire.
+3. **Curățenie foliară:** Spală praful de pe frunze și verifică atent absența dăunătorilor (păianjeni roșii, musculițe albe, tripși).
+4. **Momentul tăierii:** Recoltează explantele dimineața, când țesutul este complet turgescent (bogat în apă și sevă).

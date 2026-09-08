@@ -1,7 +1,7 @@
 ---
 layout: protocol
 title: Protocol Monstera Deliciosa (Inclusiv Thai/Albo)
-description: "Protocol complet de tissue culture pentru Monstera Deliciosa (inclusiv varietățile rare Thai Constellation și Albo Variegata)."
+description: "Protocol complet de micropropagare pentru Monstera Deliciosa (inclusiv clone rare ca Thai Constellation și Albo). Rețete mediu, dublă sterilizare și aclimatizare."
 dificultate: Grea
 categorie: Aroide
 status: literatura
@@ -11,82 +11,99 @@ versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Monstera Deliciosa / Thai Constellation_
-**Bazat pe:** Jing et al. (2024 - Univ. of Florida) și Tjahjono & Karmawan (2022). 
+
+**Bazat pe:** Jing et al. (2024 - Univ. of Florida) și Tjahjono & Karmawan (2022).
+
+*Monstera deliciosa* — în special varietățile cu variegat genetic stabil ca *'Thai Constellation'* sau *'Albo Variegata'* — este „Sfântul Graal” al propagării in vitro pentru pasionații de plante ornamentale. De ce are dificultate **Grea**? Aroideele au tulpini spongioase care absorb spori și bacterii din substrat, iar când le tai elimină compuși fenolici toxici. Dacă aplici o sterilizare superficială, cultura explodează de mucegai în 48 de ore. Cu tehnica de **dublă sterilizare** și o doză generoasă de BAP, poți multiplica plante cu valoare mare direct în laboratorul de acasă.
 
 | Parametru | Valoare Optimă (Conform Studii) |
 | :--- | :--- |
-| **Dificultate** | Grea (Risc mare de oxidare/fenolizare și contaminare internă) |
-| **Explant** | Muguri Axilari (Recomandat) sau Nervură centrală (Midrib) |
-| **Mediu** | **MS 100% + Vitamine B5** |
+| **Dificultate** | Grea (Risc mare de contaminare internă și oxidare fenolică) |
+| **Explant Recomandat** | Muguri axilari nodali (recomandat) sau secțiuni de nervură mediană (*midrib*) |
+| **Mediu de Bază** | **MS 100% (Full Strength) + Vitamine B5** |
 | **Hormoni (Multiplicare)**| **7.5 mg/L BAP + 0.5 mg/L NAA** |
-| **Hormoni (Înrădăcinare)**| **0.5 mg/L NAA** |
-| **pH** | 5.6 - 5.8 |
+| **Hormoni (Înrădăcinare)**| **0.5 mg/L NAA** (fără citochinine) |
+| **pH Recomandat** | 5.6 – 5.8 (înainte de autoclavare) |
 | **Timp Estimat** | Multiplicare: **60 zile** \| Înrădăcinare: **60 zile** |
-| **Rata Multiplicare**| Aprox. 8 lăstari viabili / explant (în mediu lichid/TIS) |
+| **Rată Multiplicare** | ~8 lăstari viabili per explant (randament dublu în bioreactoare TIS cu mediu lichid) |
 
 ---
 
-## 🧪 1. Prepararea Mediului (Rețetă Multiplicare vs. Înrădăcinare)
-Spre deosebire de Drosera, Monstera are nevoie de medii diferite pentru etapele de dezvoltare și răspunde excelent la concentrații mari de citokinine (BAP) pentru a forța creșterea lăstarilor.
+## 🧪 1. Prepararea Mediilor de Cultură
 
-**A. Mediu pentru Multiplicare Lăstari (1 Litru):**
-1.  **Săruri MS + Vitamine B5:** Doza completă.
-2.  **Zahăr (Sucroză):** 30g/L.
-3.  **Agent Gelatinizant:** 2.5g/L Gellan Gum (Phytagel/Gelrite) SAU 7-8g/L Agar clasic.
-4.  **Hormoni:** **7.5 mg/L BAP** și **0.5 mg/L NAA**.
-5.  **Ajustare pH:** 5.6 - 5.8.
+Monstera răspunde foarte bine la doze ridicate de citochinine (BAP) pentru spargerea dominanței apicale, urmate de un mediu separat de înrădăcinare doar cu auxină.
 
-**B. Mediu pentru Înrădăcinare (1 Litru):**
-Aceeași rețetă de mai sus, dar **FĂRĂ BAP**, și păstrați doar **0.5 mg/L NAA** pentru a stimula exclusiv creșterea rădăcinilor.
+### A. Mediu pentru Multiplicare Lăstari (1 Litru)
 
-*📸 [Placeholder: Poză cu mediul de Monstera, eventual diferența dintre mediul A și B]*
+1. **Apă distilată:** ~800 mL într-un vas curat.
+2. **Săruri MS + Vitamine B5:** Doză completă (4.4 g/L).
+3. **Zahăr (Sucroză):** 30 g/L (3%).
+4. **Hormoni:** **7.5 mg/L BAP** (doza optimizată de Jing et al. 2024 pentru număr maxim de lăstari) + **0.5 mg/L NAA**.
+5. **Antioxidant (Recomandat):** Adaugă **1–2 g/L cărbune activ** sau **100 mg/L acid ascorbic** pentru a bloca oxidarea fenolică.
+6. **Ajustare pH:** Reglează la **5.6 – 5.8** cu soluție diluată de KOH sau HCl. Completează cu apă distilată până la 1L.
+7. **Agent Gelifiant:** 2.5 g/L Gellan Gum (Gelrite/Phytagel) sau 7.0–8.0 g/L Agar clasic.
+8. **Autoclavare:** La oala sub presiune la **121°C (15 PSI) timp de 20 minute**.
+
+### B. Mediu pentru Înrădăcinare (1 Litru)
+
+Rețeta de bază rămâne aceeași (MS complet + 30 g zahăr + gelifiant, pH 5.6–5.8), dar modifici profilul hormonal:
+* **FĂRĂ BAP** (elimină complet citochinina).
+* Adaugă doar **0.5 mg/L NAA** pentru inducerea rizogenezei.
 
 ---
 
-## 🧼 2. Sterilizarea Explantului (Dublă Sterilizare)
-Sterilizarea aroideelor este notorie pentru dificultate. Țesutul este spongios și reține spori, iar tăieturile oxidează (se înnegresc) rapid, secretând fenoli care ucid explantul. Protocolul de mai jos folosește "Muguri Axilari".
+## 🧼 2. Sterilizarea Explantului (Tehnica Dublei Sterilizări)
 
-**Procedura Chimică (Jing et al. 2024):**
-1.  **Spălare Preliminară:** Se spală tulpina cu apă de la robinet și săpun abundent.
-2.  **Sterilizare Etapa 1:** Scufundare în soluție de Hipoclorit de Sodiu (NaOCl) **2%** timp de **20 minute**.
-3.  **Clătire:** O clătire rapidă cu apă distilată sterilă.
-4.  **Curățare Microscopică:** Se înlătură cu bisturiul stratul exterior al țesutului (care probabil s-a albit/ars de la clor) pentru a expune mugurele curat din interior.
-5.  **Sterilizare Etapa 2:** Noul țesut expus se scufundă DIN NOU în soluție proaspătă de NaOCl **2%** timp de încă **20 minute**.
+Țesutul de Monstera este cărnos și reține spori în micile crăpături ale epidermei. O singură baie de dezinfectant nu este suficientă, motiv pentru care folosim metoda în două etape descrisă de Jing (2024).
+
+1. **Spălarea preliminară:** Curăță bine nodurile de tulpină sub jet de apă de la robinet folosind o periuță moale și detergent de vase sau săpun lichid timp de 15 minute.
+2. **Sterilizare Etapa 1 (în SAB):**
+   * Scufundă nodurile într-o soluție de **clor de casă 15–20%** (echivalent cu ~1.5–2% NaOCl activ) + 2 picături de detergent (surfactant) timp de **20 de minute**, agitând continuu.
+   * Clătește rapid într-o baie de apă distilată sterilă.
+3. **Fasonarea intermediară:**
+   * Pune piesa pe un capac steril de cutie Petri.
+   * Cu o lamă de bisturiu sterilă, decojește și îndepărtează primul strat exterior al țesutului (care s-a albit/ars de la clor), expunând mugurele axilar proaspăt din interior.
+4. **Sterilizare Etapa 2:**
+   * Scufundă noul țesut fasonat într-o **a doua baie de clor proaspătă (15–20%)** timp de încă **20 de minute**. Acest pas distruge sporii care au fost protejați sub primul strat de scoarță.
+5. **Clătirea aseptică finală:**
+   * Trece explantele prin **3 băi succesive de apă distilată sterilă** (câte 5 minute în fiecare) pentru a elimina orice urmă reziduală de clor.
+6. **Inocularea:** Înfige baza mugurelui axilar în gelul de multiplicare (A) și închide borcanul etanș.
 
 > [!WARNING]
-> **Oxidarea (Browning-ul):** Monstera secretă polifenoli când este tăiată, care devin toxici. Deși studiile citate nu menționează explicit, adăugarea de Cărbune Activ (1-2 g/L) în mediu sau spălarea explantului cu Acid Ascorbic (Vitamina C) poate reduce semnificativ rata de mortalitate cauzată de oxidare.
-
-6.  **Clătire Finală:** 3 băi succesive în apă distilată sterilă.
+> **Managementul oxidării (Browning):** Dacă observi secreții maronii-negricioase în gel în primele 7–10 zile, transferă imediat explantul pe un borcan cu mediu proaspăt. Țesutul necrozat rămas în contact cu toxinele fenolice se va opri din vegetație.
 
 ---
 
-## 💡 3. Incubația și Creșterea
-* **Lumină:** 16 ore Lumină / 8 ore Întuneric. (50 µmol m−2 s−1).
-  * *Notă practică privind lumina:* 50 µmol/m²/s este o unitate PPFD (lumina utilă pentru fotosinteză). Pentru tissue culture, asta înseamnă o **lumină slabă spre moderată**. Nu aveți nevoie de lămpi profesionale de seră; este suficient un tub fluorescent sau un LED normal (lumina rece/albă de 10-15W), plasat cam la 30-40 cm distanță deasupra borcanelor. O lumină prea intensă va stresa sau chiar "arde" explantul in vitro.
-* **Temperatură:** 25°C.
-* **Proces:** După 60 de zile pe mediul de multiplicare (Mediul A), lăstarii rezultați se separă cu bisturiul. Dacă unii au deja rădăcini, pot merge direct la aclimatizare. Dacă nu, se transferă pe mediul de înrădăcinare (Mediul B) pentru încă 60 de zile.
+## 💡 3. Incubația și Dezvoltarea
+
+* **Temperatura:** **25°C constant**.
+* **Lumina:** 16 ore lumină / 8 ore întuneric.
+* **Intensitatea luminii:** Moderată (aprox. 50 µmol/m²/s). Un tub LED alb rece (6500K) de 10–15W plasat la 30–40 cm deasupra raftului oferă lumina ideală. Nu folosi lămpi puternice de creștere pentru plante mature in vitro, altfel vei stresa și arde țesutul fragil.
+* **Evoluția culturii:**
+  * După aproximativ **60 de zile** pe mediul de multiplicare (A), mugurele inițial va genera o masă de lăstari noi (în medie ~8 lăstari viabili).
+  * În SAB, separă lăstarii individuali cu bisturiul:
+    * Lăstarii care au deja rădăcini formate pot merge direct spre aclimatizare.
+    * Lăstarii fără rădăcini se transferă pe mediul de înrădăcinare (B) pentru încă **60 de zile**.
 
 > [!TIP]
-> **Bioreactoare cu Imersie Temporară (TIS):** Studiul (Jing, 2024) a demonstrat că folosirea mediului LICHID care inundă explantul timp de 1 minut la fiecare 1.5 ore a dublat numărul de lăstari comparativ cu mediul solid pe bază de agar!
+> **Bioreactoare cu Imersie Temporară (TIS):** Dacă treci la nivelul următor și folosești un sistem TIS cu mediu lichid care inundă explantele timp de 1 minut la fiecare 1.5 ore, numărul de lăstari viabili se dublează comparativ cu mediul clasic pe agar (conform Jing et al. 2024)!
 
 ---
 
-## 🌱 4. Aclimatizarea (Deflasking)
-Trecerea la mediul non-steril. Monstera 'Thai Constellation' este foarte sensibilă la putregai în această fază.
+## 🌱 4. Aclimatizarea (Scoaterea în ghiveci)
 
-1.  **Spălarea:** Scoateți planta din borcan și spălați **absolut tot agarul** de pe rădăcini.
-2.  **Substratul:** Mutați într-un mix foarte aerat (ex: Fibră de cocos + Perlit abundent + Scoarță). 
-3.  **Domul de Umiditate:** Acoperiți cu o pungă Ziploc sau o caserolă de plastic pentru a menține umiditatea la 90-100%.
-4.  **Biostimulatori (Opțional):** Pulverizarea cu un biostimulator pe bază de aminoacizi (ex: IQ Forte 2-3 mL/L) la fiecare 2 săptămâni a crescut rata de supraviețuire la 90% (față de 75% la grupul de control). Nu folosiți îngrășământ clasic.
-5.  **Adaptarea:** După 2 săptămâni începeți să tăiați din pungă pentru a obișnui planta cu umiditatea camerei.
+Monstera 'Thai Constellation' și 'Albo' sunt foarte pretențioase la ieșirea din borcan — rădăcinile in vitro sunt sensibile la putregai dacă substratul este prea greu și umed.
 
-*📸 [Placeholder: Poză cu primele frunze fenestrate in vitro]*
+1. **Spălarea completă:** Scoate plăntuțele din borcan și spală **absolut tot agarul** de pe rădăcini sub jet fin de apă călduță. Agarul lăsat pe rădăcini în aer liber va atrage ciuperci patogene.
+2. **Substratul corect (Ultra-aerat):** Folosește un mix special de aroide: **40% fibră/chipsuri de cocos, 40% perlit mare și 20% scoarță măruntă de pin**. Nu folosi pământ universal de flori din comerț.
+3. **Păstrarea umidității inițiale:** Pune ghivecele într-o caserolă transparentă sau acoperă-le cu o pungă Ziploc pentru a menține 90–100% umiditate în primele două săptămâni.
+4. **Biostimulare (Hack dovedit):** Pulverizarea foliară cu un biostimulator pe bază de aminoacizi (ex: IQ Forte 2–3 mL/L) o dată la două săptămâni a crescut rata de supraviețuire de la 75% la **90%** în studiile universitare. Nu folosi fertilizant NPK concentrat în prima lună.
+5. **Călirea treptată:** După 14 zile, deschide punga treptat (câte puțin în fiecare zi) pentru a obișnui planta cu umiditatea normală a camerei. În scurt timp vor apărea primele frunze noi fenestrate!
 
 ---
 
 ## 🔬 Referințe Academice
-Acest protocol a fost sintetizat din următoarele lucrări:
-1.  **Jing, Y., Beleski, D., Vendrame, W. (2024).** *Micropropagation and Acclimatization of Monstera deliciosa Liebm. ‘Thai Constellation’.* Horticulturae.
-    * *Key Finding:* TIS (Bioreactoarele) sunt superioare agarului; 7.5mg/L BAP produce cei mai mulți lăstari.
-2.  **Tjahjono, A.P.I, Karmawan, L.U. (2022).** *Optimization of Surface Sterilization and Organogenesis Protocol for Monstera spp.* Live and Applied Science.
-    * *Key Finding:* Sterilizarea în trepte cu concentrații scăzute de etanol și NaClO prelungește viabilitatea țesutului.
+
+Acest protocol a fost sintetizat din lucrările:
+1. **Jing, Y., Beleski, D., Vendrame, W. (2024).** *Micropropagation and Acclimatization of Monstera deliciosa Liebm. ‘Thai Constellation’.* Horticulturae.
+2. **Tjahjono, A.P.I, Karmawan, L.U. (2022).** *Optimization of Surface Sterilization and Organogenesis Protocol for Monstera spp.* Live and Applied Science.

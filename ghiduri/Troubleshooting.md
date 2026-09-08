@@ -1,26 +1,26 @@
 ---
 layout: default
 title: Troubleshooting Vizual
-description: "Identifică și rezolvă cele mai comune probleme în clonarea plantelor in vitro: contaminare, vitrificare, fenolizare și stagnare."
+description: "Identifică și rezolvă rapid problemele din culturile in vitro: contaminare fungală și bacteriană, oxidare fenolică, vitrificare și stagnare."
 ---
 
-# 🚨 Troubleshooting Vizual (Ce a mers prost?)
+# 🚨 Troubleshooting Vizual: Ce a Mers Greșit?
 
-Ai făcut totul "ca la carte", dar borcanul tău arată ca un experiment științific ratat. Nu te panica. Contaminarea și eșecurile fac parte din proces (chiar și în laboratoarele profesionale se aruncă o grămadă de borcane, stai să vezi videoclipul de la PlantsInJars unde a aruncat zeci..).
+> *„Eșecurile și borcanele compromise fac parte integrantă din procesul de învățare. Până și cele mai mari laboratoare de cercetare din lume aruncă periodic culturi contaminate.”*
 
-Folosește acest ghid pentru a identifica inamicul și a afla unde trebuie să îți îmbunătățești tehnica.
+Nu intra în panică dacă un borcan nu arată perfect. Folosește această diagramă și ghidul vizual de mai jos pentru a identifica rapid cauza exactă și a-ți regla tehnica pentru tura următoare.
 
 <pre class="mermaid" style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px; padding: 20px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.35); text-align: center; font-family: inherit;">
 graph LR
-    Start["🔍 Identificare Problemă"] --> Contaminare["Contaminare (pe gel/planta)"]
-    Start --> ProblemePlanta["Probleme dezvoltare plantă"]
+    Start["🔍 Identificare Problemă"] --> Contaminare["1. Contaminare (pe gel/plantă)"]
+    Start --> ProblemePlanta["2. Probleme de Fiziologie"]
 
-    Contaminare --> Fungal["A. Mucegai / Puf"]
-    Contaminare --> Bacterial["B. Pete lăptoase / Zmârcâială"]
+    Contaminare --> Fungal["A. Mucegai / Puf (Fungic)"]
+    Contaminare --> Bacterial["B. Pete Lăptoase / Zmârcâială (Bacterian)"]
 
-    ProblemePlanta --> Innegrire["A. Înnegrire (Fenolizare)"]
-    ProblemePlanta --> Translucid["B. Aspect sticlos (Vitrificare)"]
-    ProblemePlanta --> Stagnare["C. Nu crește (Stagnare)"]
+    ProblemePlanta --> Innegrire["A. Înnegrire Gel / Bază (Fenolizare)"]
+    ProblemePlanta --> Translucid["B. Aspect Sticlos / Apoasă (Vitrificare)"]
+    ProblemePlanta --> Stagnare["C. Nu Crește Deloc (Stagnare)"]
 
     click Fungal "#mucegai" "Mergi la secțiune"
     click Bacterial "#bacterii" "Mergi la secțiune"
@@ -31,84 +31,78 @@ graph LR
 
 ---
 
-## 🦠 1. Inamicul Principal: Contaminarea
+## 🦠 1. Inamicul Numărul 1: Contaminarea
 
-Dacă e de rău, se întâmplă de obicei în primele 3-7 zile.
+Dacă este vorba de o contaminare externă, primele semne devin vizibile de regulă în primele **3–7 zile** de la inoculare.
 
-### A. "Puful" (Mucegai / Contaminare Fungală) {#mucegai}
-**Cum arată:** Puf alb, verde, negru sau roz care crește pe gel sau direct pe explant. Arată ca mucegaiul de pe pâinea lăsată prea mult pe masă.
+### A. „Puful” (Contaminare Fungală / Mucegai) {#mucegai}
+
+**Cum arată:** Puf fin alb, verde, negru, cenușiu sau roz care se dezvoltă pe suprafața gelului sau direct pe frunze.
 
 ![Contaminare fungală in vitro]({{ '/assets/images/mucegai.png' | relative_url }})
-*Fig 1. Contaminare fungală (mucegai) pe mediu de cultură. Sursă: [r/PlantedTank (Reddit)](https://www.reddit.com/r/PlantedTank/comments/m54mcq/suggestion_for_treating_mold_in_tissue_culture/)*
-**Sursa:** Aerul. Mucegaiul se răspândește prin spori purtați de curenții de aer.
-**Unde ai greșit:**
-- Nu ai folosit corect SAB-ul (ai mișcat prea repede mâinile și ai creat curenți de aer).
-- Ai lăsat capacul borcanului deschis prea mult timp.
-- Nu te-ai spălat pe mâini / nu ai dat cu suficient alcool pe mănuși și în cutie.
-- Borcanele nu se închid ermetic.
+*Fig 1. Colonie fungică (mucegai) dezvoltată pe mediul nutritiv.*
 
-### B. "Laptele / Zmârcâiala" (Contaminare Bacteriană) {#bacterii}
-**Cum arată:** Pete lăptoase, tulburi, galbene sau albe, care "curg" sau se întind pe gel. De multe ori pornesc exact de la baza plantei (explantului). Miros foarte urât dacă deschizi borcanul.
+* **Sursa principală:** Aerul din încăpere. Ciupercile se reproduc prin spori microscopici transportați de curenții de aer.
+* **Unde a apărut breșa:**
+  * Mișcări prea rapide ale mâinilor în SAB, care au aspirat aer din cameră.
+  * Capacul borcanului a fost ținut deschis prea mult timp în timpul inoculării.
+  * Ai trecut cu mâna sau cu o pensetă nesterilizată pe deasupra borcanului deschis.
+  * Borcanul nu a fost închis etanș după inoculare.
+
+---
+
+### B. „Laptele sau Zmârcâiala” (Contaminare Bacteriană) {#bacterii}
+
+**Cum arată:** Pelicule lăptoase, vâscoase, albe sau galbene care curg pe suprafața gelului, adesea pornind fix de la baza tăieturii explantului. Pot avea un miros neplăcut.
 
 ![Contaminare bacteriană in vitro]({{ '/assets/images/bacterii.png' | relative_url }})
-*Fig 2. Contaminare bacteriană cu aspect lăptos. Sursă: [PTCB (Journal)](https://doi.org/10.3329/ptcb.v28i1.37202)*
-**Sursa:** Planta în sine sau instrumentele insuficient sterilizate.
-**Unde ai greșit:**
-- Protocolul de sterilizare a plantei (clor/înălbitor) a fost prea scurt sau prea slab.
-- Nu ai sterilizat corect penseta/bisturiul între tăieturi.
-- Explantul a fost prea murdar de la început (luat dintr-o zonă cu pământ/praf).
+*Fig 2. Contaminare bacteriană cu aspect umed și lăptos.*
+
+* **Sursa principală:** Planta în sine (bacterii din crăpăturile epidermei) sau unelte metalice nesterilizate la cald între tăieturi.
+* **Unde a apărut breșa:**
+  * Baia de clor a fost prea scurtă sau soluția a fost prea diluată.
+  * Nu ai adăugat detergent ca surfactant, iar clorul a ocolit sporii ascunși printre perișori.
+  * Vârful bisturiului nu a fost răcit suficient după sterilizare și a ars țesutul, deschizând calea bacteriilor.
 
 > [!CAUTION]
-> **Soluția universală pentru contaminare:** Nu încerca să "salvezi" planta. Riscul de a împrăștia sporii în tot SAB-ul tău este prea mare. Sterilizează borcanul la autoclav (cu tot cu ce e în el) ca să ucizi monștrii, apoi curăță-l și ia-o de la capăt cu o plantă nouă.
+> **Ce faci cu borcanele contaminate:** Nu încerca să „cureți” sau să speli o plantă deja contaminată în SAB, altfel vei elibera spori în tot spațiul de lucru! Bagă borcanul cu capacul închis în oala sub presiune timp de 15 minute la 121°C pentru a neutraliza patogenii, apoi spală-l și ia-o de la capăt.
 
 ---
 
-## 🥀 2. Planta "Plânge" sau se Înnegrește (Fenolizare) {#fenolizare}
+## 🥀 2. Fenolizarea (Înnegrirea Mediului și a Bazei Plantei) {#fenolizare}
 
-**Cum arată:** Gelul din jurul plantei se face maro închis sau negru. Baza plantei se usucă și se înnegrește.
+**Cum arată:** Gelul din jurul explantului devine maro închis sau negru ca smoala în primele zile, iar baza tăiată a plantei se necrozează.
 
 ![Fenolizare in vitro]({{ '/assets/images/fenolizare.png' | relative_url }})
-*Fig 3. Fenolizare (browning) - oxidarea și înnegrirea mediului din cauza secreției de compuși fenolici. Sursă: [Lab Associates](https://labassociates.com/browning-in-tissue-culture-media)*
-**Ce se întâmplă:** Când ai tăiat planta cu bisturiul, ea a "strigat" după ajutor eliberând compuși fenolici (un mecanism de apărare natural). În natură, acești compuși o apără. În borcan, fiind un spațiu închis, planta se otrăvește singură cu ei.
-**Cum previi:**
-- Folosește un bisturiu extrem de ascuțit (taie ferm, nu "mesteca" și nu strivi tulpina).
-- Ține explantul în apă distilată sterilă până îl pui în borcan.
-- *Remediu:* Dacă observi înnegrirea în primele zile, scoate planta rapid în SAB, taie 1 mm din partea neagră și mut-o pe un mediu nou, curat (subcultură).
+*Fig 3. Fenolizare (browning) cauzată de oxidarea compușilor polifenolici secretați de plantă.*
+
+* **Mecanism biologic:** Rănirea plantei la tăiere declanșează un răspuns de apărare prin eliberarea de compuși polifenolici. Într-un recipient închis, acești compuși oxidează și devin toxici pentru celulele plantei.
+* **Cum previi și remediezi:**
+  * Folosește întotdeauna o **lamă de bisturiu nouă și foarte ascuțită** (fă tăieturi netede, fără a strivi tulpina).
+  * Adaugă **100 mg/L Acid Ascorbic** sau **1–2 g/L Cărbune Activ** în mediul de cultură.
+  * *Măsură imediată:* Transferă explantul pe un **borcan nou cu mediu curat la fiecare 7–10 zile** în prima lună.
 
 ---
 
-## 💧 3. Planta "de Sticlă" (Vitrificare / Hiperhidrare) {#vitrificare}
+## 💧 3. Vitrificarea (Aspectul Sticlos / Hiperhidrarea) {#vitrificare}
 
-**Cum arată:** Frunzele devin groase, fragile, apoase, translucide. Planta pare "umflată" cu apă și are un aspect de sticlă mată. 
-**Ce se întâmplă:** Aerul din borcan are 100% umiditate. Uneori, stomatele plantei (porii prin care respiră) se dau peste cap, iar planta începe să absoarbă incontrolabil lichid din gel. Nu mai face fotosinteză și în cele din urmă se "îneacă".
-**Cum previi / remediezi:**
-- **Prea mult hormon (Citokinină):** Dacă rețeta ta are prea mult BAP/Kinetin, planta "o ia razna". Scade concentrația.
-- **Prea multă umiditate:** Folosește capace care permit un minim de schimb de gaze (de exemplu, capace cu filtru microporos).
-- **Prea puțin Agar:** Dacă gelul este prea moale (mai mult lichid decât gel), mărește cantitatea de Agar cu 1-2 grame/litru.
-- *Remediu:* Scade umiditatea lăsând borcanul într-o zonă puțin mai rece, ca condensul să se formeze pe pereți, nu pe plantă.
+**Cum arată:** Frunzele devin groase, translucide, fragile și arată ca îmbibate excesiv cu apă (aspect de sticlă mată).
+
+* **Mecanism biologic:** Umiditatea de 100% din borcan combinată cu doze prea mari de citochinine (BAP) dereglează porii foliari (stomatele). Planta absoarbe apă necontrolat și își reduce capacitatea de a sintetiza clorofilă.
+* **Cum previi și remediezi:**
+  * **Scade concentrația de citochinine (BAP):** Concentrațiile prea mari declanșează vitrificarea.
+  * **Mărește doza de agar:** Un gel prea moale favorizează hiperhidrarea. Adaugă încă 1.0–1.5 g/L agar.
+  * Folosește capace care permit un schimb minim de gaze (cu membrană microporoasă) sau ține borcanele într-o zonă cu temperatură stabilă pentru a evita condensul masiv pe plantă.
 
 ---
 
-## 🐌 4. Planta refuză să crească (Stagnare) {#stagnare}
+## 🐌 4. Stagnarea (Planta Verde Care Nu Crește) {#stagnare}
 
-**Cum arată:** Ai o plantă perfect verde, curată, fără mucegai... dar care stă de 2 luni și nu crește nicio frunză.
-**Unde e problema:**
-- **Mediul e greșit:** Poate planta urăște rețeta MS 100% și preferă Half-MS (1/2).
-- **Hormoni:** Poate ai pus doar Auxine, iar planta a făcut doar rădăcini, ignorând complet partea de sus.
-- **pH incorect:** Ai verificat pH-ul înainte să torni gelul? Dacă e prea acid (< 5.0) sau prea alcalin (> 6.0), planta nu poate trage nutrienții din gel, chiar dacă ei sunt acolo! (Vezi [Ghidul pH-ului](./pH.html)).
+**Cum arată:** Planta rămâne perfect verde și curată luni de zile, dar nu produce niciun lăstar nou și nicio rădăcină.
+
+* **Cauze frecvente:**
+  * **pH incorect:** Dacă pH-ul a fost reglat sub 5.2 sau peste 6.0, microelementele sunt blocate chimic (*Nutrient Lockout*), iar planta nu se poate hrăni.
+  * **Profil hormonal neadaptat:** Planta are nevoie de un impuls de citochinine (BAP) pentru a rupe starea de latență a mugurilor dormanzi.
+  * **Mediu prea concentrat:** Unele specii (orhidee, plante carnivore) stagnează pe MS complet și cer formulă diluată (**Half-MS** sau **WPM**).
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    mermaid.initialize({
-      startOnLoad: true,
-      theme: 'dark',
-      themeVariables: {
-        background: '#0D0D0D',
-        primaryColor: '#FFB000',
-        primaryTextColor: '#E0E0E0',
-        lineColor: '#1A1A1A'
-      }
-    });
-  });
-</script>

@@ -1,69 +1,77 @@
 ---
 layout: default
 title: PGRs - Hormonii Vegetali
-description: "Totul despre fitohormoni (PGRs) în tissue culture: auxine, citokinine, gibereline. Rolul lor în multiplicare și înrădăcinare."
+description: "Totul despre fitohormoni (PGRs) în tissue culture: auxine, citochinine, balanța Skoog-Miller și prepararea soluțiilor stoc de 1 mg/mL."
 ---
 
-# 🧬 Reglatorii de Creștere (PGRs)
-**Sau: Cum îi dai comenzi plantei ("Fă rădăcini!", "FĂ FRUNZELE ALEA ODATĂ!")**
+# 🧬 Reglatorii de Creștere (PGRs): Hormonii Vegetali
 
-Dacă mediul MS și zahărul sunt "mâncarea", hormonii (PGRs - Plant Growth Regulators) sunt "codul sursă".
-Plantele în borcan sunt confuze. Au tot ce le trebuie să trăiască, dar nu au "șeful" (soarele, gravitația, vecinii - da, plantele comunică chimic între ele, sunt destul de deștepte) care să le zică ce să facă. Tu ești șeful. Tu le dictezi arhitectura.
+> *„Dacă mediul MS și zahărul reprezintă hrana, hormonii vegetali sunt codul sursă prin care îi comanzi plantei ce să construiască: frunze, rădăcini sau lăstari noi.”*
 
----
-
-## ⚖️ Balanța Sfântă: Skoog & Miller (1957)
-Toată știința Tissue Culture se bazează pe un singur principiu simplu (descoperit acum 70 de ani, dar încă valabil).
-Totul ține de raportul dintre două substanțe.
-
-
-* **Multă Auxină + Puțină Citokinină** = **RĂDĂCINI** (Rooting).
-* **Puțină Auxină + Multă Citokinină** = **LĂSTARI** (Shoots / Multiplicare).
-* **Cantități Egale** = **CALUS** (O bilă de celule haotice, nediferențiate. E ca o "tumoare" vegetală, uneori util, alteori nu).
-* Notă: contează mai mult raportul de Auxine:Citokinine decât cantitatea folosită. Nu te arunca cu zeci de grame dintr-unul și câteva din altul, până și-un raport de 2:1 face treabă. FAcem economie de substanțe, nu risipă!!!
+Planta izolată într-un borcan steril este lipsită de semnalele naturale din mediu (gravitație constantă, vânt, lumină solară directă). Tu ești cel care dictează arhitectura dezvoltării prin adăugarea de **PGRs (Plant Growth Regulators)** în concentrații fine de miligrame per litru.
 
 ---
 
-## 🔽 1. Auxinele (Butonul de "Rădăcini")
-Le folosești când ai deja planta mare și vrei să îi faci rădăcini ca să o pui în pământ (Etapa de Aclimatizare).
-*Efect secundar: Descurajează înmulțirea.*
+## ⚖️ Balanța Clasicã: Modelul Skoog & Miller (1957)
 
-### Cei mai folosiți "Suspecți":
-* **NAA (Naphthaleneacetic acid):** Cel mai popular în laborator. Stabil, ieftin. (Dozaj tipic: 0.5 - 1.0 mg/L).
-* **IBA (Indole-3-butyric acid):** "Naturalul". E ingredientul principal din pudrele de înrădăcinare gen Clonex. E mai blând decât NAA.
-* **2,4-D:** 🛑 *Nuclear Option.* Este extrem de puternic. Folosit greșit, este erbicid (omoară tot). Folosit corect, induce calus rapid (somatic embryogenesis). Nu te atinge de el ca începător, serios. Nici eu nu m-am strofocat să învăț despre el încă.
+Aproape întreaga tehnologie modernă de micropropagare se bazează pe raportul dintre două mari clase de hormoni:
 
----
+```
+                  ┌────────────────────────────────────────┐
+                  │          RAPORTUL HORMONAL             │
+                  └────────────────────────────────────────┘
+                                      │
+         ┌────────────────────────────┼────────────────────────────┐
+         ▼                            ▼                            ▼
+┌──────────────────┐         ┌──────────────────┐         ┌──────────────────┐
+│  AUXINĂ MULTĂ +  │         │ RAPORT ECHILIBRAT│         │ CIKTOCHININĂ     │
+│ CIKTOCHININĂ     │         │   (Auxină ≈      │         │     MULTĂ +      │
+│     PUȚINĂ       │         │   Citochinină)   │         │  AUXINĂ PUȚINĂ   │
+└──────────────────┘         └──────────────────┘         └──────────────────┘
+         │                            │                            │
+         ▼                            ▼                            ▼
+  🌱 RĂDĂCINI                  🧫 CALUS AMORF               🌿 LĂSTARI NOI
+   (Rizogeneză)               (Masă de celule)              (Proliferare)
+```
 
-## 🔼 2. Citokininele (Butonul de "Clonare")
-Le folosești când vrei ca dintr-o singură plantă să faci 50. Ele "sparg" dominanța apicală (adică planta nu mai crește doar în sus, ci explodează și în lateral).
-*Aici e magia multiplicării.*
-
-### Cei mai folosiți "Suspecți":
-* **BAP / BA (6-Benzylaminopurine):** Regele. 90% din protocoale folosesc BAP. E ieftin și eficient. (Dozaj tipic: 0.5 - 2.0 mg/L).
-* **Kinetin:** Mai blând decât BAP. Bun pentru plante sensibile care se "ard" sau se vitrifică de la BAP.
-* **TDZ (Thidiazuron):** ☢️ *Bomba atomică.* Este extrem de puternic. Transformă orice bucată de frunză în lăstari, dar poate cauza mutații sau plante deformate dacă e lăsat prea mult. Folosit des la plante lemnoase (copaci).
-
----
-
-## 🧪 Cum se prepară (Stock Solutions)
-Nu poți cântări 0.5 mg (miligrame!) pe cântarul de bucătărie. E un grăunte de praf invizibil.
-Secretul e să faci **Soluții Stoc**.
-
-1.  Cântărești **100 mg (0.1 g)** de hormon. Asta poți vedea pe un cântar de bijuterii (care costă 50 lei).
-2.  **Dizolvarea (Partea cu Chimia):** Majoritatea hormonilor NU se dizolvă în apă!
-    * *Auxinele (NAA):* Se dizolvă în puțin **Alcool (IPA)** sau o bază (NaOH/KOH).
-    * *Citokininele (BAP):* Se dizolvă în câteva picături de **Acid (HCl)** sau o bază (NaOH). *Verifică fișa tehnică sau întreabă pe Discordul PlantsInJars!*
-3.  După ce s-a dizolvat pudra, completezi cu apă distilată până la **100 ml**.
-4.  **Rezultatul:** Ai o soluție unde **1 ml lichid = 1 mg hormon**.
-    * *Exemplu:* Rețeta cere 1.5 mg/L BAP? Tu iei seringa și pui 1.5 ml din sticluța ta. Simplu și precis.
-
-> **Storage Tips:** Păstrează soluțiile stoc în frigider! BAP rezistă luni de zile, dar altele se degradează. Etichetează-le clar, să nu creadă cineva că e suc.
+* **Auxină ridicată + Citochinină redusă/zero:** Stimulează apariția și creșterea **rădăcinilor** (etapa de înrădăcinare).
+* **Citochinină ridicată + Auxină redusă:** Oprește dominanța tulpinii principale și forțează apariția unei explozii de **lăstari axilari** (etapa de multiplicare).
+* **Raport egal (1:1):** Celulele se divid necontrolat fără să formeze organe distincte, rezultând o masă nediferențiată de țesut numită **calus**.
 
 ---
 
-## 🧠 Sfatul "Sărăkiei"
-La început, **NU AI NEVOIE DE HORMONI**.
-Multe plante (Drosera, Violetele, Begonia, chiar și Philodendronii) au hormoni endogeni (interni) suficienți.
-* Pune o frunză de Drosera pe mediu MS simplu (fără BAP, fără NAA). O să vezi că face pui singură.
-* Hormonii sunt necesari când vrei viteză industrială sau lucrezi cu plante "încăpățânate" (Orhidee, Plante rare). Nu arunca banii pe ei din prima zi.
+## 🔽 1. Auxinele (Comanda pentru Rădăcini)
+
+Le folosești în ultima etapă in vitro, înainte de a transfera plăntuțele în ghiveci (la aclimatizare):
+
+* **IBA (Acid Indol-3-Butiric):** Auxina de referință pentru înrădăcinare. Produce rădăcini viguroase, ramificate și sănătoase (dozaj uzual: **0.2 – 2.0 mg/L**). Este extrem de eficientă la conifere (*Thuja*) și bananier.
+* **NAA (Acid 1-Naftalenacetic):** Auxină sintetică foarte stabilă la autoclavare și accesibilă ca preț (dozaj: **0.1 – 1.0 mg/L**). Produce adesea rădăcini scurte și groase.
+* **IAA (Acid Indol-3-Acetic):** Auxina naturală a plantei. Este mai blândă, dar este sensibilă la lumină și se descompune mai repede în mediu.
+* **2,4-D:** 🛑 *Opțiunea extremă.* Este un derivat sintetic foarte puternic (folosit și ca erbicid în doze mari). În tissue culture se folosește în doze infime exclusiv pentru inducerea calusului și embriogeneză somatică. Nu îl folosi ca începător!
+
+---
+
+## 🔼 2. Citochininele (Comanda pentru Multiplicare / Lăstari)
+
+Acestea sunt substanțele care transformă un singur mugure într-o mini-tufă de 10–40 de clone:
+
+* **BAP / BA (6-Benzilaminopurină):** Regele citochininelor. Prezent în 90% din protocoalele de laborator. Stabil la căldură, ieftin și cu randament excelent (dozaj: **0.5 – 5.0 mg/L**, ajungând până la **7.5 mg/L** la *Monstera*).
+* **Kinetina:** O citochinină mai blândă. Utilă pentru specii pretențioase care suferă de vitrificare (frunze apoase) atunci când sunt expuse la BAP.
+* **TDZ (Thidiazuron):** ☢️ *Substanță ultra-potentă.* Produce o proliferare masivă la doze microscopice (**0.01 – 1.0 mg/L**), fiind folosită frecvent la orhidee (pentru inducerea corpurilor PLB). Folosită în exces, poate produce deformări genetice temporare.
+
+---
+
+## 🧪 Cum Preparăm Soluțiile Stoc (1 mg/mL)
+
+Nu poți cântări 0.5 miligrame pe un cântar obișnuit. Soluția profesională este să prepari **Soluții Stoc concentrate**:
+
+1. Cântărește **100 mg (0.100 g)** de pudră de hormon pe un cântar de bijuterii de precizie (0.001 g).
+2. **Dizolvarea primară (Hormonii nu se dizolvă direct în apă rece!):**
+   * *Pentru Auxine (NAA, IBA):* Pune pudra într-un păhărel mic și dizolv-o în **1–2 mL de alcool izopropilic 70%** sau câteva picături de soluție de bază (KOH/NaOH 1M).
+   * *Pentru Citochinine (BAP, Kinetină):* Dizolvă pudra în **1–2 mL de soluție de NaOH 1M** (sau câteva picături de acid diluat HCl).
+3. **Completarea volumului:** După ce pudra este complet transparentă și dizolvată, adaugă apă distilată până la volumul total de **100 mL**.
+4. **Rezultatul obținut:** Ai o soluție în care **1 mL lichid = fix 1 mg hormon pur**!
+   * *Exemplu practic:* Rețeta cere 1.5 mg/L BAP? Iei o seringă sterilă și adaugi **1.5 mL** din soluția ta stoc direct în vasul cu mediul de cultură.
+
+> [!TIP]
+> **Păstrarea soluțiilor stoc:** Pune soluțiile în recipiente mici de sticlă brună (sau acoperite cu staniol pentru a le feri de lumină), etichetează-le clar cu denumirea și data, și ține-le la frigider (4°C). Soluția de BAP rezistă până la 6–12 luni, în timp ce auxinele naturale (IAA) e bine să fie reîmprospătate la fiecare 2–3 luni.

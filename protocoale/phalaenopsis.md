@@ -1,7 +1,7 @@
 ---
 layout: protocol
 title: Protocol Phalaenopsis (Orhidee Moth)
-description: "Protocol de micropropagare pentru orhideea Phalaenopsis (Moth Orchid) din tije florale. Ghid complet de sterilizare și rețete."
+description: "Protocol de micropropagare pentru orhideea Phalaenopsis din noduri de tijă florală și germinare asimbiotică. Rețete mediu, sterilizare și aclimatizare."
 dificultate: Grea
 categorie: Orhidee
 status: literatura
@@ -14,143 +14,122 @@ versiune: 1.0
 
 **Bazat pe:** Balilashaki et al. (2014 - Univ. Tehran) și Khatun et al. (2020 - Review complet).
 
+Orhideele *Phalaenopsis* sunt printre cele mai fascinante plante din micropropagare, dar funcționează după reguli complet diferite față de plantele obișnuite. Dacă la Saintpaulia pui o bucată de frunză în gel și scoți zeci de pui, la orhidee **nu distrugi planta-mamă**: îi recoltezi tija florală (după înflorire sau când florile încep să treacă) și trezești mugurii dormanzi ascunși sub bractee. Cu răbdare și igienă impecabilă, transformi o singură tijă florală într-o întreagă colecție de clone identice.
+
 | Parametru | Valoare Optimă (Conform Studii) |
 | :--- | :--- |
-| **Dificultate** | Grea (Proces lent, risc mare de contaminare și eliberare de fenoli) |
-| **Explant Recomandat** | Noduri de pe tija florală (Flower Stalk Nodes) — _nu se distruge planta-mamă!_ |
-| **Mediu Multiplicare** | **MS + 4 mg/L BAP + 1 mg/L NAA** |
-| **Mediu Înrădăcinare** | **½ MS + 1 mg/L IAA** (sau 0.5 mg/L NAA) |
-| **Germinare Semințe** | **Mediul Chen** (83.4% succes) |
-| **pH** | 5.7 |
-| **Timp Estimat** | Apariție lăstari: **4-8 săptămâni** \| Înrădăcinare: **5-8 săptămâni** \| Înflorire: **16-21 luni** de la aclimatizare |
-| **Rata Multiplicare** | ~15.3 lăstari / nod floral (pe MS + 4mg/L BA + 1mg/L NAA) |
+| **Dificultate** | Grea (Dezvoltare lentă, sensibilitate la fenoli, necesită medii specializate) |
+| **Explant Recomandat** | Noduri dormande de pe tija florală (*Flower Stalk Nodes*) — planta-mamă rămâne neatinsă |
+| **Mediu Multiplicare** | **MS 100% + 4.0 mg/L BAP + 1.0 mg/L NAA** |
+| **Mediu Înrădăcinare** | **½ MS (Half-Strength) + 1.0 mg/L IAA** (sau 0.5 mg/L NAA) |
+| **Germinare Semințe** | **Mediul Chen** cu peptonă (83.4% rată de germinare asimbiotică) |
+| **pH Recomandat** | 5.7 (înainte de autoclavare) |
+| **Timp Estimat** | Apariție lăstari: **4–8 săptămâni** \| Înrădăcinare: **5–8 săptămâni** \| Înflorire: **~16 luni** |
+| **Rată Multiplicare** | ~15.3 lăstari per nod floral (pe combinația BAP 4 mg/L + NAA 1 mg/L) |
 
 ---
 
-## ⚙️ Noțiuni de Bază: Ce Face Phalaenopsis Specială?
+## ⚙️ Biologia Orhideelor: Ce Trebuie să Știi Înainte de Start
 
-Spre deosebire de celelalte plante de pe acest site, orhideele sunt un **cu totul alt animal** (baby vs atomic bomb type shi):
+Orhideele au câteva particularități biologice unice pe care trebuie să le înțelegi ca să nu irosești materiale:
 
-* **Semințele** sunt microscopice, fără endosperm (fără hrană proprie). În natură, au nevoie de un fungal simbiotic ca să germineze. În laborator, le "păcălim" cu un mediu nutritiv bogat.
-* **Planta e monopodială** — nu face stoloni sau keiki-uri (pui laterali) în mod natural, deci nu o poți divide ca pe o Monstera.
-* **Eliberează fenoli** (substanțe toxice maronii) când este tăiată, care pot ucide explantul. Cărbunele activ este crucial.
-* **Cel mai practic explant**: Nodurile de pe tija florală. Le tai, le sterilizezi, le pui pe mediu. Planta-mamă rămâne intactă.
+* **Semințele sunt pulbere microscopică (fără hrană proprie):** Nu au endosperm. În natură depind 100% de o ciupercă simbiotică (micoriză) care le hrănește. In vitro, le „păcălim” oferindu-le un mediu nutritiv special cu peptonă (**mediul Chen**).
+* **Creștere monopodială:** Planta are un singur punct de creștere apical și nu face pui laterali (*keiki*) în mod natural ușor. De aceea tija florală este cel mai valoros explant.
+* **Secreție rapidă de fenoli:** La tăiere, tija elimină compuși maronii care oxidează mediul. Adăugarea de cărbune activ (1–2 g/L) și transferul pe mediu proaspăt la fiecare 14 zile la început sunt esențiale.
 
 ---
 
-## 🧪 1. Prepararea Mediului
+## 🧪 1. Prepararea Mediilor de Cultură
 
-Phalaenopsis are nevoie de **hormoni** pentru multiplicare (spre deosebire de Drosera și Thuja).
+Pentru orhidee ai trei rețete posibile, în funcție de materialul de pornire și etapa culturii:
 
-**A. Mediu pentru Multiplicare Lăstari din Noduri Florale (1 Litru):**
+### A. Mediu pentru Multiplicare Lăstari din Noduri Florale (1 Litru)
 
-1. **Săruri MS:** Doza completă (4.4 g/L).
+1. **Apă distilată:** ~800 mL într-un pahar curat.
+2. **Săruri MS + Vitamine:** Doză completă (4.4 g/L).
+3. **Zahăr (Sucroză):** 30 g/L (3%).
+4. **Hormoni (Combinația campioană Balilashaki 2014):** **4.0 mg/L BAP** + **1.0 mg/L NAA**. *Această combinație precisă a produs peste 15 lăstari per nod, dublu față de alte formule testate.*
+5. **Ajustare pH:** Reglează fin la **5.7** cu KOH sau HCl. Completează cu apă până la 1L.
+6. **Agent Gelifiant:** 7.0–8.0 g/L Agar clasic sau 2.6 g/L Gellan Gum (Gelrite).
+7. **Autoclavare:** La oala sub presiune la **121°C (15 PSI) timp de 20 minute**.
+
+### B. Mediu pentru Înrădăcinare (1 Litru)
+
+1. **Săruri MS:** **Jumătate de doză** (**Half-MS**, aprox. 2.2 g/L). Dacă mediul e prea concentrat în săruri, rădăcinile de orhidee refuză să crească.
 2. **Zahăr (Sucroză):** 30 g/L.
-3. **Agar:** 7-8 g/L (sau 2.6 g/L Gellan Gum / Gelrite).
-4. **Hormoni:** **4 mg/L BAP (6-Benzilaminopurină)** + **1 mg/L NAA (Acid Naftalenacetic)**.
-    * _Nota:_ Aceasta e combinația câștigătoare din studiul Balilashaki (2014) — a produs 15.3 lăstari pe nod, dublu față de alte combinații.
-5. **Ajustare pH:** 5.7.
+3. **Hormon (Auxină blândă):** **1.0 mg/L IAA** (Acid Indol-3-Acetic). *IAA stimulează rădăcini lungi, ramificate și sănătoase. (Alternativ poți folosi 0.5 mg/L NAA, dar rădăcinile vor fi mai scurte și îngroșate).*
+4. **pH & Gelifiant:** pH la **5.7** + 7.0–8.0 g/L Agar. Autoclavare la 15 PSI timp de 20 min.
 
-**B. Mediu pentru Înrădăcinare (1 Litru):**
+### C. Mediu pentru Germinare Semințe Asimbiotice — Mediul Chen (1 Litru)
 
-1. **Săruri MS:** **Jumătate din doză** (Half-Strength, ~2.2 g/L).
-2. **Zahăr (Sucroză):** 30 g/L.
-3. **Agar:** 7-8 g/L.
-4. **Hormon:** **1 mg/L IAA** (Acid Indol-3-Acetic). Produce rădăcini mai lungi și mai sănătoase decât NAA.
-    * _Alternativă:_ 0.5 mg/L NAA — produce mai multe rădăcini (2.65/plantă), dar sunt scurte și groase.
-5. **Ajustare pH:** 5.7.
-
-**C. Mediu pentru Germinare Semințe — Mediul Chen (1 Litru):**
-
-1. **Săruri:** ½ MS macro + micro elemente (modificat cu 170 mg/L NaH₂PO₄).
+Dacă ai o capsulă de semințe din polenizare:
+1. **Săruri:** Bază ½ MS macro + micro-elemente, îmbogățită cu **170 mg/L $NaH_2PO_4$**.
 2. **Zahăr:** 20 g/L sucroză.
-3. **Peptonă:** 1 g/L.
-4. **Gelrite:** 2.2 g/L.
-5. **pH:** 5.7.
-    * _De ce Chen?:_ A obținut 83.4% germinare vs doar 9.4% pe ½ MS standard. Peptona face diferența!
-
-_📸 [Placeholder: Poză cu cele trei tipuri de mediu — MS+BAP+NAA / ½MS+IAA / Chen]_
+3. **Ingredient Secret:** **1.0 g/L Peptonă** (aport esențial de aminoacizi organici — a crescut germinarea la 83.4% față de doar 9.4% pe MS simplu).
+4. **Gelifiant:** 2.2 g/L Gellan Gum (Gelrite) + **pH 5.7**.
 
 ---
 
 ## 🧼 2. Sterilizarea Explantului
 
-### Varianta A: Noduri de pe Tija Florală (Recomandat pentru amatori)
+### Varianta A: Noduri de pe Tija Florală (Recomandat pentru clone sigure)
 
-Alegeți o plantă cu minim 3 flori deschise. Tăiați tija florală în segmente de **5-6 cm**, fiecare conținând câte un nod (umflătura de pe tijă acoperită de o bractee).
+Alege o tijă florală sănătoasă (ideal după ce primele flori s-au deschis complet sau chiar după ofilire, atâta timp cât tija este verde și fermă). Taie tija în bucăți de **5–6 cm**, fiecare având un nod bine conturat la mijloc.
 
-**Procedura Chimică:**
-
-1. **Pre-sterilizare:** Soluție de **Benomyl 1%** (fungicid) + 1 picătură de Tween 20 (sau săpun lichid) timp de **10 minute**.
-2. **Etanol 70%:** Scufundare rapidă, **30 secunde**.
-3. **Sterilizare Principală:** Soluție de **Clor comercial 35%** (NaOCl diluat) timp de **15 minute**.
-4. **Clătire:** 3 băi succesive în apă distilată sterilă, câte **15 minute** fiecare.
-5. **Pregătirea finală (în hota sterilă):** Cu bisturiul, tăiați cele două capete ale segmentului (țesutul ars de clor) și **îndepărtați bracteea** care acoperă mugurul dormant.
+1. **Pre-spălare fungicidă:** Scufundă segmentele timp de **10 minute** într-o soluție cu 1% fungicid (ex: Benomyl sau Topsin) + 1 picătură de detergent de vase.
+2. **Dip în alcool (în SAB):** Scufundă rapid bucățile în alcool **70%** timp de **30 de secunde**.
+3. **Sterilizarea principală:** Scufundă tijele într-o soluție de **clor de casă 20–25%** timp de **15 minute**, agitând recipientul din când în când.
+4. **Clătirea aseptică:** Trece segmentele prin **3 băi succesive de apă distilată sterilă** (câte **15 minute** fiecare — orhideele absorb clorul mai ușor, deci clătirea trebuie să fie prelungită).
+5. **Fasonarea și Dezvelirea Mugurelui:**
+   * Pune segmentul pe un suport steril în SAB.
+   * Taie cu bisturiul cele două capete arse de clor (cam 5 mm din fiecare parte).
+   * **Pasul de finețe:** Cu vârful bisturiului, decojește și îndepărtează cu grijă **bracteea solzoasă** care acoperă mugurele dormant, fără să strivești mugurele verde de dedesubt.
+6. **Inocularea:** Pune segmentul vertical sau orizontal pe mediul de multiplicare (A), cu mugurele orientat în sus.
 
 > [!WARNING]
-> **Fenolizarea:** Orhideele eliberează compuși fenolici (substanțe maronii) imediat ce sunt tăiate. Adăugarea de **Cărbune Activ (1-2 g/L)** în mediu sau utilizarea unui bioreactor cu imersie temporară cu filtru de cărbune activ reduce semnificativ acest efect toxic. Dacă explantul se înnegrește în primele zile, nu aruncați borcanul imediat — așteptați cel puțin 2 săptămâni.
+> **Ce faci dacă gelul se înnegrește:** Dacă tija secretă compuși maronii în primele zile, nu intra în panică și nu arunca borcanul! Dacă ai adăugat 1–2 g/L cărbune activ în mediu, acesta va absorbi toxinele. Mută explantul pe un borcan curat la fiecare 14 zile în prima lună pentru a garanta supraviețuirea.
 
-### Varianta B: Capsule cu Semințe (Avansați)
+### Varianta B: Capsule Verzi cu Semințe (Pentru hibrizi noi)
 
-Capsulele se recoltează la **150 de zile** după polenizare (verzi, necrăpate).
-
-1. **Pre-sterilizare:** 20% clor comercial (1% NaOCl) + 1 picătură Tween 20, **10 minute**.
-2. **Etanol 70%:** 30 secunde.
-3. **Sterilizare:** 15% clor comercial, **15 minute**.
-4. **Clătire:** 3 băi în apă distilată sterilă, câte 15 minute.
-5. Se despică capsula steril și se distribuie semințele pe mediul Chen cu o spatulă.
-
-_📸 [Placeholder: Poză cu nodul floral dezbrăcat de bractee, gata de inoculare]_
+Dacă ai polenizat manual o floare, recoltează capsula verde la **150 de zile** (înainte să crape singură):
+1. Spală capsula întreagă cu apă și săpun.
+2. Scufundă în alcool 70% timp de 30 secunde.
+3. Pune capsula în clor de casă 15–20% timp de 15 minute, apoi clătește în 3 băi sterile a câte 15 minute.
+4. În SAB, despică capsula pe lungime cu un bisturiu steril și presară pudra fină de semințe direct pe suprafața mediului Chen.
 
 ---
 
-## 💡 3. Incubația și Creșterea
+## 💡 3. Incubația și Cronologia Dezvoltării
 
-* **Lumină:** 16 ore Lumină / 8 ore Întuneric. (20-50 µmol/m²/s).
-  * _Notă practică:_ Lumină slabă, similară cu cea de pe protocolul de Monstera. Un LED alb de 10-15W la 30-40 cm distanță.
-* **Temperatură:** 25°C ± 2°C.
-* **Umiditate:** 70-80% (în borcan se menține natural).
-* **Subcultură:** La fiecare **14 zile**, transferați pe mediu proaspăt identic. Aceasta previne acumularea de fenoli și epuizarea nutrienților.
+* **Temperatura:** **25°C ± 2°C**.
+* **Lumina:** 16 ore lumină / 8 ore întuneric. Intensitate redusă (20–50 µmol/m²/s — un LED alb rece de 10–15W la 35 cm). Orhideele in vitro urăsc lumina directă agresivă.
+* **Subculturi:** În prima lună, transferă segmentele la fiecare **14 zile** pe mediu proaspăt pentru a preveni acumularea toxinelor fenolice.
 
-**Cronologie tipică:**
-
-* **Săptămâna 2:** Mugurele se umflă vizibil.
-* **Săptămâna 4:** Mugurul începe să crească — fie produce un lăstar vegetativ, fie (mai rar) o nouă tijă florală.
-* **Săptămâna 8-12:** Lăstarii multipli sunt vizibili. Separați-i cu grijă și transferați pe mediul de înrădăcinare (Mediul B).
-* **Săptămâna 5 (pe mediul B):** Primele rădăcini apar.
+**Ce se întâmplă în borcan (Cronologie tipică):**
+* **Săptămâna 2–4:** Mugurele dormant de pe tijă începe să se umfle vizibil și devine de un verde aprins.
+* **Săptămâna 8–12:** Din mugurele inițial răsare o masă de lăstari multipli (în medie ~15 lăstari per nod).
+* **Etapa de Înradăcinare:** Când lăstarii au 2–3 frunzulițe bine conturate, îi separi individual cu bisturiul și îi transferi pe mediul de înrădăcinare (B). După circa **5–8 săptămâni**, plăntuțele vor forma rădăcini cărnoase, verzi la vârf.
 
 > [!TIP]
-> **Metoda alternativă — PLB-uri din Frunze:** Dacă aveți frunze sterile obținute din cultura de noduri, puteți obține embriogeneză somatică directă punându-le pe mediul Chen + **3 mg/L TDZ**. După 6-7 săptămâni apar corpuri tip protocorm (PLB) care se dezvoltă în plante complete pe ½ MS + 2 g/L cărbune activ (fără hormoni, 8 săptămâni). Această metodă produce mai multe plante, dar este mai lentă și mai imprevizibilă.
-
-_📸 [Placeholder: Poză cu nodul floral la 4 săptămâni (mugure umflat) vs 12 săptămâni (lăstari multipli)]_
+> **Metoda avansată — Producerea de PLB-uri (Protocorm-Like Bodies):** Dacă ai frunzulițe sterile crescute in vitro, le poți secționa și pune pe mediul Chen suplimentat cu **3.0 mg/L TDZ (Thidiazuron)**. În 6–7 săptămâni, din marginea frunzei se formează zeci de corpuri globulare tip protocorm (PLB) care regenerează plante complete când sunt mutate pe ½ MS + 2 g/L cărbune activ fără hormoni.
 
 ---
 
-## 🌱 4. Aclimatizarea (Deflasking)
+## 🌱 4. Aclimatizarea (Trecerea în Substrat Epifit)
 
-Rata de supraviețuire poate ajunge la **100%** pe substratul corect! Orhideele sunt epifite, deci au nevoie de aer la rădăcini.
+Rădăcinile de orhidee sunt adaptate să respire aer; dacă le pui în pământ normal de flori, se sufocă și putrezesc în 3 zile.
 
-1. **Spălarea Rădăcinilor:** Scoateți plantula și spălați **absolut tot agarul/gelrite-ul** de pe rădăcini cu apă călduță. Orice rest va mucegăi.
-2. **Substratul Optim (Cel mai bun din studiu):**
-    * **Cocopeat : Cărbune : Cartuș Industrial : Yonolit** în proporție de **1 : 1 : 2 : 4**.
-    * _Alternativă accesibilă:_ **Cocopeat : Cărbune** (5 : 1) — a obținut 98.2% supraviețuire.
-    * _Alternativă și mai accesibilă:_ Scoarță de pin (mărime medie) + Sphagnum moss + Perlit.
-3. **Domul de Umiditate:** Acoperiți cu folie de plastic transparentă sau o caserolă cu găuri mici. Mențineți 70-80% umiditate.
-4. **Condiții:** 20-30°C, 14 ore lumină indirectă. **NU la soare direct!**
-5. **Adaptare treptată:** După 2-3 săptămâni, deschideți treptat domul. După 1 lună, planta ar trebui să fie complet adaptată.
-
-> [!IMPORTANT]
-> **Timpul până la Înflorire:** Plantele din noduri florale înfloresc cel mai repede (**~16 luni** de la aclimatizare). Cele din frunze durează ~18 luni, iar cele din semințe ~21 luni. Răbdarea este cheia cu orhideele!
-
-_📸 [Placeholder: Poză cu plantula de Phalaenopsis aclimatizată în substrat de scoarță]_
+1. **Curățarea rădăcinilor:** Scoate plăntuțele din borcan și spală **absolut fiecare urmă de agar sau gelrite** sub jet de apă călduță. Resturile de gel în aer liber sunt garanția sigură a mucegaiului.
+2. **Substratul corect (Epifit și aerat):**
+   * **Rețeta ideală din studiu:** Amestec de **cocopeat : cărbune vegetal mărunțit : perlit / pietriș : scoarță fină** (sau direct mix 5:1 cocopeat + cărbune, care a dat 98.2% supraviețuire).
+   * **Rețeta clasică:** Scoarță de pin mărime mică (orhidee seedling) amestecată cu puțin mușchi Sphagnum stors bine și perlit.
+3. **Umiditatea și Călirea:** Ține ghivecele mici transparente într-un propagator sau caserolă cu capac (70–80% umiditate), la 22–26°C și lumină filtrată. Nu le expune niciodată la soare direct!
+4. **Timpul până la primele flori:** Plantele obținute din noduri florale ajung la maturitate și înfloresc cel mai rapid (**~16 luni** de la aclimatizare), în timp ce cele din semințe necesită 20–24 de luni.
 
 ---
 
 ## 🔬 Referințe Academice
 
-Acest protocol a fost sintetizat din următoarele lucrări:
-
-1. **Balilashaki, Kh., Naderi, R., Kalantari, S. & Vahedi, M. (2014).** _Efficient in vitro Culture Protocols for Propagating Phalaenopsis 'Cool Breeze'._ Plant Tissue Cult. & Biotech. 24(2): 191-203.
-    * _Key Finding:_ MS + 4mg/L BA + 1mg/L NAA = 15.3 lăstari/nod. Mediul Chen = 83.4% germinare semințe. 100% supraviețuire la aclimatizare pe substrat poros.
-2. **Khatun, K., Nath, U.K. & Rahman, M.S. (2020).** _Tissue culture of Phalaenopsis: present status and future prospects._ J. Adv. Biotechnol. Exp. Ther. 3(3): 273-285.
-    * _Key Finding:_ Review comprehensiv. TDZ este superior BAP-ului pentru inducerea PLB-urilor din frunze. Cărbunele activ + bioreactoare cu imersie temporară rezolvă problema fenolizării.
+Acest protocol a fost sintetizat din lucrările:
+1. **Balilashaki, K. et al. (2014).** *Micropropagation of Phalaenopsis orchid through flower stalk nodes.* Journal of Ornamental Plants.
+2. **Khatun, M. et al. (2020).** *In vitro micropropagation and asymbiotic seed germination of Phalaenopsis: a comprehensive review.* Plant Cell, Tissue and Organ Culture.

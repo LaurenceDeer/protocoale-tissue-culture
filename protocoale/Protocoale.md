@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Protocoale & Specii
-description: "Baza de date cu protocoale open-source de plant tissue culture. Rețete clare pentru sterilizare și medii pentru Monstera, Drosera, Philodendron și altele."
+description: "Baza de date cu protocoale open-source de plant tissue culture. Rețete clare pentru sterilizare și medii pentru Monstera, Drosera, Bananier, Orhidee și altele."
 ---
 
-# 🧬 Baza de Date: Protocoale
+# 🧬 Baza de Date: Protocoale de Micropropagare
 
-Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De la concentrația de clor pentru sterilizare, până la miligramele exacte de hormoni (BAP/NAA/IBA) folosite pentru a obține o cultură de succes.
+Aici găsești caietul deschis de rețete testate de laborator și comunitate pentru fiecare specie în parte. Trecem direct la subiect: de la diluția exactă de clor și surfactant pentru a scăpa de spori fără să arzi explantul, până la miligramele precise de hormoni (BAP, NAA, IAA, IBA) și ajustarea pH-ului.
 
 <style>
 .filter-container {
@@ -100,49 +100,49 @@ Aici găsești rețetele exacte testate de comunitate pentru diferite specii. De
   <div class="home-card" data-category="gesneriaceae" data-difficulty="usoara" data-hormones="cu">
     <a href="saintpaulia.html">
       <h2 style="color: var(--accent-amber);">🌸 Violetă Africană (Saintpaulia)</h2>
-      <p>Gesneriaceae. Multiplicare prin organogeneză directă din fragmente de frunze cu BAP+NAA și înrădăcinare pe 1/2 MS. Nivel: Ușor.</p>
+      <p>Gesneriaceae. Protocolul ideal de start: regenerare directă din bucățele de frunză pe MS + BAP/NAA și rată de supraviețuire de 92%+. Nivel: Ușor.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="carnivore" data-difficulty="medie" data-hormones="fara">
     <a href="drosera.html">
       <h2 style="color: var(--accent-amber);">🌱 Drosera (Roua Cerului)</h2>
-      <p>Plantă carnivoră. Protocol complet pentru germinare in vitro și multiplicare. Nivel dificultate: Ușor/Mediu.</p>
+      <p>Plantă carnivoră. Multiplicare explozivă (40+ plante/explant) pe mediu MS complet fără niciun hormon adăugat. Nivel: Mediu.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="carnivore" data-difficulty="medie" data-hormones="cu">
     <a href="nepenthes.html">
       <h2 style="color: var(--accent-amber);">🩸 Pitcher Plant (Nepenthes)</h2>
-      <p>Plantă carnivoră. Protocol pe mediu WPM cu cărbune activ pentru a preveni arderea rădăcinilor și secreția de fenoli. Nivel: Mediu.</p>
+      <p>Plantă carnivoră agățătoare. Rețetă pe mediu WPM cu cărbune activ pentru a preveni toxicitatea salină și fenolizarea. Nivel: Mediu.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="aroide" data-difficulty="grea" data-hormones="cu">
     <a href="monstera.html">
       <h2 style="color: var(--accent-amber);">🌿 Monstera (Deliciosa / Thai) </h2>
-      <p>Aroide. Protocol extragere muguri axilari, mediu cu citokinine (BAP) și aclimatizare biostimulată. Nivel: Greu.</p>
+      <p>Aroide de mare valoare. Dublă sterilizare la bisturiu, doze optime de BAP (7.5 mg/L) și aclimatizare în substrat ultra-aerat. Nivel: Greu.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="tropicale" data-difficulty="medie" data-hormones="cu">
     <a href="musa.html">
       <h2 style="color: var(--accent-amber);">🍌 Bananier (Musa spp.)</h2>
-      <p>Plantă tropicală. Multiplicare masivă pe mediu MS cu adaos de antioxidanți (acid ascorbic) și conservare la rece (15°C). Nivel: Mediu.</p>
+      <p>Plantă tropicală. Multiplicare masivă din drajoni tineri, combaterea gelului negru cu acid ascorbic și conservare la 15°C. Nivel: Mediu.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="conifere" data-difficulty="medie" data-hormones="cu">
     <a href="thuja.html">
       <h2 style="color: var(--accent-amber);">🌲 Thuja Occidentalis (Tuia)</h2>
-      <p>Coniferă ornamentală. Protocol fără hormoni cu rată de succes 100%. Nivel: Mediu.</p>
+      <p>Coniferă ornamentală. Cel mai ieftin protocol: 100% succes pe mediu MS0 fără hormoni și înrădăcinare pe ½ MS cu IBA. Nivel: Mediu.</p>
     </a>
   </div>
 
   <div class="home-card" data-category="orhidee" data-difficulty="grea" data-hormones="cu">
     <a href="phalaenopsis.html">
       <h2 style="color: var(--accent-amber);">🌸 Orhidee (Phalaenopsis)</h2>
-      <p>Orhidee Moth. Multiplicare din noduri florale cu BAP+NAA sau germinare asimbiotică pe mediul Chen. Nivel: Greu.</p>
+      <p>Orhidee Moth. Multiplicare clonală direct din noduri de tijă florală (cu planta-mamă salvată) sau germinare pe mediul Chen. Nivel: Greu.</p>
     </a>
   </div>
 

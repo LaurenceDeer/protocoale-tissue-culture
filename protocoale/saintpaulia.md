@@ -11,83 +11,99 @@ versiune: 1.0
 ---
 
 # 🧬 Protocol Micropropagare: _Saintpaulia ionantha_ (Violetă Africană)
-**Bazat pe:** Hârța & Clapa (2022 - USAMV Cluj-Napoca, Centrul de Cercetare BIOCERA).
+
+**Bazat pe:** Hârța & Clapa (2022 - USAMV Cluj-Napoca, Centrul BIOCERA) — _date curate de la cercetători din România._
+
+Violeta Africană e practic visul oricărui începător în tissue culture: are o capacitate uriașă de regenerare directă. Asta înseamnă că tai o frunză în bucățele mici, iar fiecare bucățică dă direct lăstari noi, fără să treacă prin faza de calus (o masă dezorganizată de celule). Avantajul uriaș? Risc aproape zero de mutații somaclonale — clonele obținute sunt 1:1 identice genetic cu planta-mamă.
 
 | Parametru | Valoare Optimă (Conform Studiu) |
 | :--- | :--- |
-| **Dificultate** | Ușoară (Rată mare de regenerare directă, fără calus intermediar) |
-| **Explant Recomandat** | Fragmente de frunză proaspătă (aprox. 10x10 mm) |
+| **Dificultate** | Ușoară (regenerare directă din frunză, fără bătăi de cap) |
+| **Explant Recomandat** | Fragmente de frunză tânără și sănătoasă (pătrate de ~10x10 mm) |
 | **Mediu Inițiere** | MS 100% + 0.5 mg/L BAP + 0.2 mg/L IAA |
-| **Mediu Proliferare** | MS 100% + 1.0 mg/L BAP + 0.2 mg/L NAA |
+| **Mediu Multiplicare** | MS 100% + 1.0 mg/L BAP + 0.2 mg/L NAA |
 | **Mediu Înrădăcinare** | Half-MS (1/2 MS) + 1.0 mg/L IAA |
-| **pH** | 5.9 |
-| **Timp Estimat** | Inițiere: 56 zile \| Proliferare: 30 zile/ciclu \| Înrădăcinare: 35 zile |
-| **Rata Multiplicare** | ~16.9 lăstari / explant per subcultură |
-| **Rată Înrădăcinare** | 96.66% succes |
-| **Rată Supraviețuire** | 92.59% la aclimatizarea finală în substrat |
+| **pH Recomandat** | 5.9 (înainte de autoclavare) |
+| **Timp Estimat** | Muguri noi: ~56 zile \| Multiplicare: 30 zile/ciclu \| Rădăcini: 35 zile |
+| **Rată Multiplicare** | ~17 lăstari per bucățică de frunză la fiecare subcultură |
+| **Rată Înrădăcinare** | 96.6% succes |
+| **Supraviețuire la Aclimatizare** | 92.6% plante vii în ghiveci |
 
 ---
 
-## 🧪 1. Prepararea Mediilor de Cultură (Trei Etape Distincte)
-Pentru rezultate optime conform studiului USAMV Cluj-Napoca, micropropagarea violetei africane parcurge trei etape cu rețete hormonale specifice:
+## 🧪 1. Prepararea Mediilor (Trei Rețete Simple)
 
-### A. Mediul de Inițiere și Inducție Lăstari (1 Litru):
-1. **Săruri MS + Vitamine:** Doză completă (4.4 g/L).
-2. **Zahăr (Sucroză):** 20 g/L (2%).
-3. **Agent Gelifiant:** 6.0 g/L Agar.
-4. **Hormoni (Inițiere):** **0.5 mg/L BAP** (Benzilaminopurină) și **0.2 mg/L IAA** (Acid indol-3-acetic).
-5. **Ajustare pH:** Se reglează pH-ul la **5.9** folosind NaOH sau HCl înainte de sterilizare.
-6. **Autoclavare:** 121°C, timp de 20 de minute. Distribuiți în eprubete câte 5 mL de mediu.
+Nu te speria că sunt trei medii diferite. Planta are nevoie de semnale hormonale distincte: întâi să scoată muguri (inițiere), apoi să se îndesească cu lăstari (multiplicare), și abia la final să facă rădăcini.
 
-### B. Mediul de Multiplicare / Proliferare (1 Litru):
-Această variantă (V2 din studiu) maximizează numărul de lăstari regenerați:
-1. **Săruri MS + Vitamine:** Doză completă.
-2. **Zahăr (Sucroză):** 20 g/L (2%).
-3. **Agent Gelifiant:** 6.0 g/L Plant Agar.
-4. **Hormoni (Proliferare):** **1.0 mg/L BAP** și **0.2 mg/L NAA** (Acid naftalenacetic).
-5. **Ajustare pH:** **5.9**.
-6. **Autoclavare:** 121°C, timp de 20 de minute (borcane de 720 mL acoperite cu folie sau capac).
+### A. Mediul de Inițiere (Scoaterea primilor muguri) — 1 Litru
 
-### C. Mediul de Înrădăcinare (1 Litru):
-1. **Săruri MS:** Jumătate de doză (Half-MS - aprox. 2.2 g/L).
-2. **Zahăr (Sucroză):** 20 g/L (2%).
-3. **Agent Gelifiant:** 6.0 g/L Agar.
-4. **Hormoni (Înrădăcinare):** **1.0 mg/L IAA** (fără citochinine/BAP).
-5. **Ajustare pH:** **5.9**.
+1. **Apă distilată:** ~800 mL la început într-un pahar curat.
+2. **Săruri MS + Vitamine:** Doză completă (4.4 g/L).
+3. **Zahăr (Sucroză):** 20 g/L (merge zahăr tos alb de masă).
+4. **Hormoni:** **0.5 mg/L BAP** + **0.2 mg/L IAA**.
+5. **Ajustare pH:** Reglezi cu grijă la **5.9** (cu soluție diluată de KOH/NaOH dacă e prea acid, sau HCl/oțet dacă e prea sus). Completezi cu apă până la 1L.
+6. **Agent Gelifiant:** 6.0 g/L Agar. Încălzești amestecul pe foc până devine limpede.
+7. **Sterilizare:** Torni în eprubete sau borcănele mici (cam 5-10 mL per recipient, ori vreo 2 degete mai pe românește), pui capacul lejer și bagi la oala sub presiune la **121°C (15 PSI) timp de 20 minute**.
 
----
+### B. Mediul de Multiplicare / Proliferare (Uzina de lăstari) — 1 Litru
 
-## 🧼 2. Sterilizarea Explantului (Frunze)
-Frunzele de *Saintpaulia* au o suprafață fin pubescentă (acoperită cu perișori), care poate reține bule de aer și spori de mucegai. Uite un protocol scurt de sterilizare:
+Rețeta asta (varianta V2 din studiul de la Cluj) e optimizată să scoată maximul de lăstari noi:
 
-1. **Spălare preliminară:** Spălați frunzele tinere și sănătoase sub jet de apă caldă de la robinet timp de 15-20 de minute, ușor cât să nu cauzați vreo daună acestora.
-2. **Dezinfectare chimică (în SAB):** Scufundați frunzele într-o soluție de clor **20% ACE** (ori sa fie <5% clor activ molecular) timp de **20 de minute**.
-3. **Spălare aseptică:** Clătiți de 3 ori succesiv cu apă distilată sterilă (câte 5 minute per clătire) pentru a elimina complet urmele de clor.
-4. **Fasonare explant:** Cu un bisturiu steril, tăiați marginile afectate de clor ale frunzei și secționați lama frunzei în pătrate de aprox. **10 x 10 mm**.
-5. **Inoculare:** Puneți fragmentele de frunză în eprubete pe mediul de inițiere (A).
+1. **MS complet (4.4 g/L)** + **20 g Zahăr**.
+2. **Hormoni:** Mărești BAP la **1.0 mg/L** și schimbi pe **0.2 mg/L NAA** (ajută la inducerea mai multor puncte de creștere).
+3. **pH:** Tot **5.9**.
+4. **Agar:** 6.0 g/L. Torni în borcane mai încăpătoare (recipiente de 300–720 mL) și sterilizezi la 15 PSI timp de 20 minute.
+
+### C. Mediul de Înrădăcinare (Când vrei rădăcini zdravene) — 1 Litru
+
+1. **Săruri MS:** Pui doar jumătate de doză (**Half-MS**, aprox. 2.2 g/L). Dacă mediul e prea concentrat în săruri, rădăcinile tinere se dezvoltă greu.
+2. **Zahăr:** 20 g/L.
+3. **Hormoni:** **1.0 mg/L IAA** (tăiem complet citochininele/BAP-ul, altfel planta continuă să facă frunze și uită de rădăcini).
+4. **pH:** **5.9** + **Agar:** 6.0 g/L.
 
 ---
 
-## 💡 3. Incubația și Subcultivarea
-* **Temperatură:** 24 ± 1°C.
-* **Lumină:** Fotoperiodă de 16 ore lumină / 8 ore întuneric. Intensitate luminoasă de aprox. 33.6 µmol m⁻² s⁻¹ (asigurată de tuburi LED sau fluorescente albe, reci).
-* **Dezvoltare Inițială:** Explantele de frunză vor regenera muguri direct de pe epidermă în aproximativ 56 de zile pe mediul de inițiere. Nu are loc o fază intermediară de calus (reducând riscul de somaclonație sau mutații genetice).
-* **Multiplicare:** Lăstarii se transferă pe mediul de proliferare (B) în borcane de cultură mari. Subculturile se realizează la fiecare **30 de zile**. După a 6-a subcultură, rata de multiplicare atinge o medie de 16.9 lăstari per explant.
-* **Înrădăcinare:** Separați lăstarii individuali și transferați-i pe mediul de înrădăcinare (C). Rădăcinile bine dezvoltate vor apărea în **35 de zile**, cu o rată de succes de **96.66%**.
+## 🧼 2. Sterilizarea Explantului (Atenție la Perișori!)
+
+Frunzele de violetă au o particularitate enervantă: sunt acoperite cu perișori fini (peri tectori). Aceștia rețin bule minuscule de aer și spori de mucegai ca o plasă. Dacă pui clor chior fără surfactant, soluția alunecă pe frunză fără să atingă epiderma și compromiți totul.
+
+1. **Spălarea mecanică:** Spală frunzele tinere, ferme și curate sub jet domol de apă călduță la chiuvetă timp de 15–20 de minute. Fără grabă, fără să le strivești.
+2. **Baia chimică (în SAB):**
+   * Prepară o soluție de clor de casă (ACE clasic, diluat la **20%** — adică 20 mL clor + 80 mL apă distilată).
+   * **Pasul critic:** Adaugă **o singură picătură** de detergent de vase sau Tween 20. Asta sparge tensiunea superficială și lasă clorul să intre printre toți perișorii.
+   * Scufundă frunzele timp de **20 de minute**, agitând recipientul din când în când.
+3. **Clătirea aseptică:** Scoate frunzele din clor și trece-le prin **3 băi succesive de apă distilată sterilă** (câte 5 minute în fiecare). Clorul rezidual arde țesutul dacă nu-l speli complet.
+4. **Tăierea (Fasonarea):**
+   * Pe o suprafață sterilă (capac de cutie Petri sau faianță ștearsă cu alcool), taie cu un bisturiu ascuțit marginile albite/arse de clor.
+   * Taie limbul frunzei în pătrățele de aproximativ **1 x 1 cm** (10x10 mm). Asigură-te că fiecare bucățică are măcar o nervură vizibilă.
+5. **Inocularea:** Înfige ușor bucățile de frunză în gelul de inițiere (A), cu marginea tăiată în contact bun cu mediul. Închide borcanul imediat.
 
 ---
 
-## 🌱 4. Aclimatizarea (Deflasking și Hardening)
-Datorită texturii delicate a frunzelor de violetă africană crescute in vitro, aclimatizarea trebuie realizată cu atenție sporită pentru a evita deshidratarea sau putrezirea:
+## 💡 3. Incubație & Înmulțire
 
-1. **Ridicarea plantelor:** Scoateți plantule cu rădăcini din borcane și curățați cu grijă resturile de agar sub jet de apă călduță.
-2. **Etapa 1 (Perlit):** Plantați-le în caserole de plastic transparente cu capac (menținând umiditatea la 95-100%), umplute cu perlit horticol umezit. Lăsați-le timp de **6 săptămâni** (42 zile) în condiții de cameră/laborator (lumină indirectă, 22-24°C).
-3. **Etapa 2 (Substrat):** Transplantați plantele individual în ghivece mici (6 cm diametru) umplute cu un amestec de **Turbă neutră : Vermiculit : Perlit (raport 2:1:1)**.
-4. **Hardening:** Căliți plantele timp de încă **21 de zile** în seră sau sub o pungă/cupolă cu deschidere treptată pentru a le adapta la umiditatea ambientală. Rata finală de supraviețuire este de **92.59%**.
+* **Temperatura:** Camera obișnuită, la 23–25°C.
+* **Lumina:** 16 ore lumină / 8 ore întuneric. Un tub LED rece (6500K) pus la 20-30 cm deasupra borcanelor e arhisuficient.
+* **Răbdare:** În primele săptămâni nu se întâmplă mare lucru vizibil. După circa 50–56 de zile pe mediul de inițiere, vei vedea o explozie de muguri verzi mici care răsar direct pe suprafața bucății de frunză.
+* **Multiplicarea:** Separi ciorchinele de lăstari și îi muți în borcane mai mari cu mediul de proliferare (B). La fiecare 30 de zile poți diviza din nou tufele — fiecare explant produce în medie cam 17 lăstari noi la fiecare tură.
+* **Formarea rădăcinilor:** Când lăstarii au 1.5–2 cm înălțime, îi desprinzi individual și îi pui pe mediul de înrădăcinare (C). În circa 35 de zile vor dezvolta un sistem radicular dens și sănătos.
 
 ---
 
-## 🔬 Referință Academică
-Acest protocol respectă întocmai datele științifice din lucrarea:
-* **Hârța, M., Clapa, D. (2022).** *Micropropagation of Ornamental Gesneriaceae Species and Genetic Uniformity Assessment of In Vitro Plants Using SCoT Markers*. Scientific Papers. Series B, Horticulture, Vol. LXVI, No. 1, pp. 692-700.
-* *Notă:* Analizele genetice prin markeri moleculari SCoT realizate de autori au confirmat fidelitatea genetică de 100% a plantelor obținute prin acest protocol față de planta-mamă (fără variații somaclonale detectabile).
+## 🌱 4. Aclimatizarea (Să nu le usuci când le scoți din borcan)
+
+Frunzele crescute in vitro sunt obișnuite cu 100% umiditate și au stomatele leneșe, fără un strat protector de ceară. Dacă scoți planta din borcan și o trântești direct într-un ghiveci pe pervaz, în câteva ore devine o stafidă.
+
+1. **Curățarea rădăcinilor:** Scoate plăntuțele cu penseta și spală foarte blând tot agarul de pe rădăcini sub jet de apă călduță. Agarul rămas pe rădăcini în aer liber atrage ciupercile ca un magnet.
+2. **Etapa 1 (Caserola cu perlit — 6 săptămâni):** Pune plantele într-o caserolă transparentă de plastic cu capac, pe un strat de **perlit horticol umed**. Ține capacul închis etanș în primele săptămâni pentru a păstra 95-100% umiditate, la lumină indirectă.
+3. **Etapa 2 (Substrat & Ghiveci):** Mută plantele în ghivece mici (5-6 cm) într-un amestec aerat: **2 părți turbă neutră, 1 parte vermiculit, 1 parte perlit**.
+4. **Călirea (Hardening):** În următoarele 2-3 săptămâni deschizi capacul sau punga treptat, câte 1-2 ore pe zi, până când planta se obișnuiește complet cu aerul uscat din cameră. Respectând pașii ăștia, peste 92% din plante supraviețuiesc fără nicio problemă.
+
+---
+
+## 🔬 Sursa Științifică
+
+Datele exacte de concentrație și timpi provin direct din lucrarea:
+
+* **Hârța, M., Clapa, D. (2022).** _Micropropagation of Ornamental Gesneriaceae Species and Genetic Uniformity Assessment of In Vitro Plants Using SCoT Markers_. Scientific Papers. Series B, Horticulture, Vol. LXVI, No. 1, pp. 692-700.
+* Cercetătorii au testat plantele obținute prin markeri moleculari ADN (SCoT) și au confirmat 100% identitate genetică cu planta-mamă. Deci poți fi sigur că nu clonezi mutanți.

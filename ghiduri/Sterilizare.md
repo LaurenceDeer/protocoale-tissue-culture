@@ -1,104 +1,94 @@
 ---
 layout: default
 title: Sterilizarea - Protocolul Zero
-description: "Protocoale eficiente de sterilizare chimică a explantelor folosind clor, peroxid sau alcool, fără a distruge țesutul vegetal."
+description: "Protocoale eficiente de sterilizare termică la 121°C (15 PSI) și dezinfectare chimică a explantelor cu clor și surfactant, fără a arde țesutul vegetal."
 ---
 
-# ☢️ Sterilizarea: Arta de a ucide tot (nu și planta, hopefully..)
-> *"În Tissue Culture, inocuitatea nu e păgânism. E singura religie."*
+# ☢️ Sterilizarea: Protocolul Zero
 
-Poți să ai cel mai bun mediu MS, cei mai scumpi hormoni și cea mai rară orhidee. Dacă a intrat un singur spor de mucegai în borcan, ai pierdut. Game Over.
-Aici nu ne jucăm. Urmăm protocolul "[PlantsInJars](https://www.youtube.com/watch?v=LTA8EHBNKPM)" combinat cu rigoarea științifică.
+> *„În tissue culture, asepsia nu este o opțiune. Este singura regulă care decide dacă ai o cultură curată sau o fermă de mucegai.”*
 
----
+Poți avea cel mai performant mediu MS, cei mai scumpi hormoni și cea mai rară plantă tropicală din lume: dacă un singur spor de mucegai sau o singură bacterie a supraviețuit în borcan, în 48–72 de ore totul este compromis.
 
-## 🔥 1. Sterilizarea Mediului (în borcane)
-Aici folosim **Căldura și Presiunea**.
-Nu poți folosi doar fierberea simplă (100°C) pentru că sporii rezistenți supraviețuiesc, și crede-mă, avem destui spori rezistenți în aer, zi de zi. Ai nevoie de **121°C la 15 PSI**.
-
-### 🛠️ Sculele necesare:
-* **Oala sub Presiune (Pressure Cooker):** Orice oală care duce 15 PSI.
-* **Sau Instant Pot Max:** Doar modelele care ating 15 PSI (celelalte sunt jucării, nu o sa meargă la fel de bine).
-* **Microunde?** 🛑 **NU.** Laur (de la PIJ) a zis clar: *"I no longer recommend that method... it's really not that effective."* Deci uită de el.
-
-### 👨‍🍳 Protocolul "Pressure Cooker" (Pas cu Pas):
-
-1.  **Pregătirea Oalei (Hack-ul Sărăciei):**
-    * Pune cam 3 litri de apă (sau "12 cups" cum zice americanul) în oală.
-    * **Bilele de Staniol:** Nu ai grătar distanțier? Nu-i bai. Fă 3 bile mari din folie de aluminiu și aruncă-le în apă. Pune un grătar sau o farfurie termorezistentă peste ele. Ăsta e suportul tău ca să nu stea borcanele în apă.
-2.  **Încărcarea:**
-    * Pune borcanele cu mediu pe suport.
-    * ⚠️ **CRITIC:** **Nu înfileta capacele/nu le închide ermetic!** Dacă le închizi, presiunea le va deforma ("PV=nRT or whatever", vorba aia). Lasă-le doar așezate pe filet, să respire.
-3.  **Venting (Aerisirea - Pasul pe care toți îl greșesc):**
-    * Pune capacul oalei. Dă focul la maxim.
-    * Lasă valva deschisă (sau scoate greutatea).
-    * Când începe să iasă abur continuu ("locomotiva"), **pornește cronometrul pentru 10 minute**.
-    * *De ce?* Trebuie să scoți tot aerul afară. Dacă ai amestec de aer + abur, temperatura nu ajunge la 121°C. Vrem doar abur pur.
-4.  **Presurizarea (Cook):**
-    * După cele 10 minute de venting, pune greutatea/închide valva.
-    * Așteaptă să ajungă la 15 PSI (când fâsâie constant și tare).
-    * Acum începe sterilizarea reală: **Timp: 15 Minute**.
-    * Notă: dacă cumva crește presiunea peste 15PSI la orice pas, doar dă focul mai încet până ajunge înapoi la 15. 15 e numărul nostru magic aici!
-5.  **Răcirea:**
-    * Oprește focul. **NU DESCHIDE OALA!** Las-o să se răcească natural până scade presiunea la zero.
-    * Când e rece, dă-te pe mâini cu alcool 70%, deschide oala și înfiletează rapid capacele borcanelor. Nu respira peste ele!
+Sterilizarea se împarte în două capitole distincte: **sterilizarea termică** (pentru medii și recipiente) și **sterilizarea chimică** (pentru țesutul vegetal viu).
 
 ---
 
-## 🔪 2. Sterilizarea Instrumentelor & Spațiului
-Mediul e curat. Acum trebuie să fii și tu curat.
+## 🔥 1. Sterilizarea Termică a Mediului (În Borcane)
 
-### SAB (Still Air Box) - "Cutia cu aer mort"
-Nu îți trebuie hotă laminară de 1000$ (Glumesc, pot ajunge să coste mult mai mult). Îți trebuie o cutie de plastic transparent (IKEA/Dedeman) cu două găuri pentru mâini.
-* **Scop:** Să oprească curenții de aer care plimbă praful și sporii.
-* **Alcoolul:** Folosește **IPA 70% (Izopropilic)**, NU 91% sau 99%.
-    * *Science Fact:* Alcoolul de 99% se evaporă prea repede și doar "sigilează" bacteriile. Cel de 70% are apă, care ajută alcoolul să penetreze membrana bacteriei.
-    * **Procedura:** Spray everything! Pereții cutiei, masa, mâinile tale. Să miroasă a spital.
+Fierberea simplă a apei la 100°C la nivelul mării nu este suficientă: endosporii bacterieni rezistenți supraviețuiesc fără probleme la 100°C. Standardul de aur în microbiologie este **121°C la o presiune de 15 PSI (aprox. 1 atmosferă peste presiunea ambientală)**.
 
-### Instrumentele (Pensete, Bisturiu)
-* Înfășoară-le în folie de aluminiu.
-* Bagă-le în oala sub presiune odată cu mediul (dacă ai loc) sau separat. 
+### Ce echipament folosim?
+* **Oala sub presiune clasică (Pressure Cooker):** Orice oală bună de bucătărie capabilă să mențină 15 PSI.
+* **Instant Pot cu opțiune Max (15 PSI):** Atenție: modelele standard ating doar 10–11 PSI și cer timpi prelungiți (45+ min), deci o oală mecanică de aragaz la 15 PSI este net superioară.
+* 🛑 **Cuptorul cu microunde? NU.** Încălzirea în microunde este neuniformă, nu creează presiune, lichidul dă în foc și riscul de contaminare rămâne uriaș.
 
 ---
 
-## 🌿 3. Sterilizarea Explantului (Chimie Grea)
-Aici e "Dansul Morții". Folosim înălbitor (Bleach) pentru a omorî bacteriile de pe plantă, sperând că planta supraviețuiește.
+### 👨‍🍳 Protocolul Oalei sub Presiune (Pas cu Pas):
 
-### "Poțiunea Magică":
-1.  **Clorul (Bleach):**
-    * Soluție 10% - 20% (Ex: 100ml Clor + 900ml Apă Distilată).
-2.  **Surfactantul (Secretul):**
-    * Adaugă **o picătură de detergent de vase** în soluția de clor.
-    * *De ce?* Apa are tensiune superficială. Fără detergent, clorul nu intră în crăpăturile fine ale plantei. Detergentul sparge acea tensiune și lasă clorul să atace peste tot.
-      
-⚠️ AVERTISMENTUL DE MOARTE (Serios)
-
-Detergentul de vase e ok, dar NICIODATĂ nu amesteca clorul cu:
-
-❌ Amoniac: (Se găsește în soluții de geamuri sau detergenți vechi). Creează gaz Cloramină -> Îți arde plămânii. VERIFICĂ ÎNTOTDEAUNA CE SCRIE PE ETICHETE!!!
-
-❌ Oțet / Acizi: Creează gaz Clor pur -> Armă chimică din Primul Război Mondial!
-
-❌ Alcool: (Nu turna clor peste alcoolul din borcan). Creează Cloroform -> Te adoarme (și îți distruge ficatul).
-
-
-### Protocolul de Spălare:
-1.  **Pre-spălare:** Spală planta la robinet cu apă și săpun de vase. Freacă bine (fără să o rupi). Scapă de pământ.
-2.  **Alcool (Opțional dar recomandat):** Scufundă planta 30 secunde în Alcool 70%. Nu uita să o scufunzi mai apoi în apă distilată ca să scapi de alcool, doar nu vrei să creezi cloroform!!!
-3.  **Baia de Clor:**
-    * Bagă planta în borcanul cu clor + detergent.
-    * Pune-l pe agitator magnetic (sau agită-l tu cu mâna).
-    * **TIMP:** Aici e cheia!
-        * Pentru Monstera/Plante lemnoase: **15-20 minute**.
-        * Pentru Drosera/Violete/Plante moi: **5-7 minute MAXIM!** (Dacă le ții 20 min, le faci pireu).
-4.  **Clătirea (The Rinse):**
-    * Scoate planta (în SAB!).
-    * Clătește-o în **3 borcane diferite** cu Apă Distilată Sterilă (sterilizată la oala sub presiune odată cu mediul).
-    * 3 minute în fiecare borcan. Trebuie să scapi de tot clorul.
+1. **Nivelul apei & Distanțierul:**
+   * Pune 2–3 litri de apă în oală (aproximativ 3–4 cm înălțime pe fund).
+   * **Hack-ul distanțierului:** Borcanele nu trebuie să stea direct pe fundul oalei (altfel se pot sparge de la căldura directă). Dacă nu ai grătar metalic, mototolește 3–4 bile mari din folie de aluminiu (staniol) și așază peste ele o farfurie termorezistentă întoarsă sau un grătar mic.
+2. **Încărcarea borcanelor:**
+   * Așază borcanele umplute cu mediul cald pe suport.
+   * ⚠️ **REGULĂ CRITICĂ:** **Nu strânge niciodată capacele ermetic!** Dacă le înfiletezi strâns, expansiunea termică a aerului le va sparge sau le va deforma garniturile. Lasă capacele libere pe filet (un sfert de tură desfăcute), astfel încât aerul să poată ieși liber.
+3. **Venting-ul (Evacuarea aerului — Pasul pe care mulți îl sar!):**
+   * Închide capacul oalei, dar **lasă valva de presiune deschisă** (sau scoate greutatea).
+   * Dă focul mare. Când din orificiu începe să iasă un jet continuu și puternic de abur („locomotiva”), **pornește cronometrul pentru 7–10 minute**.
+   * *De ce este vital?* Dacă în oală rămâne o pungă de aer amestecată cu abur, temperatura amestecului nu va atinge 121°C la 15 PSI! Trebuie să evacuezi tot aerul rece pentru a avea 100% abur saturat.
+4. **Presurizarea (Sterilizarea propriu-zisă):**
+   * După cele 7–10 minute de venting, pune greutatea pe valvă.
+   * Când oala atinge 15 PSI (greutatea începe să fâsâie ritmic), redu flacăra la minimul necesar pentru a menține presiunea constantă.
+   * **Timp de sterilizare:** **15–20 de minute** (pentru volume de până la 500 mL per recipient).
+5. **Răcirea naturală:**
+   * Oprește focul. **NU ridica valva și nu forța decompresia!** Dacă eliberezi brusc presiunea, mediul lichid din borcane va începe să fiarbă violent și va sări pe pereți sau va sparge sticla.
+   * Lasă oala să se răcească natural până când manometrul arată zero. Când o deschizi, dă-te pe mâini cu alcool 70% și **strânge rapid capacele borcanelor**.
 
 ---
 
-## ⚠️ Reguli de Aur
-1.  **Nu vorbi deasupra culturii:** Gura ta e un tun de bacterii. Poartă mască dacă chiar trebuie să vorbești (who knows, poate filmezi videouri pentru YouTube ;) ).
-2.  **Lucrează la distanță (visul tuturor):** În SAB, lucrează cât mai în spate, nu la marginea găurilor.
-3.  **Dacă ai dubii, aruncă:** Dacă vârful pensetei a atins mâneca halatului, sterilizează-l din nou. Nu risca. Pentru asta este bun de avut un glass beads sterilizer! Ah, și pro tip: între orice operațiune de manipulare înauntrul SAB, lasă-ți ustensilele în glass bead sterilizer. Dacă doamnele de la manichiură pot, cu siguranță și tu poți!
+## 🔪 2. Sterilizarea Instrumentarului și a Spațiului
+
+* **Spațiul de lucru (SAB):** Pulverizează pereții interiori ai cutiei cu **Alcool Izopropilic (IPA) 70%**.
+  * *Știința din spate:* Alcoolul de 70% este mai eficient decât cel de 99% deoarece conținutul de 30% apă încetinește evaporarea și permite moleculelor de alcool să penetreze peretele celular al bacteriilor, coagulându-le proteinele.
+* **Instrumentele metalice (Pensete, Bisturie):**
+  * Înfășoară-le în folie de aluminiu și sterilizează-le în oala sub presiune împreună cu borcanele.
+  * În timpul lucrului în SAB, folosește un sterilizator cu bile de sticlă (*Glass Bead Sterilizer* la 250°C timp de 10 secunde) pentru a re-steriliza vârfurile metalice între două tăieturi.
+
+---
+
+## 🌿 3. Sterilizarea Chimică a Plantei (Explantul)
+
+Pentru țesutul vegetal viu folosim soluții oxidante care distrug sporii de pe suprafață fără a ucide celulele interne ale plantei.
+
+### Rețeta Soluției Dezinfectante:
+1. **Hipoclorit de Sodiu (Clor de casă / ACE simplu):**
+   * Concentrație uzuală: **10% – 20%** soluție apoasă (10–20 mL clor + 80–90 mL apă distilată sterilă).
+2. **Surfactantul (Secretul eficienței):**
+   * Adaugă **o singură picătură de detergent de vase** (sau Tween 20) la 100 mL soluție.
+   * *Rol:* Apa are o tensiune superficială mare și formează picături care ocolesc micile crăpături și perișorii plantei. Detergentul sparge tensiunea de suprafață, permițând clorului să atingă fiecare micron de epidermă.
+
+---
+
+> [!CAUTION]
+> **REGULI ABSOLUTE DE SIGURANȚĂ (Incompatibilități Toxice):**  
+> Nu amesteca NICIODATĂ clorul cu alte substanțe:
+> * 🛑 **Clor + Oțet / Acizi:** Degajă **Gaz Clor pur** ($Cl_2$), extrem de toxic și caustic pentru căile respiratorii.
+> * 🛑 **Clor + Amoniac:** Produce **Cloramină**, un gaz sufocant și letal în spații închise.
+> * 🛑 **Clor + Alcool (IPA/Etanol):** Reacționează formând **Cloroform** și compuși toxici pentru ficat.
+
+---
+
+### Protocolul de Spălare a Explantului:
+
+1. **Spălarea mecanică (la chiuvetă):** Spală bucățile de plantă sub jet continuu de apă călduță timp de 15–20 de minute cu puțin săpun lichid pentru a îndepărta praful și pământul.
+2. **Dip rapid în alcool (în SAB):** Scufundă explantele în alcool **70% timp de 10–30 de secunde** pentru degresare și dezinfectare primară.
+3. **Baia principală de clor:**
+   * Transferă piesele în recipientul cu soluție de clor + surfactant.
+   * Agită periodic pe durata băii.
+   * **Ghid de timp:**
+     * Plante suculente/lemnoase (Monstera, Ficus, Bananier): **15–20 de minute**.
+     * Plante delicate/frunze subțiri (Drosera, Saintpaulia): **5–7 minute maxim** (dacă le lași mai mult, le decolorezi și le distrugi țesutul!).
+4. **Clătirea aseptică prelungită:**
+   * Scoate explantele cu penseta sterilă și trece-le prin **3 băi succesive de apă distilată sterilă** (câte 3–5 minute în fiecare). Clorul rezidual rămas pe țesut va inhiba creșterea celulară dacă nu este complet eliminat.
+5. **Fasonarea:** Taie marginile albite/arse de clor cu bisturiul steril și inoculează fragmentul sănătos în gel.

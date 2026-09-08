@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Fișă Checklist Laborator (Print-Friendly)
-description: "Fișă de lucru și checklist de laborator pentru activitatea sterilă in vitro acasă. Imprimă și bifează pașii pentru siguranță și sterilitate."
+description: "Fișă de lucru și checklist de laborator pentru activitatea sterilă in vitro acasă. Imprimă și bifează pașii pentru siguranță și sterilitate maximă."
 ---
 
-# 📋 Fișă de Lucru: Checklist Laborator (Print-Friendly)
+# 📋 Fișă de Lucru: Checklist de Laborator (Print-Friendly)
 
-Această fișă este concepută pentru a fi **imprimată** și luată cu tine în zona de lucru (bucătărie sau laborator). Respectarea fiecărui pas de sterilitate reduce șansele de contaminare de la 80% la sub 5%. 
+Această fișă este concepută pentru a fi **imprimată** și luată cu tine pe masa de lucru. Respectarea fiecărui pas de sterilitate reduce șansele de contaminare de la 80% la sub 5%.
 
-*💡 Sfat: Poți lamina această fișă și bifa pașii cu un marker nepermanent pentru a o reutiliza la fiecare ședință de lucru.*
+*💡 **Sfat practic:** Poți lamina această pagină sau o poți introduce într-o folie transparentă de plastic, bifând căsuțele cu un marker nepermanent pentru a o reutiliza la fiecare sesiune.*
 
 ---
 
@@ -58,13 +58,13 @@ Această fișă este concepută pentru a fi **imprimată** și luată cu tine î
   color: var(--text-main);
 }
 
-/* Print optimizations */
+/* Optimizare pentru Imprimare */
 @media print {
   body {
     background-color: white !important;
     color: black !important;
   }
-  .sidebar, #search-container, footer, .comments-section {
+  .sidebar, #search-container, footer, .comments-section, nav {
     display: none !important;
   }
   .main-content {
@@ -94,45 +94,47 @@ Această fișă este concepută pentru a fi **imprimată** și luată cu tine î
 
   <h2>1. 📦 Pregătirea Spațiului & Instrumentarului</h2>
   <ul class="checklist-list">
-    <li><input type="checkbox"> <strong>Materiale curate:</strong> Toate borcanele, caserolele PP, paharele de clătire și ustensilele au fost spălate cu apă caldă și detergent.</li>
-    <li><input type="checkbox"> <strong>Curățenie primară:</strong> Suprafața de lucru exterioară (masa, blatul) a fost curățată fizic și ștearsă cu dezinfectant.</li>
-    <li><input type="checkbox"> <strong>Pregătire lichide:</strong> Ai la îndemână apă distilată suficientă (minim 1-2 litri) și sticla cu spirt/alcool izopropilic 70%.</li>
-    <li><input type="checkbox"> <strong>Echipament de siguranță:</strong> Masca de față, ochelarii de protecție și mănușile de nitril sunt pregătite și ușor accesibile.</li>
+    <li><input type="checkbox"> <strong>Curățenia vaselor:</strong> Toate borcanele, paharele Berzelius, pensetele și bisturiele au fost spălate cu apă caldă și detergent.</li>
+    <li><input type="checkbox"> <strong>Igienizarea suprafeței:</strong> Masa de lucru și blatul au fost curățate mecanic și șterse cu dezinfectant.</li>
+    <li><input type="checkbox"> <strong>Stocul de apă distilată:</strong> Ai la îndemână minim 2–3 litri de apă distilată curată pentru preparare și clătiri sterile.</li>
+    <li><input type="checkbox"> <strong>Echipamentul de protecție (EIP):</strong> Mănușile de nitril, masca de față și ochelarii de protecție sunt pregătite pe masă.</li>
   </ul>
 
-  <h2>2. 🌬️ Dezinfectarea SAB (Still Air Box)</h2>
+  <h2>2. 🧪 Prepararea Mediilor & Autoclavarea</h2>
   <ul class="checklist-list">
-    <li><input type="checkbox"> <strong>Poziționare SAB:</strong> Cutia este așezată într-o cameră complet lipsită de curenți de aer (uși/ferestre închise, ventilatoare/AC oprite).</li>
-    <li><input type="checkbox"> <strong>Umezire pereți:</strong> Interiorul cutiei (tavanul, pereții laterali, podeaua) a fost pulverizat generos cu alcool 70%. Lichidul trebuie lăsat pe pereți (acesta acționează ca o capcană fizică pentru spori).</li>
-    <li><input type="checkbox"> <strong>Introducere unelte:</strong> Ustensilele metalice (pensete, bisturiu), paharele de sticlă pentru clătire și borcanele cu mediu au fost șterse cu spirt și introduse în cutie.</li>
-    <li><input type="checkbox"> <strong>Stabilizare aer:</strong> S-a lăsat SAB-ul nemișcat timp de minim 5-10 minute înainte de începerea inoculării (pentru ca toți sporii din interior să se așeze și să se lipească de pereți).</li>
+    <li><input type="checkbox"> <strong>Cântărire precisă:</strong> Ai dizolvat doza de pudră MS (4.4 g/L), zahărul (30 g/L) și hormonii stoc în ~800 mL apă distilată.</li>
+    <li><input type="checkbox"> <strong>Reglarea pH-ului (PAS CRITIC):</strong> Ai adus pH-ul la <strong>5.8</strong> cu KOH/HCl DUPĂ dizolvarea sărurilor, dar ÎNAINTE de adăugarea agarului.</li>
+    <li><input type="checkbox"> <strong>Activarea agarului:</strong> Ai adăugat 6–8 g/L agar și ai încălzit amestecul până când lichidul a devenit complet limpede.</li>
+    <li><input type="checkbox"> <strong>Turnarea în borcane:</strong> Ai turnat ~2–3 cm de mediu fierbinte în fiecare borcan.</li>
+    <li><input type="checkbox"> <strong>Capace libere pe filet:</strong> Capacele borcanelor NU sunt strânse ermetic (lăsate un sfert de tură desfăcute ca să respire).</li>
+    <li><input type="checkbox"> <strong>Venting la oală:</strong> Ai lăsat aburul să iasă liber din oala sub presiune timp de <strong>7–10 minute</strong> înainte de a pune greutatea pe valvă.</li>
+    <li><input type="checkbox"> <strong>Sterilizare la 15 PSI:</strong> Ai menținut presiunea la 15 PSI (121°C) timp de <strong>15–20 de minute</strong>.</li>
+    <li><input type="checkbox"> <strong>Răcire naturală & Înfiletare:</strong> Ai lăsat oala să se răcească complet fără decompresie forțată, iar la deschidere ai strâns rapid capacele.</li>
   </ul>
 
-  <h2>3. 🧪 Prepararea & Sterilizarea Mediului</h2>
+  <h2>3. 🧫 Organizarea în Still Air Box (SAB)</h2>
   <ul class="checklist-list">
-    <li><input type="checkbox"> <strong>Cântărire precisă:</strong> Sărurile MS, sucroza, agarul și hormonii (dacă e cazul) au fost cântăriți pe cântarul de precizie (0.01g).</li>
-    <li><input type="checkbox"> <strong>Ajustare pH:</strong> pH-ul a fost reglat la 5.7 - 5.8 folosind pH-metrul calibrat și soluții pH UP/DOWN, înainte de a topi agarul.</li>
-    <li><input type="checkbox"> <strong>Dizolvare totală:</strong> Amestecul a fost încălzit până când agarul a devenit perfect limpede/transparent.</li>
-    <li><input type="checkbox"> <strong>Turnare & Capace:</strong> Mediul a fost distribuit în borcane, iar capacele au fost puse și lăsate slab strânse (un sfert de tură înapoi) pentru a permite aburului să iasă.</li>
-    <li><input type="checkbox"> <strong>Sterilizare presiune:</strong> Recipientele au fost sterilizate în oală sub presiune timp de 15-20 de minute la 15 PSI (sau conform manualului oalei/multicooker-ului).</li>
-    <li><input type="checkbox"> <strong>Răcire sterilă:</strong> Capacele au fost strânse imediat după depresurizare completă (folosind mănuși), iar borcanele au fost așezate în SAB sau într-un loc curat pentru solidificare.</li>
+    <li><input type="checkbox"> <strong>Dezinfectarea cutiei:</strong> Ai pulverizat generos pereții interiori și fundul SAB-ului cu alcool izopropilic (IPA 70%).</li>
+    <li><input type="checkbox"> <strong>Pauza de evaporare (Anti-Flash Fire):</strong> Ai lăsat cutia deschisă 2–3 minute pentru dispersarea vaporilor inflamabili de alcool.</li>
+    <li><input type="checkbox"> <strong>Mise en place complet:</strong> Ai introdus în SAB borcanele cu gel, pensetele, bisturiul, suportul de tăiere steril și borcanele cu apă sterilă.</li>
+    <li><input type="checkbox"> <strong>Asepsia operatorului:</strong> Ai pus mănușile de nitril și le-ai frecat bine cu alcool 70% înainte de a introduce mâinile în cutie.</li>
   </ul>
 
-  <h2>4. 🔬 Inocularea (Lucrul steril în SAB)</h2>
+  <h2>4. ✂️ Sterilizarea Explantului & Inocularea</h2>
   <ul class="checklist-list">
-    <li><input type="checkbox"> <strong>Igienă personală:</strong> Mâinile și antebrațele sunt spălate cu săpun antibacterian și pulverizate din abundență cu alcool 70%. Mănușile sunt pulverizate repetat în timpul lucrului.</li>
-    <li><input type="checkbox"> <strong>Sterilizare chimică explant:</strong> Planta/explantul este spălat de pământ și scufundat în soluția de clor + Tween 20 conform timpului exact din protocolul specific speciei.</li>
-    <li><input type="checkbox"> <strong>Clătiri succesive:</strong> Explantul sterilizat este mutat exclusiv cu penseta sterilă prin 3 pahare succesive de apă distilată sterilă în interiorul SAB-ului.</li>
-    <li><input type="checkbox"> <strong>Mișcări controlate:</strong> Lucrezi încet, direct în centrul SAB-ului. Evită să treci mâinile deasupra recipientelor deschise și nu vorbi deasupra deschizăturilor.</li>
-    <li><input type="checkbox"> <strong>Ustensile sterile fierbinți:</strong> Bisturiul și penseta sunt trecute prin sterilizatorul cu cuarț (sau spălate cu alcool și uscate) între fiecare utilizare și răcite înainte de a atinge explantul.</li>
+    <li><input type="checkbox"> <strong>Prespălare mecanică:</strong> Ai spălat explantele sub jet domol de apă de la chiuvetă cu detergent timp de 15 minute.</li>
+    <li><input type="checkbox"> <strong>Dip în alcool:</strong> Ai trecut explantele timp de 10–30 secunde prin alcool 70%.</li>
+    <li><input type="checkbox"> <strong>Baia de clor + surfactant:</strong> Ai scufundat piesele în soluția de clor de casă 10–20% cu 1 picătură de detergent, respectând timpul exact per specie.</li>
+    <li><input type="checkbox"> <strong>Clătire triplă sterilă:</strong> Ai clătit piesele în 3 băi succesive de apă distilată sterilă în SAB.</li>
+    <li><input type="checkbox"> <strong>Fasonare aseptică:</strong> Ai tăiat marginile arse de clor cu o lamă sterilă de bisturiu.</li>
+    <li><input type="checkbox"> <strong>Regula unghiului de 45°:</strong> Ai deschis capacul borcanului doar parțial, fără a trece cu mâna peste gura recipientului, ai înfipt explantul și ai închis capacul etanș.</li>
   </ul>
 
-  <h2>5. 🧼 Curățenie & Monitorizare post-lucru</h2>
+  <h2>5. 🏷️ Post-Operare & Întreținere</h2>
   <ul class="checklist-list">
-    <li><input type="checkbox"> <strong>Etichetare clară:</strong> Toate borcanele inoculate au fost etichetate (Specie, Data, Rețeta/Hormoni, Status inițial).</li>
-    <li><input type="checkbox"> <strong>Curățare instrumentar metalic:</strong> Bisturiul și pensetele sunt spălate, uscate complet (pentru a evita rugina) și depozitate corespunzător.</li>
-    <li><input type="checkbox"> <strong>Raft de incubație:</strong> Borcanele sunt plasate sub lumini de creștere la temperaturi stabile (de preferat 22-26°C), departe de lumina directă a soarelui.</li>
-    <li><input type="checkbox"> <strong>Monitorizare infecții:</strong> Verifici borcanele zilnic timp de 2 săptămâni. Orice borcan care prezintă puf de mucegai sau colonii bacteriene este izolat și evacuat imediat pentru a nu infecta restul lotului.</li>
+    <li><input type="checkbox"> <strong>Etichetare clară:</strong> Ai scris pe fiecare borcan specia, compoziția mediului și data inoculării.</li>
+    <li><input type="checkbox"> <strong>Raft de creștere:</strong> Ai așezat borcanele la 22–25°C, sub iluminare LED de 16 ore lumină / 8 ore întuneric.</li>
+    <li><input type="checkbox"> <strong>Curățenie finală:</strong> Ai evacuat soluțiile reziduale la chiuvetă lăsând apa rece să curgă din abundență și ai curățat cutia SAB.</li>
   </ul>
 
 </div>

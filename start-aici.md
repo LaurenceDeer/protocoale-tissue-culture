@@ -6,9 +6,9 @@ description: "Ești la primul tău borcan? Pornește pe traseul de 30-60 de minu
 
 # 🚀 Start Aici: Traseul Începătorului
 
-Dacă micropropagarea (clonarea in vitro) îți pare complexă sau plină de termeni tehnici, ai ajuns unde trebuie. Am conceput un traseu simplu, de **30–60 de minute**, care te va trece de la zero la primul tău borcan steril, echipat cu tot ce ai nevoie pentru a nu da greș.
+Dacă ai aterizat aici și crezi că tissue culture înseamnă doar cercetători în halate albe care se uită în microscoape de 10.000€, respiră adânc. Se poate face lejer la tine în bucătărie sau în debara, fără să-ți vinzi un rinichi.
 
-Urmează pașii de mai jos în ordine:
+Traseul de mai jos e gândit să te treacă prin pașii esențiali fără să te înece în teorie inutilă. Ia-le în ordine, nu sări peste sterilizare (că altfel plângi după aia când vezi mucegaiul) și hai să scoatem primul tău borcan pe bune.
 
 <style>
 .start-timeline {
@@ -138,8 +138,8 @@ Urmează pașii de mai jos în ordine:
   <div class="start-step">
     <div class="step-num">1</div>
     <div class="step-content">
-      <h3>⚠️ Siguranța & Aspectele Legale</h3>
-      <p>Înainte de a porni oala sub presiune sau de a te juca cu alcoolul izopropilic și focul deschis, este esențial să înțelegi riscurile. Află, de asemenea, ce înseamnă Plant Breeders' Rights (PBR) pentru a clona responsabil și doar în scop personal.</p>
+      <h3>⚠️ Siguranța & Bunul Simț (Să nu-ți dai foc la bucătărie)</h3>
+      <p>Oala sub presiune la 15 PSI e o bombă mică dacă nu știi ce faci cu ea, iar vaporii de alcool izopropilic lângă o flacără deschisă nu iartă pe nimeni. Citește rapid avertismentul ca să știi ce chimicale să NU combini niciodată (gen clor cu oțet sau alcool) și cum stă treaba cu brevetele (PBR) ca să clonezi liniștit pentru tine acasă.</p>
       <a class="step-btn" href="./surse/Avertisment.html">🔗 Citește Avertismentul de Siguranță</a>
     </div>
   </div>
@@ -148,8 +148,8 @@ Urmează pașii de mai jos în ordine:
   <div class="start-step">
     <div class="step-num">2</div>
     <div class="step-content">
-      <h3>🧊 Primul Tău Borcan (Fără Investiții Scumpe)</h3>
-      <p>Începe cu tehnica "Absolute Zero" în bucătărie. Vei folosi o cutie de plastic simplă (SAB) ca spațiu steril, un agent de gelifiere comun (agar-agar de prăjituri) și zahăr. Scopul este să vezi dacă poți menține un mediu curat timp de 7-10 zile fără ca mucegaiul să apară.</p>
+      <h3>🧊 Primul Tău Borcan: Ghidul "Absolute Zero"</h3>
+      <p>Nu te arunca să cumperi chimicale scumpe din prima zi. Faci o cutie transparentă de plastic cu două găuri pentru mâini (SAB), iei agar de la supermarket, puțin zahăr și vezi dacă ești capabil să ții un borcan curat 7-10 zile. Dacă nu-ți crește o pădure de mucegai în el, felicitări: ai mână sterilă și poți trece la plante reale.</p>
       <a class="step-btn" href="./ghiduri/Absolute-Zero.html">🧊 Începe Ghidul "Absolute Zero"</a>
     </div>
   </div>
@@ -158,8 +158,8 @@ Urmează pașii de mai jos în ordine:
   <div class="start-step">
     <div class="step-num">3</div>
     <div class="step-content">
-      <h3>🧪 Prepararea Mediului Rezonabil (MS)</h3>
-      <p>Odată ce ai stăpânit tehnica de bază, trecem la nivelul următor: mediul complet Murashige & Skoog (MS). Aici vei învăța ordinea dizolvării ingredientelor, ajustarea riguroasă a pH-ului la 5.7 - 5.8 și sterilizarea prin autoclavare în oala sub presiune.</p>
+      <h3>🧪 Prepararea Mediilor (Bucătăria Chimică)</h3>
+      <p>Dacă borcanele de test au ieșit curate, trecem la „carnea și cartofii” micropropagării: mediul Murashige & Skoog (MS). Aici vezi rețeta pas cu pas, de ce trebuie neapărat reglat pH-ul la 5.8 (altfel nu se leagă gelul și planta moare de foame) și cum gătești borcanele în oala sub presiune fără să le spargi capacele.</p>
       <a class="step-btn" href="./ghiduri/PreparareMedii.html">🧪 Învață Prepararea Mediilor</a>
     </div>
   </div>
@@ -168,8 +168,8 @@ Urmează pașii de mai jos în ordine:
   <div class="start-step">
     <div class="step-num">4</div>
     <div class="step-content">
-      <h3>🧮 Calculatorul Interactiv de Medii & Hormoni</h3>
-      <p>Dozarea hormonilor (BAP, NAA, IBA) în micro-grame pe litru poate fi complicată și predispune la greșeli. Folosește calculatorul nostru interactiv conceput special pentru a-ți genera rețeta în funcție de volumul și diluțiile pe care le folosești.</p>
+      <h3>🧮 Calculatorul de Medii (Să nu-ți prinzi urechile în miligrame)</h3>
+      <p>Să calculezi 0.18 mg/L de hormon dintr-o soluție stoc de 1 mg/mL fără să greșești virgula e rețeta perfectă pentru dureri de cap. Am făcut un calculator interactiv moca pe site: bagi volumul de mediu pe care vrei să-l prepari și-ți zice exact câți mililitri de soluție stoc tragi cu seringa sau micropipeta.</p>
       <a class="step-btn btn-amber" href="./ghiduri/calculator.html">🧮 Deschide Calculatorul de Medii</a>
     </div>
   </div>
@@ -178,8 +178,8 @@ Urmează pașii de mai jos în ordine:
   <div class="start-step">
     <div class="step-num">5</div>
     <div class="step-content">
-      <h3>🌱 Primul Tău Protocol: Drosera Spatulata</h3>
-      <p>Ești gata pentru prima ta cultură reală in vitro. Drosera (Roua Cerului) este planta de antrenament ideală: semințele se sterilizează extrem de ușor în clor diluat, germinează rapid direct în borcan și produce zeci de clone mici pe care le poți diviza ulterior.</p>
+      <h3>🌱 Prima Plantă: Drosera (Cea mai iertătoare)</h3>
+      <p>Cea mai bună plantă pentru antrenament e <em>Drosera spatulata</em> (Roua Cerului). Semințele sunt extrem de rezistente și se spală ușor în clor fără să le distrugi, germinează rapid, nu cer niciun hormon (cresc de nebune pe MS simplu) și în 6 săptămâni ai zeci de mini-plante într-un singur recipient. E satisfacția de care ai nevoie ca să știi că metoda merge.</p>
       <a class="step-btn" href="./protocoale/drosera.html">🌱 Vezi Protocolul Drosera</a>
     </div>
   </div>
@@ -189,5 +189,6 @@ Urmează pașii de mai jos în ordine:
 ---
 
 > [!TIP]
-> * Pe parcursul călătoriei tale, ține mereu la îndemână secțiunea de **[Echipament & Aprovizionare](./surse/Aprovizionare.html)** pentru a ști exact de unde poți cumpăra unelte calitative de pe piața din România la cele mai bune prețuri.
-> * De asemenea, poți urmări în timp real progresul dezvoltării acestui hub direct pe pagina **[Plan de Dezvoltare & Roadmap](./ROADMAP.html)**.
+>
+> * Ai nevoie de scule sau chimicale din România și nu știi de unde să le iei fără să plătești vama din SUA? Aruncă un ochi pe lista de **[Aprovizionare & Echipamente](./surse/Aprovizionare.html)**.
+> * Dacă ești curios ce mai urmează să adaug pe site sau vrei să vezi ce specii sunt în lucru, verifică **[Roadmap-ul Public](./ROADMAP.html)**.

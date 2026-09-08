@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Centralizator Ghiduri
-description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la troubleshooting și reducerea contaminării."
+description: "Ghiduri pas-cu-pas pentru tissue culture acasă. De la prepararea mediilor și sterilizare, la chimie, toxicologie și reducerea contaminării."
 ---
 
 <style>
-/* Asta transformă textul simplu într-un card sexy */
+/* Stil interactiv pentru modulele de ghiduri */
 summary {
   cursor: pointer;
   padding: 15px;
@@ -50,57 +50,60 @@ details p, details ul {
   margin-left: 15px;
 }
 </style>
-# 📚 Ghiduri Pas-Cu-Pas & Documentație
-Bun venit în hub-ul activ de micropropagare. Aici găsești ghidurile noastre structurate pentru a începe cu succes clonarea in vitro direct acasă. Extindem baza de date și adăugăm noi materiale în mod gradual.
 
-Dacă ești la prima vizită, îți recomandăm cu insistență să începi parcurgerea traseului structurat: **[🚀 Start Aici: Traseul Începătorului](./start-aici.html)**.
+# 📚 Ghiduri Pas-Cu-Pas & Documentație Tehnică
+
+Aici găsești manualele practice de laborator concepute special pentru cultivarea plantelor in vitro la tine acasă. Fără jargon inutil, fără teorii sterile — doar tehnici verificate pe care le poți aplica direct în bucătărie sau în mini-laboratorul tău.
+
+Dacă ești complet la început de drum, îți recomandăm să începi cu traseul ghidat: **[🚀 Start Aici: Traseul Începătorului](./start-aici.html)**.
 
 ---
 
 <details markdown="1">
-  <summary><strong>Modulul 1: Chestiile de bază - pentru cine incepe astăzi.</strong></summary>
+  <summary><strong>Modulul 1: Fundamentele Practice (Pentru cine începe astăzi)</strong></summary>
     
-Astea sunt lucruri critice, fără să le stăpânești, ai șanse mari să eșuezi și să te intrebi "DE CE MI-O MURIT ORHIDEEA DE 100 DE LEI"
+Aici sunt noțiunile critice. Dacă le stăpânești pe acestea, elimini din start 90% din greșelile clasice de început:
 
-* [Ghidul "Absolute Zero" (Primul Tău Borcan)](./ghiduri/Absolute-Zero.html)
-* [Preparare Medii](./ghiduri/PreparareMedii.html)
+* [🧊 Ghidul "Absolute Zero" (Primul tău borcan sub 200 RON)](./ghiduri/Absolute-Zero.html)
+* [🧪 Prepararea Mediilor (Bucătăria Chimică)](./ghiduri/PreparareMedii.html)
 * [🧮 Calculator de Medii & Hormoni (Interactiv)](./ghiduri/calculator.html)
-* [SAB vs LFH](./ghiduri/SABvsLFH.html)
-* [Sterilizare](./ghiduri/Sterilizare.html)
+* [📦 SAB vs. LFH (Cutia cu aer mort vs. Hota cu flux laminar)](./ghiduri/SABvsLFH.html)
+* [☢️ Sterilizarea: Protocolul Zero](./ghiduri/Sterilizare.html)
   
 </details>
 
 <details markdown="1">
-  <summary><strong>Modulul 2: Știința din spate (Chimie și Biologie)</strong></summary>
+  <summary><strong>Modulul 2: Știința din Spate (Chimia și Biologia Hormonilor)</strong></summary>
   
-Aici intră chestiile tehnice explicate de oameni de știință / cercetători în lucrările publicate pe site-uri de genul Researchgate. Bune de știut pentru curioși ca mine.
+Înțelege mecanismele biologice ca să nu mai lucrezi pe ghicite:
 
-* [Reglatori de Creștere](./ghiduri/PGRs.html)
-* [Controlul pH-ului](./ghiduri/pH.html)
+* [🧬 Reglatorii de Creștere (PGRs: Auxine, Citochinine și Rapoarte)](./ghiduri/PGRs.html)
+* [🧪 Controlul pH-ului (De la calibrare la evitarea fenomenului de supică)](./ghiduri/pH.html)
 
 </details>
 
 <details markdown="1">
-  <summary><strong>Modulul 3: Tehnici și soft skills (finețuri)</strong></summary>
+  <summary><strong>Modulul 3: Tehnici Aseptice & Finețuri de Laborator</strong></summary>
   
-Astea vor face diferența dintre amatori și pro-playeri
+Detaliile care fac diferența dintre un borcan plin de lăstari sănătoși și o cultură compromisă de mucegai:
 
-* [Tips and Tricks despre Manipulare: Inocuitate](./ghiduri/Manipulare-Inocuitate.html)
-* [Reducerea Contaminării](./ghiduri/Contaminarea.html)
-* [Selecția Explantelor](./ghiduri/Selecție-Explante.html)
-* [Troubleshooting Vizual (Probleme și Soluții)](./ghiduri/Troubleshooting.html)
-* [Terminologie-Dicționar](./ghiduri/Dicționar.html)
+* [☠️ Toxicologie & Manipulare în Siguranță](./ghiduri/Manipulare-Inocuitate.html)
+* [🦠 Reducerea Contaminării (Tehnica de lucru în SAB)](./ghiduri/Contaminarea.html)
+* [✂️ Selecția Explantelor (Ce tai și de unde)](./ghiduri/Selecție-Explante.html)
+* [🚨 Troubleshooting Vizual (Ghid de diagnoză a problemelor)](./ghiduri/Troubleshooting.html)
+* [📋 Fișă de Lucru: Checklist Laborator (Print-Friendly)](./ghiduri/checklist-laborator.html)
+* [📖 Dicționarul Biohackerului (Terminologie RO-EN)](./ghiduri/Dicționar.html)
 
 </details>
 
 <details markdown="1">
-  <summary><strong>Modulul 4: Resurse (Meta-Learning)</strong></summary>
+  <summary><strong>Modulul 4: Resurse & Comunitate</strong></summary>
   
-Aici vor fi surse de informare de unde și eu mă informez pentru a vă aduce informațiile pe acest website.
+Surse de documentare științifică, canale recomandate și ghidul de contribuție deschisă:
 
-* [Reviste Științifice și Publicații](./surse/researchlinks.html)
-* [Sci-Hub Stuff (IYKYK)](./surse/SciHub.html)
-* [Cărți + PDF-uri](./surse/Cărți.html)
-* [Canale de Youtube](./surse/youtubechannels.html)
+* [🛒 Aprovizionare & Echipament](./surse/Aprovizionare.html)
+* [🔓 Acces la Lucrări Științifice (Sci-Hub)](./surse/SciHub.html)
+* [📺 Canale YouTube Recomandate](./surse/youtubechannels.html)
+* [🤝 Ghid de Contribuție](./surse/CONTRIBUTING.html)
 
 </details>

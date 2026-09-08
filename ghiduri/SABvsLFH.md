@@ -1,76 +1,74 @@
 ---
 layout: default
-title: SAB vs. LFH - Ori ieftin ori scump
-description: "Comparație detaliată între Still Air Box (SAB) și Laminar Flow Hood (LFH). Opțiuni pentru spațiul steril de lucru acasă."
+title: SAB vs. LFH - Cutia de Plastic vs. Hota Laminară
+description: "Comparație directă între Still Air Box (SAB) și Laminar Flow Hood (LFH). Află cum funcționează aerul mort și de ce cutia de 30 de lei oferă rată 0% de contaminare."
 ---
 
-# SAB vs. LFH: Cutia de Plastic vs. Wet Dream-ul Laboratorului
+# 📦 SAB vs. LFH: Cutia de Plastic vs. Hota cu Flux Laminar
 
-Cea mai mare barieră mentală în Tissue Culture este ideea că: *"Nu am laborator steril, deci nu pot să fac asta"* -> crede-mă pe cuvânt, abia m-am apucat de ceva din cauză că nu am 5000 de lei de investiție.
-Oricum, e total fals.
-Ai nevoie de un **Spațiu de Lucru Aseptic**, nu de un laborator NASA.
+> *Mitul suprem din tissue culture: „Nu am laborator profesional de 5000 de lei, deci nu pot clona plante”. Nimic mai fals.*
 
-Există două mari metode de a obține asta:
-1.  **SAB (Still Air Box):** Cutia cu găuri (Buget: 50 Lei, poate fi și mai mult dacă comanzi de pe net una de micologi).
-2.  **LFH (Laminar Flow Hood):** Hota cu flux laminar (Buget: 2000 - 5000+ Lei).
+Înainte de orice, trebuie să înțelegi o regulă simplă: plantele nu cer aparatură lucioasă din inox, ci cer un **spațiu de lucru aseptic** — adică o zonă în care sporii de mucegai și bacteriile din aer nu pot ateriza pe mediul tău de cultură.
+
+Există două căi principale prin care poți obține această barieră de protecție:
+1. **SAB (Still Air Box):** Cutia cu aer mort (Buget: **30 – 100 RON**).
+2. **LFH (Laminar Flow Hood):** Hota profesională cu flux laminar (Buget: **2.000 – 6.000+ RON**).
 
 ---
 
 ## 🆚 Tabel Comparativ Rapid
 
-| Caracteristică | 📦 SAB (Still Air Box) | 💨 LFH (Laminar Flow Hood) |
+| Criteriu | 📦 Still Air Box (SAB) | 💨 Laminar Flow Hood (LFH) |
 | :--- | :--- | :--- |
-| **Principiu Fizic** | **Gravitație** (Aerul stă pe loc, particulele cad) | **Flux Activ** (Aerul e împins prin filtru HEPA) |
-| **Cost** | 30 - 100 RON (DIY sau comandă) | 2000+ RON (DIY) / 5000+ RON (Pro) |
-| **Protecție** | Bună (dacă ai tehnică) | Excelentă (iartă greșelile) |
-| **Confort** | Scăzut (lucrezi prin găuri) | Maxim (lucrezi liber) |
-| **Nivel** | Începător -> Avansat | Pro / Comercial |
+| **Principiu Fizic** | **Gravitație** (Aerul stă nemișcat, sporii cad pe fundul cutiei) | **Flux Activ** (Aer filtrat HEPA suflat continuu spre exterior) |
+| **Cost Real** | **30 – 100 RON** (DIY dintr-o cutie transparentă) | **2.000 – 5.000+ RON** (DIY sau laborator comercial) |
+| **Rată de Succes** | **Excelentă** (95–100% dacă ai disciplină și mișcări lente) | **Maximă** (iartă mai multe mișcări neglijente) |
+| **Confort de Lucru** | Mediu (lucrezi prin cele două orificii pentru mâini) | Maxim (lucrezi liber pe un blat deschis) |
+| **Recomandat Pentru** | Începători, pasionați, micro-laboratoare de casă | Producție comercială în masă |
 
 ---
 
-## 📦 Ce este un SAB (Still Air Box)?
-Este literalmente o cutie transparentă (de depozitare, acvariu, etc.) cu două găuri pentru mâini.
-**Cum funcționează:**
-Principiul este **"Aerul Mort"**. Într-o cameră normală, curenții de aer transportă milioane de spori de mucegai și bacterii.
-În cutie, dacă aștepți 15-20 de minute după ce ai băgat mâinile, aerul se stabilizează. Gravitația își face treaba: praful și sporii se așază pe fundul cutiei.
-Cât timp nu faci mișcări bruște, aerul de deasupra spațiului de lucru rămâne steril.
+## 📦 Cum Funcționează un SAB (Still Air Box)?
 
-### ✅ Avantaje
-* **Ridicol de ieftin:** O cutie SAMLA (Ikea) sau de la Jysk.
-* **Eficient:** Mii de hobbyiști au clonat orhidee și plante carnivore așa.
-* **Portabil:** O bagi sub pat când termini, mai ales dacă e una pliabilă.
+SAB-ul este practic o cutie mare de plastic transparent (gen cutie de depozitare de 50–60L de la IKEA sau Dedeman) căreia îi dai două găuri pe o latură pentru a-ți introduce mâinile.
 
-### ❌ Dezavantaje
-* **Incomod:** Trebuie să lucrezi prin găuri, nu ai voie să te miști repede.
-* **Nu curăță aerul:** Doar îl izolează. Dacă ai strănutat înăuntru, s-a terminat.
+### Principiul „Aerului Mort”:
+Într-o cameră obișnuită, curenții invizibili de convecție plimbă milioane de particule de praf, spori de ciuperci și bacterii. Când așezi cutia SAB pe masă și lași aerul să se liniștească timp de 10–15 minute, turbulențele dispar complet. Gravitația își face datoria: toate particulele din cutie se depun pe fundul recipientului.
 
----
+Cât timp lucrezi cu mișcări line și orizontale, aerul din zona centrală a cutiei rămâne curat și inert.
 
-## 💨 Ce este un LFH (Laminar Flow Hood)?
-Este un aparat care suflă aer printr-un filtru **HEPA H13/H14** (care reține 99.99% din particule). Aerul iese într-un flux "laminar" (drept, fără turbulențe) spre tine.
-Practic, lucrezi într-un râu invizibil de aer steril care spală constant zona de lucru.
+### ✅ Avantajele SAB-ului:
+* **Cost infim:** Îl construiești în 15 minute cu sub 50 de lei.
+* **Fără piese în mișcare:** Zero filtre care trebuie schimbate, zero motoare care fac zgomot.
+* **Compact și portabil:** Când termini sesiunea de lucru, îl ștergi și îl pui pe un dulap sau sub pat.
 
-### ✅ Avantaje
-* **Libertate:** Poți sa te miști mai rapid decât un melc.
-* **Siguranță:** Chiar dacă bagi mâna murdară, fluxul de aer "spală" contaminarea (teoretic). Oricum urmăm protocolul și ne sterilizăm mâinile cu alcool isopropil 70%, NU??? (≖_≖ )
-* **Volum:** Poți procesa sute de borcane pe oră. (Glumesc, nu cred ca sunteți așa rapizi, dar vă provoc)
-
-### ❌ Dezavantaje
-* **Scump:** Filtrul HEPA singur costă 400-800 RON. Ventilatorul centrifugal e scump.
-* **Voluminos:** E o mobilă în toată regula, ai nevoie de spațiu specific de depozitare.
-* **Periculos (Dacă e DIY prost):** Dacă filtrul nu e etanșat perfect, suflă spori direct în borcanul tău, te-ai căcat pe toți pașii de dinainte.
+### ❌ Dezavantajele SAB-ului:
+* **Cere disciplină:** Dacă faci mișcări bruște de brațe sau scoți mâinile des, creezi curenți care sug aerul murdar din cameră.
+* **Nu purifică activ aerul:** SAB-ul nu filtrează aerul, ci doar îl izolează. Dacă ai strănutat în interior, trebuie să-l dezinfectezi complet din nou.
 
 ---
 
-## 🧠 Verdictul lui Laur
-Dacă ești student sau la început de drum: **FĂ-ȚI UN SAB.**
-Nu ai niciun motiv să investești mii de lei într-o hotă dacă nu produci plante pentru vânzare în masă.
-Un SAB bine construit și o tehnică bună de lucru (mișcări lente și în mare parte orizontale) te pot duce la **0% contaminare**.
+## 💨 Cum Funcționează o Hotă Laminară (LFH)?
 
-> **Sfat:** Investește banii economisiți în hormoni de calitate sau un pH-metru bun, nu în ventilatoare.
+LFH-ul folosește un ventilator centrifugal puternic care trage aer din cameră și îl forțează printr-un filtru **HEPA H14** (care oprește 99.995% din toate particulele mai mari de 0.3 microni).
 
-Dacă ai nevoie de un link către un produs ok, uite aici:
+Aerul iese din filtru într-o masă uniformă de linii paralele (flux laminar) cu o viteză constantă de ~0.45 m/s, spălând continuu suprafața de lucru și împingând orice contaminant departe de borcanul tău.
 
-* [Still Air Box de pe Amazon Germania](https://www.amazon.de/-/en/Mushroom-Growing-Professional-Unfolded-Foldable/dp/B0G587RXFS?crid=JHLBVX5BZJEK&dib=eyJ2IjoiMSJ9.uZ0zkwJHhVrPG3xyF-H1HSLSswS7I6kjCQQm-o5aSgZ43b2p8STreo2klxhXalrxXkxUBMPZkjZnQ8X3kvfwXXfklHJlEQImpjh_9Nn_Kc4.q1uQcqE8EIqfLdcgG2h48OjiCDdBNQFGvKdxayoABkU&dib_tag=se&keywords=Bella+Bora+Still+Air+Box&qid=1766956970&sprefix=bella+bora+still+air+box%2Caps%2C186&sr=8-2)
-* [Portable Still Air Box for Growing Mushrooms, de la Spore n' Sprout](https://www.youtube.com/watch?v=rYIWP9YUudA)
-* [How to Build a Home Tissue Culture Laboratory, de la împărăteasa Plants in Jars](https://www.youtube.com/watch?v=7FmwwR-vdNA&t=78s)
+### ✅ Avantajele LFH-ului:
+* **Libertate totală de mișcare:** Lucrezi comod, fără să fii restricționat de orificiile unei cutii.
+* **Viteză și volum:** Poți manipula și inocula zeci de borcane pe oră.
+
+### ❌ Dezavantajele LFH-ului:
+* **Investiție mare:** Numai un filtru HEPA de calitate costă 600–1.200 lei, la care se adaugă motorul centrifugal și structura din lemn/inox.
+* **Voluminoasă și grea:** Ocupă un spațiu permanent dedicat în încăpere.
+
+---
+
+## 🧠 Verdictul de Laborator: Cu ce începi?
+
+Dacă ești la început, student sau pasionat care vrea să cloneze zeci sau sute de plante: **FĂ-ȚI UN STILL AIR BOX.**
+
+Mii de biohackeri, micologi și cultivatori de orhidee din toată lumea operează cu succes de ani de zile exclusiv în SAB. Cu o tehnică aseptică corectă (vezi ghidul de [Manipulare și Inocuitate](./Manipulare-Inocuitate.html)), rata de contaminare poate fi lejer coborâtă la **0%**.
+
+> [!TIP]
+> **Recomandare financiară:** Economisește banii de hotă și investește-i într-un **pH-metru bun**, un set de **bisturie sterile**, un stoc curat de **săruri MS** și câțiva hormoni de calitate. Acelea vor avea un impact mult mai mare asupra sănătății plantelor tale!
