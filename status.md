@@ -20,6 +20,7 @@ Aici poți urmări evoluția hub-ului, modificările recente și istoricul lans�
 *   **Rescriere Protocoale de Micropropagare:** Trecerea tuturor celor 7 protocoale (`saintpaulia`, `musa`, `nepenthes`, `monstera`, `phalaenopsis`, `thuja`, `drosera`) și a paginii index la persoana a II-a singular (tutuire directă), limbaj practic de laborator / biohacker și eliminarea completă a formulărilor rigide/academice de AI. Păstrarea 100% intactă a datelor științifice (concentrații mg/L, pH, timpi, citări universitare).
 *   **Rescriere Ghiduri Tehnice & Practice:** De-robotizarea și optimizarea celor 13 ghiduri din `ghiduri/` (`Absolute-Zero`, `PreparareMedii`, `SABvsLFH`, `Sterilizare`, `pH`, `PGRs`, `Manipulare-Inocuitate`, `Contaminarea`, `Selecție-Explante`, `Troubleshooting`, `checklist-laborator`, `Dicționar`, `calculator`) și a centralizatorului `Ghiduri.md`.
 *   **Traseul Începătorului (`start-aici.md`):** Rafinarea completă a stepper-ului vizual și a pașilor de onboarding pentru începători.
+*   **Transparență AI (`surse/AI-Disclosure.md`):** Publicarea paginii dedicate de transparență privind utilizarea AI-ului ca asistent tehnic, subliniind verificarea umană 100% a formulelor, dozajelor și toxicologiei.
 
 ### v0.1.5 — Feed-uri Atom/RSS, Corecturi Linkuri & Optimizare SEO
 *Data: 6 Iulie 2026*

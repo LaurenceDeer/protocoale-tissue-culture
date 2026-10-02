@@ -104,6 +104,7 @@ Surse de documentare științifică, canale recomandate și ghidul de contribuț
 * [🛒 Aprovizionare & Echipament](./surse/Aprovizionare.html)
 * [🔓 Acces la Lucrări Științifice (Sci-Hub)](./surse/SciHub.html)
 * [📺 Canale YouTube Recomandate](./surse/youtubechannels.html)
+* [🤖 Transparență AI (Despre Utilizarea AI pe Acest Site)](./surse/AI-Disclosure.html)
 * [🤝 Ghid de Contribuție](./surse/CONTRIBUTING.html)
 
 </details>
